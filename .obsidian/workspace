@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7c18aabbb4c611c2",
+        "id": "9980ca74f1f1dabd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "WWI Women's Roles.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -45,6 +49,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "239cab1b08af7aa3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       },
@@ -58,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WWI Women's Roles.md"
+              }
             }
           }
         ]
@@ -83,6 +97,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c75e905734cdc73b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       },
@@ -97,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WWI Women's Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,11 +137,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 373
   },
-  "active": "7c18aabbb4c611c2",
+  "active": "9980ca74f1f1dabd",
   "lastOpenFiles": [
-    "+Home.md",
-    "Templates/Link&Tags&Title.md"
+    "WWI Women's Roles.md",
+    "WWI Allied Powers.md",
+    "WWI After The War.md",
+    "WWI.md",
+    "History.md",
+    "WWI Life Before The War.md",
+    "WWI Life During The War.md",
+    "Templates/Link&Tags&Title.md",
+    "WWI Preparing For War.md",
+    "WWI Central Powers.md"
   ]
 }
