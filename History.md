@@ -1,5 +1,4 @@
-Links: 
 Tags : 
 ___
 # History
-- [[WWI]] 
+- [[WW1 INDEX]] 

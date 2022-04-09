@@ -1,7 +1,6 @@
-Links : 
-Tags : #WWI #Roles
+Tags : #WW1 #Roles
 ___
-# WWI Women's Roles
+# WW1 Women's Roles
 Women are bringing their own paychecks, and are showing interest in the right to vote.
 
 During the War, Women took on the role of Patriotic mothers, and were the reason that men were fighting. Because so many jobs became vacant, women filled the spots and had to do work that they have never done before.

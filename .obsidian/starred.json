@@ -4,6 +4,11 @@
       "type": "file",
       "title": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "type": "file",
+      "title": "WWI INDEX",
+      "path": "WW1 INDEX.md"
     }
   ]
 }

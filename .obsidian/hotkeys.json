@@ -38,5 +38,13 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
   ]
 }
