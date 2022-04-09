@@ -7,12 +7,8 @@
         "id": "43cba203f1ea7d11",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "WW1 INDEX.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WW1 INDEX.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -122,14 +116,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WW1 INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -141,15 +134,15 @@
   },
   "active": "43cba203f1ea7d11",
   "lastOpenFiles": [
-    "WW1 INDEX.md",
-    "WW1 Preparing For War.md",
+    "WW1 Index.md",
+    "WW1 After The War.md",
     "WW1 Life During The War.md",
+    "WW1 Preparing For War.md",
     "WW1 Life Before The War.md",
     "WW1 Harlem Hellfighters.md",
     "WW1 Women's Roles.md",
     "WW1 Central Powers.md",
     "WW1 Allied Powers.md",
-    "WW2 Lesson 1 & 2 Vocabulary.md",
-    "WW1 After The War.md"
+    "WW1 Vocabulary.md"
   ]
 }

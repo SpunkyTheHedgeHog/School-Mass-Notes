@@ -1,6 +1,6 @@
-Tags : #WW1 
+Tags : #WW1 #Index 
 ___
-# WW1 INDEX
+# WW1 Index
 - [[WW1 Vocabulary]]
 
 - [[WW1 Allied Powers]]
@@ -13,3 +13,6 @@ ___
 - [[WW1 Preparing For War]]
 - [[WW1 Life During The War]]
 - [[WW1 After The War]]
+
+
+

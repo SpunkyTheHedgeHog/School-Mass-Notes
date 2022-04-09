@@ -1,4 +1,4 @@
-Tags :
+Tags : #Index 
 ___
 # Home
 - [[History]]

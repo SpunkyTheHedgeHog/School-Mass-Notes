@@ -1,4 +1,4 @@
-Tags : 
+Tags : #Index 
 ___
 # History
-- [[WW1 INDEX]] 
+- [[WW1 Index]] 

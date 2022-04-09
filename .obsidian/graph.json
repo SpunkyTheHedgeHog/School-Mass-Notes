@@ -1,12 +1,48 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:+Home",
+      "color": {
+        "a": 1,
+        "rgb": 15453067
+      }
+    },
+    {
+      "query": "Template",
+      "color": {
+        "a": 1,
+        "rgb": 4409695
+      }
+    },
+    {
+      "query": "#INDEX",
+      "color": {
+        "a": 1,
+        "rgb": 13666160
+      }
+    },
+    {
+      "query": "#Vocab",
+      "color": {
+        "a": 1,
+        "rgb": 8962256
+      }
+    },
+    {
+      "query": "#WW1",
+      "color": {
+        "a": 1,
+        "rgb": 11833005
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 86,
-  "scale": 0.7132754626224527,
+  "scale": 0.7132754626224539,
   "close": true
 }
