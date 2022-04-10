@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-Tags : #WW1 #Roles
+Tags : #WW1 #Roles #Inequality 
 ___
 # WW1 Women's Roles
 Women are bringing their own paychecks, and are showing interest in the right to vote.
@@ -19,4 +19,4 @@ Women who worked overseas were mainly Upper-Class and were able to be supported 
 - telephone operators
 - ambulance drivers
 
-There were a limited number of YMCA workers, people who read to the men, who served them in hospitality.
+There were a limited number of [[WW1 YMCA|YMCA]] workers, people who read to the men, who served them in hospitality.

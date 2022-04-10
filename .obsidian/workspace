@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae6a9f28ad71352f",
+        "id": "3984a3fabc4d4932",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "WW1 Life During The War.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Links",
+                "query": "tag:#WW1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +54,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7d03eae089efb0ed",
@@ -70,16 +67,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WW1 Life During The War.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "right": {
     "id": "7475349136694aca",
@@ -122,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WW1 Life During The War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +133,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "ae6a9f28ad71352f",
+  "active": "3984a3fabc4d4932",
   "lastOpenFiles": [
-    "WW1 Life During The War.md",
-    "WW1 Life Before The War.md",
-    "WW1 Harlem Hellfighters.md",
+    "Allotment Act.md",
+    "WW1 Native-Americans.md",
     "WW1 INDEX.md",
-    "No Man's Land.md",
-    "WW1 After The War.md",
-    "WW1 Central Powers.md",
-    "WW1 Preparing For War.md",
-    "Images/Trench Warfare Imagery.png",
-    "WW2 Lesson 1 & 2 Vocabulary.md"
+    "WW1 African Americans.md",
+    "Jim Crow.md",
+    "WW1 Red Summer.md",
+    "W.E.B Du Bois.md",
+    "WW2 Lesson 1 & 2 Vocabulary.md",
+    "WW1 YMCA.md",
+    "WW1 Women's Roles.md"
   ]
 }
