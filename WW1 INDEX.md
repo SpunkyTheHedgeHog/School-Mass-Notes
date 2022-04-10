@@ -1,3 +1,6 @@
+---
+aliases: WW1
+---
 Tags : #WW1 #Index 
 ___
 # WW1 Index
@@ -13,6 +16,5 @@ ___
 - [[WW1 Preparing For War]]
 - [[WW1 Life During The War]]
 - [[WW1 After The War]]
-
 
 

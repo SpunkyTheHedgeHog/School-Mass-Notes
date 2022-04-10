@@ -1,3 +1,6 @@
+---
+aliases: 
+---
 Tags : #WW2  #Vocabulary #Assignment
 ___
 # WW2 Vocabulary

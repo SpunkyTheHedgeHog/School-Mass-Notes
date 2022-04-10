@@ -1,3 +1,6 @@
+---
+aliases: 
+---
 Tags : #WW1 #Vocabulary 
 ___
 # WW1 Vocabulary

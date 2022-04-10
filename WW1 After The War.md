@@ -1,3 +1,6 @@
+---
+aliases: 
+---
 Tags : #WW1 #France #Britian #Russia #Germany #America
 ___
 # WW1 After The War

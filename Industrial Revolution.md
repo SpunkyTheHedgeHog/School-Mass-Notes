@@ -1,3 +1,6 @@
+---
+aliases: 
+---
 Tags : #Vocabulary 
 ___
 # Industrial Revolution

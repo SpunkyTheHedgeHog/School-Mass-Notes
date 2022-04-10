@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "43cba203f1ea7d11",
+        "id": "ae6a9f28ad71352f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "WW1 Life During The War.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WW1 Life During The War.md"
+              }
             }
           }
         ]
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WW1 Life During The War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +139,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "43cba203f1ea7d11",
+  "active": "ae6a9f28ad71352f",
   "lastOpenFiles": [
-    "WW1 Index.md",
-    "WW1 After The War.md",
     "WW1 Life During The War.md",
-    "WW1 Preparing For War.md",
     "WW1 Life Before The War.md",
     "WW1 Harlem Hellfighters.md",
-    "WW1 Women's Roles.md",
+    "WW1 INDEX.md",
+    "No Man's Land.md",
+    "WW1 After The War.md",
     "WW1 Central Powers.md",
-    "WW1 Allied Powers.md",
-    "WW1 Vocabulary.md"
+    "WW1 Preparing For War.md",
+    "Images/Trench Warfare Imagery.png",
+    "WW2 Lesson 1 & 2 Vocabulary.md"
   ]
 }

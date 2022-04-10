@@ -1,3 +1,6 @@
+---
+aliases: The Triple Entente
+---
 Tags : #WW1 #France #Britian #Russia #America 
 ___
 # WW1 Allied Powers

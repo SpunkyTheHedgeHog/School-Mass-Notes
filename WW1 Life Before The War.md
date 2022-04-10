@@ -1,3 +1,6 @@
+---
+aliases: 
+---
 Tags : #WW1
 ___
 # WW1 Life Before The War

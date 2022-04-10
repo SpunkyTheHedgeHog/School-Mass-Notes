@@ -1,3 +1,6 @@
+---
+aliases: 
+---
 Tags : #WW1 #America #Religion
 ___
 # WW1 Preparing For War
