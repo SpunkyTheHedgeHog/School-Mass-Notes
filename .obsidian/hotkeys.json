@@ -46,5 +46,13 @@
       ],
       "key": "Tab"
     }
+  ],
+  "various-complements:show-suggestions": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
   ]
 }

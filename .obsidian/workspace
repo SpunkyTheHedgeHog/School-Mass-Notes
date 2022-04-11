@@ -7,8 +7,12 @@
         "id": "3984a3fabc4d4932",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Industrial Revolution.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Industrial Revolution.md"
+              }
             }
           }
         ]
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Industrial Revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +141,15 @@
   },
   "active": "3984a3fabc4d4932",
   "lastOpenFiles": [
+    "Industrial Revolution.md",
+    "Militarism.md",
+    "WW1 INDEX.md",
+    "Entente.md",
     "WW1 Vocabulary.md",
     "Neutrality.md",
-    "WW1 INDEX.md",
     "Mobilize.md",
     "Ultimatum.md",
     "Alsace and Lorraine.md",
-    "Militarism.md",
-    "Imperialism.md",
-    "Entente.md",
-    "Allotment Act.md"
+    "Imperialism.md"
   ]
 }

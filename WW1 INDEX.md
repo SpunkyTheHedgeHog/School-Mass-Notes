@@ -19,6 +19,7 @@ ___
 > [[WW1 After The War]]
 
 ##### Vocabulary
+- [[Entente]] 
 - [[Imperialism]]
 - [[Militarism]]
 - [[Alsace and Lorraine]]
