@@ -1,12 +1,12 @@
 ---
 aliases: 
 ---
-Tags : #WW1 #France #Britian #Russia #Germany #America
+Tags : #WW1 #France #Britian #Russia #Germany #America #Roles
 ___
 # WW1 After The War
 The War was predilected to last far into **1920**, but unexpectedly, Germany Surrendered in **1918** because they could not hold off the [[WW1 Allied Powers|Allied Powers]]. An Armistice was Signed, an agreement to end fighting, on **November 11th, 1918**.
 
-The Soldiers come home to a country that has changed. The [[Industrial Revolution|economic boom]] is over and now their former jobs have been taken, meaning that the soldiers can't find work. They feel forgotten, and are mentally worn down and ill. Many experience Shell Shock/PTSD.
+The Soldiers come home to a country that has changed. The Men who stayed home became richer and women became more independent. Women were always told that they could not do certain jobs, but when they came back home, they were shocked that women were succefully doing them. The [[Industrial Revolution|economic boom]] is over and now their former jobs have been taken, meaning that the soldiers can't find work. They feel forgotten, and are mentally worn down and ill. Many experience Shell Shock/PTSD.
 The Soldiers did not receive any sort of check or bonus - *though it was promised* - there is no plan to reintegrate soldiers back into society, and the government was not prepared.
 
 This time transitioned into [[The Roaring Twenties]]

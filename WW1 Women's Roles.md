@@ -20,3 +20,8 @@ Women who worked overseas were mainly Upper-Class and were able to be supported 
 - ambulance drivers
 
 There were a limited number of [[WW1 YMCA|YMCA]] workers, people who read to the men, who served them in hospitality.
+
+Women became more Independent. Women were always told that they could not do certain jobs, but when they came back home, they were shocked that women were succefully doing them. 
+
+![[WW1 African Americans#^wr1]]
+![[WW1 African Americans#^wr2]]
