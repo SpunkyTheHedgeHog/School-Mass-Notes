@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#WW1",
+                "query": "tag:#Vocabulary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7d03eae089efb0ed",
@@ -135,15 +134,15 @@
   },
   "active": "3984a3fabc4d4932",
   "lastOpenFiles": [
-    "Allotment Act.md",
-    "WW1 Native-Americans.md",
+    "WW1 Vocabulary.md",
+    "Neutrality.md",
     "WW1 INDEX.md",
-    "WW1 African Americans.md",
-    "Jim Crow.md",
-    "WW1 Red Summer.md",
-    "W.E.B Du Bois.md",
-    "WW2 Lesson 1 & 2 Vocabulary.md",
-    "WW1 YMCA.md",
-    "WW1 Women's Roles.md"
+    "Mobilize.md",
+    "Ultimatum.md",
+    "Alsace and Lorraine.md",
+    "Militarism.md",
+    "Imperialism.md",
+    "Entente.md",
+    "Allotment Act.md"
   ]
 }

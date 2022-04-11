@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "#Vocab",
+      "query": "#Vocabulary",
       "color": {
         "a": 1,
         "rgb": 8962256
@@ -43,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 2.23589743589744,
-  "collapse-forces": true,
-  "centerStrength": 0.752136752136752,
-  "repelStrength": 14.1880341880342,
-  "linkStrength": 1,
+  "lineSizeMultiplier": 2.55,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 0.502808988764045,
   "linkDistance": 86,
-  "scale": 0.25883865621816843,
+  "scale": 0.71327546262246,
   "close": true
 }
