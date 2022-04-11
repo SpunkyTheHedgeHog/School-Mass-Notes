@@ -7,8 +7,12 @@
         "id": "3984a3fabc4d4932",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "WW1 Life During The War.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -37,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Vocabulary",
+                "query": "Mili",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7d03eae089efb0ed",
@@ -66,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WW1 Life During The War.md"
+              }
             }
           }
         ]
@@ -116,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WW1 Life During The War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +142,15 @@
   },
   "active": "3984a3fabc4d4932",
   "lastOpenFiles": [
-    "Allotment Act.md",
-    "WW1 INDEX.md",
-    "Militarism.md",
-    "Imperialism.md",
-    "Entente.md",
+    "WW1 Life During The War.md",
     "WW1 African Americans.md",
-    "WW1 After The War.md",
-    "WW1 YMCA.md",
+    "WW1 INDEX.md",
     "WW1 Native-Americans.md",
-    "WW1 Immigration.md"
+    "WW1 Women's Roles.md",
+    "Militarism.md",
+    "WW1 Vocabulary.md",
+    "Allotment Act.md",
+    "Imperialism.md",
+    "Entente.md"
   ]
 }
