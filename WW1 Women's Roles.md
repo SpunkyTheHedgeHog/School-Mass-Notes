@@ -4,6 +4,7 @@ aliases:
 Tags : #WW1 #Roles #Inequality 
 ___
 # WW1 Women's Roles
+##### Women's Contribution to the War
 Women are bringing their own paychecks, and are showing interest in the right to vote.
 
 During the War, Women took on the role of Patriotic mothers, and were the reason that men were fighting. Because so many jobs became vacant, women filled the spots and had to do work that they have never done before.
@@ -14,14 +15,13 @@ Women are working in the Navy as "Yeoman (F)", but later was changed to "Yeomane
 
 **This as a whole changed people's view on Women**. In **1920**, there was a Federal Amendment that granted all Women the right to vote.
 
+There were a limited number of [[WW1 YMCA|YMCA]] workers, people who read to the men, who served them in hospitality.
+
+Women became more Independent. Women were always told that they could not do certain jobs, but when they came back home, they were shocked that women were successfully doing them. 
+
+##### African American Women
+
 Women who worked overseas were mainly Upper-Class and were able to be supported by their families. **There were no opportunities for Black Women Overseas**, They were not allowed to
 - be nurses
 - telephone operators
 - ambulance drivers
-
-There were a limited number of [[WW1 YMCA|YMCA]] workers, people who read to the men, who served them in hospitality.
-
-Women became more Independent. Women were always told that they could not do certain jobs, but when they came back home, they were shocked that women were succefully doing them. 
-
-![[WW1 African Americans#^wr1]]
-![[WW1 African Americans#^wr2]]

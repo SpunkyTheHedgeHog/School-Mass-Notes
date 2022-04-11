@@ -22,7 +22,7 @@ German Immigrants were treated **harshly** :
 - German newspapers were forced to cancel.
 - Were tarred and feathered - by Mob groups.
 - Forced to kiss Americans flags - by Mob groups.
-- Their houses being painted yellow #Inquiry
+- Their houses being painted yellow so that they could be easily identified and further harassed.
 
 **1 In Every 5** soldiers in the US Armed Forces is an immigrant. Some immigrants thought that joining the Military was a path to citizenship. It was *believed* that bringing all the "Hyphenated Americans" together would make them all *just* Americans. Having immigrants in the Army was a mutual learning experience that created national unity.
 

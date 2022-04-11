@@ -13,10 +13,15 @@ ___
 > [[WW1 African Americans]]
 > [[WW1 Harlem Hellfighters]]
 
+>[[WW1 Red Summer]]
+
 > [[WW1 Life Before The War]]
 > [[WW1 Preparing For War]]
 > [[WW1 Life During The War]]
-> [[WW1 After The War]]
+> [[WW1 Life After The War]]
+
+##### Questions And Answers
+
 
 ##### Vocabulary
 - [[Entente]]

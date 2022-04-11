@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3984a3fabc4d4932",
+        "id": "2146a8d3cebca81b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WW1 Life During The War.md",
+            "file": "WW1 INDEX.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mili",
+                "query": "succefully",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7d03eae089efb0ed",
@@ -72,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WW1 Life During The War.md"
+                "file": "WW1 INDEX.md"
               }
             }
           }
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WW1 Life During The War.md",
+                "file": "WW1 INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +139,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "3984a3fabc4d4932",
+  "active": "2146a8d3cebca81b",
   "lastOpenFiles": [
-    "WW1 Life During The War.md",
-    "WW1 African Americans.md",
     "WW1 INDEX.md",
-    "WW1 Native-Americans.md",
+    "WW1 African Americans.md",
     "WW1 Women's Roles.md",
-    "Militarism.md",
-    "WW1 Vocabulary.md",
-    "Allotment Act.md",
-    "Imperialism.md",
-    "Entente.md"
+    "WW1 Life During The War.md",
+    "WW1 Life After The War.md",
+    "WW1 Preparing For War.md",
+    "WW1 Immigration.md",
+    "WW1 Red Summer.md",
+    "WW1 Life Before The War.md",
+    "WW1 Native-Americans.md"
   ]
 }
