@@ -12,7 +12,7 @@ ___
 
 Immigrant communities were diverse in their reaction to the war, some supported their home nations while others did not.
 
-German Immigrants were treated **harshly** :
+==German Immigrants were treated harshly== :
 - They were considered aliens.
 - Had to go down to police stations to get fingerprinted.
 - Forced to carry an identification card.
@@ -24,5 +24,5 @@ German Immigrants were treated **harshly** :
 - Forced to kiss Americans flags - by Mob groups.
 - Their houses being painted yellow so that they could be easily identified and further harassed.
 
-**1 In Every 5** soldiers in the US Armed Forces is an immigrant. Some immigrants thought that joining the Military was a path to citizenship. It was *believed* that bringing all the "Hyphenated Americans" together would make them all *just* Americans. Having immigrants in the Army was a mutual learning experience that created national unity.
+==1 In Every 5== soldiers in the US Armed Forces is an immigrant. Some immigrants thought that joining the Military was a path to citizenship. It was *believed* that bringing all the "Hyphenated Americans" together would make them all *just* Americans. Having immigrants in the Army was a mutual learning experience that created national unity.
 

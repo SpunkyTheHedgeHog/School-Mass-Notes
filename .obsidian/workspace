@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WW1 INDEX.md",
+            "file": "WW1 African Americans.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "succefully",
+                "query": "raised",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7d03eae089efb0ed",
@@ -71,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WW1 INDEX.md"
+                "file": "WW1 African Americans.md"
               }
             }
           }
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WW1 INDEX.md",
+                "file": "WW1 African Americans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +142,15 @@
   },
   "active": "2146a8d3cebca81b",
   "lastOpenFiles": [
-    "WW1 INDEX.md",
     "WW1 African Americans.md",
+    "WW1 Harlem Hellfighters.md",
+    "100% Americanism.md",
+    "WW1 Immigration.md",
+    "WW1 INDEX.md",
     "WW1 Women's Roles.md",
     "WW1 Life During The War.md",
     "WW1 Life After The War.md",
     "WW1 Preparing For War.md",
-    "WW1 Immigration.md",
-    "WW1 Red Summer.md",
-    "WW1 Life Before The War.md",
-    "WW1 Native-Americans.md"
+    "WW1 Red Summer.md"
   ]
 }
