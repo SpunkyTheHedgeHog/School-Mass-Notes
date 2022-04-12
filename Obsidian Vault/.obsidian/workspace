@@ -10,7 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "WW1 INDEX.md",
-            "mode": "preview",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3bdaa7290206ffde",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WW1 Red Summer.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -23,9 +35,35 @@
     "type": "split",
     "children": [
       {
+        "id": "c2c01c11a2c3a81a",
+        "type": "tabs",
+        "dimension": 30.823293172690764,
+        "children": [
+          {
+            "id": "debc52bca79e8c6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c75e905734cdc73b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "ece839bde5b60ab2",
         "type": "tabs",
-        "dimension": 69.97991967871486,
+        "dimension": 69.17670682730925,
         "children": [
           {
             "id": "3a622fd6f7c2d208",
@@ -57,73 +95,14 @@
               "type": "starred",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7d03eae089efb0ed",
-        "type": "tabs",
-        "dimension": 30.02008032128514,
-        "children": [
-          {
-            "id": "323a3e486c4f87d5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "WW1 INDEX.md"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 250.5
-  },
-  "right": {
-    "id": "7475349136694aca",
-    "type": "split",
-    "children": [
-      {
-        "id": "3a69f7860ebb1a6b",
-        "type": "tabs",
-        "dimension": 32.831325301204814,
-        "children": [
-          {
-            "id": "debc52bca79e8c6f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           },
-          {
-            "id": "c75e905734cdc73b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f5859f60fdda2576",
-        "type": "tabs",
-        "dimension": 67.16867469879519,
-        "children": [
           {
             "id": "82a238aadf239364",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WW1 INDEX.md",
+                "file": "WW1 Red Summer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,19 +117,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373
+    "width": 283.5
   },
-  "active": "2146a8d3cebca81b",
+  "right": {
+    "id": "7475349136694aca",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 373,
+    "collapsed": true
+  },
+  "active": "3bdaa7290206ffde",
   "lastOpenFiles": [
+    "WW1 Red Summer.md",
+    "White Supremacy.md",
     "WW1 INDEX.md",
+    "W.E.B Du Bois.md",
+    "Jim Crow.md",
     "WW1 African Americans.md",
     "WW1 Immigration.md",
     "WW1 Harlem Hellfighters.md",
     "100% Americanism.md",
-    "WW1 Harlem Hellfighters^43d15f.md",
-    "History.md",
-    "+Home.md",
-    "WW1 Native-Americans.md",
-    "WW1 Women's Roles.md"
+    "WW1 Harlem Hellfighters^43d15f.md"
   ]
 }

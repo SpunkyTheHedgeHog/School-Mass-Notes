@@ -41,7 +41,7 @@ ___
 >>SUMMARY
 >
 >African Americans as a people during the World War 1 Time period
->>SUMMARY
+>>At the time of entering the War, African-Americans are largely living in rural areas. Slavery has ended but [[Jim Crow]], a form of discrimination and racial segregation, has replaced it. Everyone is asked to conserve food, buy bonds, and support the war effort, **African-Americans raised an estimate of $250 million in war bonds**. There are many massacres against black people - it was the height of [[White Supremacy]], one of them being called the '[[WW1 Red Summer|Red Summer]]' of **1919**, in which there was bloodshed. [[W.E.B Du Bois]], goes to Europe to interview African-American troops, and learns a lot; He says `"We Return from Fighting. We Return Fighting"`.
 
 **Explain what difficulties average citizens went through in America during WWI.**
 >ANSWER
