@@ -32,13 +32,13 @@ ___
 
 **Give a brief summary of the experiences of each of these African American groups during World War I:**
 >African American Women
->>SUMMARY
+>>While non-African American Women had many opportunities, African American Women did not get the same chances and were instead prohibited from many jobs and  
 >
 >African American Soldiers that fought in American Units
->>SUMMARY
+>>African American Soldiers that were drafted into the army were treated with heavy discrimination #NeedsWork
 >
 >African American Soldiers that fought in French Units
->>SUMMARY
+>>When some African American Soldiers were transfered to the French Army were treated with much more respect #NeedsWork
 >
 >African Americans as a people during the World War 1 Time period
 >>At the time of entering the War, African-Americans are largely living in rural areas. Slavery has ended but [[Jim Crow]], a form of discrimination and racial segregation, has replaced it. Everyone is asked to conserve food, buy bonds, and support the war effort, **African-Americans raised an estimate of $250 million in war bonds**. There are many massacres against black people as it was the height of [[White Supremacy]], one of the massaces being called the '[[WW1 Red Summer|Red Summer]]' of **1919**. [[W.E.B Du Bois]], goes to Europe to interview African-American troops, and learns a lot; He declares `"We Return from Fighting. We Return Fighting"`.
