@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "3bdaa7290206ffde",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "WW1 Red Summer.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -37,7 +25,7 @@
       {
         "id": "c2c01c11a2c3a81a",
         "type": "tabs",
-        "dimension": 30.823293172690764,
+        "dimension": 30.82329317269076,
         "children": [
           {
             "id": "debc52bca79e8c6f",
@@ -63,7 +51,7 @@
       {
         "id": "ece839bde5b60ab2",
         "type": "tabs",
-        "dimension": 69.17670682730925,
+        "dimension": 69.17670682730923,
         "children": [
           {
             "id": "3a622fd6f7c2d208",
@@ -122,7 +110,24 @@
   "right": {
     "id": "7475349136694aca",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "b63ca14e36a2e6bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "236295415ff6db2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WW1 INDEX.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 373,
     "collapsed": true
@@ -130,6 +135,7 @@
   "active": "2146a8d3cebca81b",
   "lastOpenFiles": [
     "WW1 INDEX.md",
+    "Pacifism.md",
     "WW1 Red Summer.md",
     "White Supremacy.md",
     "W.E.B Du Bois.md",
@@ -137,7 +143,6 @@
     "WW1 African Americans.md",
     "WW1 Immigration.md",
     "WW1 Harlem Hellfighters.md",
-    "100% Americanism.md",
-    "WW1 Harlem Hellfighters^43d15f.md"
+    "100% Americanism.md"
   ]
 }
