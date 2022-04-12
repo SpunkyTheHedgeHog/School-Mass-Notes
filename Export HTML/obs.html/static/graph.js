@@ -40,7 +40,7 @@ function run(uid, pinnedNode){
             .force("charge", d3.forceManyBody().strength(-100))
             .force("center", d3.forceCenter(width / 2, height / 2))
 
-        d3.json("/Export HTML/obs.html/data/graph.json", function(error, graph) {
+        d3.json("/School-Mass-Notes/Export HTML/obs.html/data/graph.json", function(error, graph) {
                 if (error) throw error;
 
 
@@ -96,7 +96,7 @@ function run(uid, pinnedNode){
                 }
                 else {
                         lables.on("click", function(d) {
-                                window.location.href = '/Export HTML/'+d.url;
+                                window.location.href = '/School-Mass-Notes/Export HTML/'+d.url;
                                 return false;
                         });
                 }
