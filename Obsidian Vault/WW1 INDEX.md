@@ -20,10 +20,10 @@ ___
 > [[WW1 Life During The War]]
 > [[WW1 Life After The War]]
 
-##### Questions And Answers
+#### Questions And Answers
 
 
-##### Vocabulary
+#### Vocabulary
 - [[Entente]]
 - [[Imperialism]]
 - [[Militarism]]
