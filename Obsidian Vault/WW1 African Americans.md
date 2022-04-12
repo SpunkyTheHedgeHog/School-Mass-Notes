@@ -14,6 +14,6 @@ The War creates both obligations and opportunities. Everyone is asked to conserv
 
 It was heavily debated if African-Americans should participate in the Military. Many were given labor intensive jobs in dangerous areas without proper defenses. One of the worst jobs were the **Graves Registration Service**.
 
-![[WW1 Harlem Hellfighters^88cbb1]]
+![[WW1 Harlem Hellfighters#WW1 Harlem Hellfighters]]
 
 ![[WW1 Red Summer#WW1 Red Summer]]

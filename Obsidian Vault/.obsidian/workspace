@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "ab634c28ba024b49",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "WW1 Harlem Hellfighters.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -53,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#####",
+                "query": "^",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,14 +143,14 @@
   "active": "2146a8d3cebca81b",
   "lastOpenFiles": [
     "WW1 African Americans.md",
-    "WW1 Harlem Hellfighters.md",
-    "WW1 Harlem Hellfighters^43d15f.md",
-    "WW1 Immigration.md",
     "WW1 INDEX.md",
+    "WW1 Immigration.md",
+    "WW1 Harlem Hellfighters.md",
+    "100% Americanism.md",
+    "WW1 Harlem Hellfighters^43d15f.md",
     "History.md",
     "+Home.md",
     "WW1 Native-Americans.md",
-    "WW1 Women's Roles.md",
-    "WW1 Life After The War.md"
+    "WW1 Women's Roles.md"
   ]
 }
