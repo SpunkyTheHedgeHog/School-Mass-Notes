@@ -4,22 +4,22 @@ aliases: WW1
 Tags : #WW1 #Index #America #France #Britian #Russia #Germany #Austria_Hungary #Ottoman_Empire
 ___
 # WW1 Index
-> [[WW1 Allied Powers]]
-> [[WW1 Central Powers]]
+> [[WW1 Allied Powers|Allied Powers]]
+> [[WW1 Central Powers|Central Powers]]
 
-> [[WW1 Women's Roles]]
-> [[WW1 Immigration]]
-> [[WW1 Native-Americans]]
-> [[WW1 African Americans]]
-> [[WW1 Harlem Hellfighters]]
+> [[WW1 Women's Roles|Women's Roles]]
+> [[WW1 Immigration|Immigration]]
+> [[WW1 Native-Americans|Native-Americans]]
+> [[WW1 African Americans|African Americans]]
+> [[WW1 Harlem Hellfighters|Harlem Hellfighters]]
 
-> [[WW1 Red Summer]]
+> [[WW1 Red Summer|Red Summer]]
 
-> [[WW1 Life Before The War]]
-> [[Pacifism#Pacifism in World War 1]]
-> [[WW1 Preparing For War]]
-> [[WW1 Life During The War]]
-> [[WW1 Life After The War]]
+> [[WW1 Life Before The War|Life Before The War]]
+> [[Pacifism#Pacifism in World War 1|Pacifism]]
+> [[WW1 Preparing For War|Preparing For War]]
+> [[WW1 Life During The War|Life During The War]]
+> [[WW1 Life After The War|Life After The War]]
 #### Questions, Answers, & Summaries
 **Who benefited from the War?**
 > The average citizen did not benefit from the war at all, the only people that benefited from the war was high-ranking government officials.
