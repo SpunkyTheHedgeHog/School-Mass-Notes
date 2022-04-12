@@ -8,7 +8,7 @@ ___
 
 [[Woodrow Wilson|President Woodrow Wilson]] urges Americans to avoid violently taking sides afraid that the different ethnicities will line up against each other. His goal is to create what he calls **[[100% Americanism]]**, which he hopes will be a key factor in winning the war.
 
-![[100% Americanism#^0fdb17]]
+![[100% Americanism^0fdb17]]
 
 Immigrant communities were diverse in their reaction to the war, some supported their home nations while others did not.
 
