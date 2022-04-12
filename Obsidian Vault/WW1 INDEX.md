@@ -13,14 +13,18 @@ ___
 > [[WW1 African Americans]]
 > [[WW1 Harlem Hellfighters]]
 
->[[WW1 Red Summer]]
+> [[WW1 Red Summer]]
 
 > [[WW1 Life Before The War]]
+> [[Pacifism#Pacifism in World War 1]]
 > [[WW1 Preparing For War]]
 > [[WW1 Life During The War]]
 > [[WW1 Life After The War]]
 
 #### Questions, Answers, & Summaries
+**Who benifited from the War?**
+> The average citizen did not benifit from the war at all, the only people that benifited from the war was high-ranking government officals.
+
 **Why were German Immigrant Houses Painted Yellow?**
 >German Immigrants were treated harshly in America, constantly being harassed. To make harassing them easier, Americans painted their houses in yellow so that they were easy to identify and pick out. Yellow is a bright color.
 
