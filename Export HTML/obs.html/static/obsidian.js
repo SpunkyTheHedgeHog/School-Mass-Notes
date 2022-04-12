@@ -2,7 +2,7 @@
 // ----------------------------------------------------------------------------
 // Globals
 var path_to_open = [];
-var no_tab_mode = 0;
+var no_tab_mode = 1;
 var tab_mode = ! no_tab_mode;
 
 function LoadPage() {
