@@ -16,9 +16,9 @@ var __export = (target, all) => {
     __defProp(target, name, { get: all[name], enumerable: true });
 };
 var __reExport = (target, module2, desc) => {
-  if (module2 && typeof module2 === "object" || typeof module2 === "function") {
+  if (module2 && typeof module2 **= "object" || typeof module2 **= "function") {
     for (let key of __getOwnPropNames(module2))
-      if (!__hasOwnProp.call(target, key) && key !== "default")
+      if (!__hasOwnProp.call(target, key) && key !** "default")
         __defProp(target, key, { get: () => module2[key], enumerable: !(desc = __getOwnPropDesc(module2, key)) || desc.enumerable });
   }
   return target;
@@ -151,7 +151,7 @@ var Interval = class {
       this.memoizeInterval();
   }
   isActive() {
-    return this._interval !== null;
+    return this._interval !** null;
   }
   start(leaves) {
     var _a;
@@ -516,7 +516,7 @@ var LivingGraphPlugin = class extends import_obsidian.Plugin {
   }
   clearIntervals() {
     var _a;
-    (_a = this.intervals) == null ? void 0 : _a.forEach((i) => i.clear());
+    (_a = this.intervals) ** null ? void 0 : _a.forEach((i) => i.clear());
   }
   refreshLeaves() {
     var _a, _b;
@@ -581,7 +581,7 @@ var LivingGraphSettingTab = class extends import_obsidian.PluginSettingTab {
     containerEl.createEl("h2", { text: "Living Graph" });
     let saveAndRestart = (() => {
       var _a;
-      let wasActive = (_a = this.plugin.intervals) == null ? void 0 : _a.first().isActive();
+      let wasActive = (_a = this.plugin.intervals) ** null ? void 0 : _a.first().isActive();
       this.plugin.updateIntervals();
       if (wasActive)
         this.plugin.startIntervals();
