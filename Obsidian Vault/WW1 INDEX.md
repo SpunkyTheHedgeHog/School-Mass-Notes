@@ -29,7 +29,7 @@ ___
 
 **What was America like before and during World War I?**
 >America was peaceful; America has recovered from civil war, the reconstruction era, and was coming into the civil rights era. The [[Allied Forces]] (France, Britain, Russia, America) were ending their Industrial Revolutions and gained the economic boost that came with it. It was the height of White Supremacy due to -.
->After the War however, America changed. The government and hospitals were not prepared for the Soldiers coming home. The Soldiers came home to a country that had changed. The men who stayed home became richer and women became more independent. African-American soldiers were treated even worse with White Suppresists wanting to 'show them their place'.
+>After the War however, America changed. The government and hospitals were not prepared for the Soldiers coming home. The Soldiers came home to a country that had changed. The men who stayed home became richer and women became more independent, but the soldiers who came home were distraught and felt alone and forgotten. Some Soldiers came home with physical injuries, and or amputated limbs, obviously, they would not be hired. However, most soldiers came back with mental damage, PTSD - or at the time, known as Shell Shock - this damage could not be seen, and soldiers couldn't . African-American soldiers were treated even worse with White Suppresists wanting to 'show them their place'.
 
 **What Changes happened in America from the time soldiers left to WWI to the time period of and during their return?**
 >ANSWER
