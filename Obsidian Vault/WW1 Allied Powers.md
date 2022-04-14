@@ -1,5 +1,5 @@
 ---
-aliases: The Triple Entente
+aliases: The Triple Entente, Allied Forces
 ---
 Tags : #WW1 #France #Britian #Russia #America 
 ___
