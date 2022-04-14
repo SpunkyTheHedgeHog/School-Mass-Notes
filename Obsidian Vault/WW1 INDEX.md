@@ -28,21 +28,21 @@ ___
 >German Immigrants were treated harshly in America, constantly being harassed. To make harassing them easier, Americans painted their houses in yellow so that they were easy to identify and pick out. Yellow is a bright color.
 
 **What was America like before and during World War I?**
->America was peacful; America has recovered from civil war, the reconstruction era, and was coming into the civil rights era. The [[Allied Forces]] (France, Britian, Russia, America) were ending their Industrial Revolutions and gained the economic boost that came with it. It was the height of White Supremacy due to -.
->After the War however, Amemrica changed. The government and hospitals were not perpared for the Soldiers coming home. The Soldiers came home to a country that had changed. The men who stayed home became richer and women became more independent. African-American soilders were treated even worse.
+>America was peaceful; America has recovered from civil war, the reconstruction era, and was coming into the civil rights era. The [[Allied Forces]] (France, Britain, Russia, America) were ending their Industrial Revolutions and gained the economic boost that came with it. It was the height of White Supremacy due to -.
+>After the War however, America changed. The government and hospitals were not prepared for the Soldiers coming home. The Soldiers came home to a country that had changed. The men who stayed home became richer and women became more independent. African-American soldiers were treated even worse.
 
 **What Changes happened in America from the time soldiers left to WWI to the time period of and during their return?**
 >ANSWER
 
 **Give a brief summary of the experiences of each of these African American groups during World War I:**
 >African American Women
->>While non-African American Women had many opportunities, African American Women did not get the same chances and were instead prohibited from many jobs. Only 2 of them were allowed to use their nursing porfession in Europe. Instead, of being allowed to help, they were only allowed to advertise war bonds - in which help of 
+>>While non-African American Women had many opportunities, African American Women did not get the same chances and were instead prohibited from many jobs. Only 2 of them were allowed to use their nursing profession in Europe. Instead, of being allowed to help, they were only allowed to advertise war bonds - in which help of 
 >
 >African American Soldiers that fought in American Units
->>African American Soldiers that were drafted into the army were treated with heavy discrimination. The gernerals gave labor intensive jobs to African-Americans, many in danguorus situations. In addition, they did not have any protection in these situtions - which many were close to enemy lines.
+>>African American Soldiers that were drafted into the army were treated with heavy discrimination. The generals gave labor intensive jobs to African-Americans, many in dangerous situations. In addition, they did not have any protection in these situations - which many were close to enemy lines.
 >
 >African American Soldiers that fought in French Units
->>When some African American Soldiers were transferred to the French Army were treated with much more respect and based off of their work ethic. The Harlem Hell fighters -. When they came back, America did not honor those medals and made up lies saying that they were rapists and did not follow orders ([[White Supreminism]] was at an all time high).
+>>When some African American Soldiers were transferred to the French Army were treated with much more respect and based off of their work ethic. The Harlem Hell fighters -. When they came back, America did not honor those medals and made up lies saying that they were rapists and did not follow orders ([[White Supremacy]] was at an all time high).
 >
 >African Americans as a people during the World War 1 Time period
 >>At the time of entering the War, African-Americans are largely living in rural areas. Slavery has ended but [[Jim Crow]], a form of discrimination and racial segregation, has replaced it. Everyone is asked to conserve food, buy bonds, and support the war effort, **African-Americans raised an estimate of $250 million in war bonds**. There are many massacres against black people as it was the height of [[White Supremacy]], one of the massacres being called the '[[WW1 Red Summer|Red Summer]]' of **1919**. [[W.E.B Du Bois]], goes to Europe to interview African-American troops, and learns a lot; He declares `"We Return from Fighting. We Return Fighting"`.
