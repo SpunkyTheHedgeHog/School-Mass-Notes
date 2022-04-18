@@ -12,4 +12,6 @@ America stayed neutral to the War, and engaged in trade with Europe. (This later
 
 America was considering joining the war because Germany sunk the Lusitania (a trade ship). Germany was sinking out ships because America was bringing supplies to the Allied forces. While America did warn Germany to stop sinking their ships, Germany decided it would be a better option to stop the trade.
 
+Citizens were encouraged to use less meat and wheat, and instead use ingredients like fish, beans, and corn.
+
 ![[WW1 Women's Roles#Women's Contribution to the War]]

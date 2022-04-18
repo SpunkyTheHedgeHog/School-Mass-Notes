@@ -16,24 +16,12 @@
         }
       },
       {
-        "id": "84634b70a2b2c1fa",
+        "id": "12ca09f344335625",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WW1 Life During The War.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6b6ebf90f570023c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "WW1 Immigration.md",
+            "file": "WW1 African Americans.md",
             "mode": "source",
             "source": false
           }
@@ -171,14 +159,14 @@
   "active": "2146a8d3cebca81b",
   "lastOpenFiles": [
     "WW1 INDEX.md",
+    "WW1 African Americans.md",
+    "War Bonds.md",
+    "WW1 Women's Roles.md",
+    "WW1 Native-Americans.md",
+    "WW1 Immigration.md",
+    "WW1 Life During The War.md",
     "WW1 Preparing For War.md",
     "White Supremacy.md",
-    "Militarism.md",
-    "WW1 Life During The War.md",
-    "WW1 Immigration.md",
-    "100% Americanism.md",
-    "Woodrow Wilson.md",
-    "WW1 Life Before The War.md",
-    "WW1 Life After The War.md"
+    "Militarism.md"
   ]
 }
