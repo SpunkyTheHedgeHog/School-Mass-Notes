@@ -25,14 +25,18 @@ ___
 The average citizen did not benefit from the war at all, the only people that benefited from the war was high-ranking government officials.
 
 #### **Why were German Immigrant Houses Painted Yellow?**
-German Immigrants were treated harshly in America, constantly being harassed. To make harassing them easier, Americans painted their houses in yellow so that they were easy to identify and pick out. Yellow is a bright color.
+German Immigrants were treated harshly in America, constantly being harassed. To make harassing them easier, Americans painted/tagged their houses in yellow so that they were easy to identify and pick out - target. Yellow is a bright color.
 
 #### **What was America like before and during World War I?**
 America before the war was in a 'golden age', they were experiencing an optimistic future, and were trying to avoid war as much as possible. However, during the war, America had to adjust and compensate for the situation. There were many social changes that were brought on.
 
-Before the war, America was peaceful; America had recovered from the civil war, the reconstruction era, and was coming into the civil rights era. The [[WW1 Allied Powers|Allied Forces]] (France, Britain, Russia, America) were ending their [[Industrial Revolution|Industrial Revolutions]] and gained the economic boost that came with it (plus [[Imperialism]]). It was the height of [[White Supremacy]] due to -.
+[[WW1 Life Before The War|Before the war]], America was peaceful; America had recovered from the civil war, the reconstruction era, and was coming into the civil rights era. The [[WW1 Allied Powers|Allied Forces]] (France, Britain, Russia, America) were ending their [[Industrial Revolution|Industrial Revolutions]] and gained the economic boost that came with it (plus [[Imperialism]]). It was the height of [[White Supremacy]] due to -.
 
-aa
+[[WW1 Life During The War|During the War]], America had to crack down on many aspects of it's self, such as peoples' lack of motivation. In efforts to get the United States as a whole to be more united `(see what I did there?)`, [[Woodrow Wilson|President Woodrow Wilson]],  used what he called [[100% Americanism]], which was the concept that [[WW1 Immigration|American Immigrants]] must "renounce any sort of ties to their homelands; political ties, cultural ties, economic ties to be considered 100% loyal." i.e. 100% National Unity. [[Militarism]] (Glorification of the Military) was a key part in getting people motivated for the War and keeping moral high. Instances of Militarism such as making people feel like losers for not joining the Military and flexing of weaponry contributed to the War.
+
+America, also in means of supporting the War effort, 
+
+In [[WW1 Preparing For War|preparing for the war]], America went from only 300 thousand men in their army to 4 million. When The United States adopted the Draft, it opened up for Conscientious Objection, in which someone who is drafted tells the government that they cannot serve for religious or other reasons. 65,000 men claimed conscientious objection, and for it they received bullying, physical violence, and in some cases prosecution. They were considered a danger to the War effort. Many could not get jobs and were being rejected. Laws were made to make it illegal to criticize the government or the war effort. People who objected went to prison, received a record, and were released after the end of the War - but the consequences could last long after.
 
 #### **What Changes happened in America from the time soldiers left to WWI to the time period of and during their return?**
 America before the war was in a 'golden age', they were experiencing an optimistic future, and were trying to avoid war as much as possible. However, at the time the soldiers came back home, America was very different, there were many social changes and many people were left in distraught.

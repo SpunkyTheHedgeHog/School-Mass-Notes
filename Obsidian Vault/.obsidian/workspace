@@ -14,6 +14,30 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "84634b70a2b2c1fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WW1 Life During The War.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6b6ebf90f570023c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WW1 Immigration.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,14 +172,14 @@
   "active": "2146a8d3cebca81b",
   "lastOpenFiles": [
     "WW1 INDEX.md",
-    "WW1 Life After The War.md",
     "WW1 Preparing For War.md",
-    "War Bonds.md",
-    "WW1 Life Before The War.md",
-    "Imperialism.md",
     "White Supremacy.md",
-    "Pacifism.md",
-    "WW1 Red Summer.md",
-    "W.E.B Du Bois.md"
+    "Militarism.md",
+    "WW1 Life During The War.md",
+    "WW1 Immigration.md",
+    "100% Americanism.md",
+    "Woodrow Wilson.md",
+    "WW1 Life Before The War.md",
+    "WW1 Life After The War.md"
   ]
 }
