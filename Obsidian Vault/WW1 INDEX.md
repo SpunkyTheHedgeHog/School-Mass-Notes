@@ -80,7 +80,9 @@ At the time of entering the War, African-Americans were largely living in rural 
 
 [[WW1 Life After The War|After the War]], African-American soldiers were treated even worse with [[White Supremacy|White Supremacists]] wanting to 'show them their place'. Many African-American's who earned medals did not receive them and wouldn't for many years, either until much after the war, or until they were dead. 
 ### **Explain what difficulties average citizens went through in America during WWI.**
-ANSWER
+While many Americans went to war, citizens back home had to deal with their own set of problems :
+
+
 ### **What changes happened for and in women as a result of and during WWI?**
 [[WW1 Women's Roles|Women's roles]] changed drastically. During the war, Women took on many jobs that were considered masculine (such as Typists, Telephone Operators (Signal Corp), Civilian Contractors), so when men came home, they did not expect women to be doing 'their' jobs, and were shocked. Women now were considered formal members of the Armed Services; Expectations of Women changed, Women gained respect and became more Independent. Many of these shifts in roles would be considered taboo and unheard of pre-war. This was the height of time for the change of Gender Roles, something that we are still experiencing today. Because of WW1, the **rate of change was accelerated**.
 ### **What were the experiences of Native American people in America and in the War during WWI?**
