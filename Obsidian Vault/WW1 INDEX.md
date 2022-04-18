@@ -21,10 +21,6 @@ ___
 > [[WW1 Life During The War|Life During The War]]
 > [[WW1 Life After The War|Life After The War]]
 ## Questions, Answers, & Summaries
-### **Who benefited from the War?**
-The average citizen did not benefit from the war at all, the only people that benefited from the war was high-ranking government officials.
-### **Why were German Immigrant Houses Painted Yellow?**
-German Immigrants were treated harshly in America, constantly being harassed. To make harassing them easier, Americans painted/tagged their houses in yellow so that they were easy to identify and pick out - target. Yellow is a bright color.
 ### **What was America like before and during World War I?**
 America before the war was in a 'golden age', they were experiencing an optimistic future, and were trying to avoid war as much as possible. However, during the war, America had to adjust and compensate for the situation. There were many social changes that were brought on.
 
@@ -92,6 +88,10 @@ Before the War, Native-Americans were confined to reservations. Native-Americans
 When WW1 broke out, thousands of Native-Americans volunteered to fight in Europe. The Onondagas declared war on Germany themselves. Many Native-Americans wanted to fight for their homeland, Some wanted to demonstrate that they are equal to white people. About 10,000 American Indians served in the Army, and about 2,000 served in the Navy. One way that Indians contributed to the war was their language. Communication was frequently being intercepted, so they said their messages in Native-American's native language so the Germans could not understand.
 
 Many Indians did not receive discrimination in the Army compared to back home, so when they came back, they protested for rights - and got them; They became citizens.
+### **Who benefited from the War?**
+The average citizen did not benefit from the war at all, the only people that benefited from the war was high-ranking government officials.
+### **Why were German Immigrant Houses Painted Yellow?**
+German Immigrants were treated harshly in America, constantly being harassed. To make harassing them easier, Americans painted/tagged their houses in yellow so that they were easy to identify and pick out - target. Yellow is a bright color.
 ### Vocabulary
 - [[Entente]]
 - [[Imperialism]]
