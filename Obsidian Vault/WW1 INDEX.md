@@ -61,7 +61,7 @@ America before the war was in a 'golden age', they were experiencing an optimist
 
 Before the War, Native-Americans were confined to reservations. Native-Americans had recently experienced diseases and the destruction of their culture. After the War however, for their contributions,  Native-Americans protested and received rights, becoming citizens.
 
-America's economy is in trouble, there was a revolution in Russia that is bringing a Socialist government to power. Ideas about Socialism are spreading throughout Europe. This all is generating fear that Socialism might be coming to the United States, and leads to investigations, raids, and deportations of people who opposed the government or took radical positions. The average US citizen did not benefit from the War, only the government and the select few who were able to stay home, many citizens were at unrest. 
+America's economy is in trouble, there was a revolution in Russia that is bringing a Socialist government to power. Ideas about Socialism are spreading throughout Europe. This all is generating fear that Socialism might be coming to the United States, and leads to investigations, raids, and deportations of people who opposed the government or took radical positions. The average US citizen did not benefit from the War, only the government, high ranking government officals, and the select few who were able to stay home, many citizens were at unrest. 
 
 In all, America changed immensely from the time of the war to the end, some changes for the better, like Women's roles, and Native-American rights, but other changes, like the experiences of the soldiers who came back home, for the worse.
 ### **Give a brief summary of the experiences of each of these African American groups during World War I:**
@@ -82,6 +82,7 @@ At the time of entering the War, African-Americans were largely living in rural 
 ### **Explain what difficulties average citizens went through in America during WWI.**
 While many Americans went to war, citizens back home had to deal with their own set of problems :
 
+The average US citizen did not benefit from the War, only the government, high ranking government officals, and the select few men who were able to stay home and profit, many citizens were at unrest. 
 
 ### **What changes happened for and in women as a result of and during WWI?**
 [[WW1 Women's Roles|Women's roles]] changed drastically. During the war, Women took on many jobs that were considered masculine (such as Typists, Telephone Operators (Signal Corp), Civilian Contractors), so when men came home, they did not expect women to be doing 'their' jobs, and were shocked. Women now were considered formal members of the Armed Services; Expectations of Women changed, Women gained respect and became more Independent. Many of these shifts in roles would be considered taboo and unheard of pre-war. This was the height of time for the change of Gender Roles, something that we are still experiencing today. Because of WW1, the **rate of change was accelerated**.
