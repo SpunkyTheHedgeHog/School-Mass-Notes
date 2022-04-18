@@ -32,7 +32,7 @@ America before the war was in a 'golden age', they were experiencing an optimist
 
 [[WW1 Life Before The War|Before the war]], America was peaceful; America had recovered from the civil war, the reconstruction era, and was coming into the civil rights era. The [[WW1 Allied Powers|Allied Forces]] (France, Britain, Russia, America) were ending their [[Industrial Revolution|Industrial Revolutions]] and gained the economic boost that came with it (plus [[Imperialism]]). It was the height of [[White Supremacy]] due to -.
 
-[[WW1 Life During The War|During the War]], America had to crack down on many aspects of it's self, such as peoples' lack of motivation. In efforts to get the United States as a whole to be more united `(see what I did there?)`, [[Woodrow Wilson|President Woodrow Wilson]],  used what he called [[100% Americanism]], which was the concept that [[WW1 Immigration|American Immigrants]] must "renounce any sort of ties to their homelands; political ties, cultural ties, economic ties to be considered 100% loyal." i.e. 100% National Unity. [[Militarism]] (Glorification of the Military) was a key part in getting people motivated for the War and keeping moral high. Instances of Militarism such as making people feel like losers for not joining the Military and flexing of weaponry contributed to the War.
+[[WW1 Life During The War|During the War]], America had to crack down on many aspects of itself, such as peoples' lack of motivation. In efforts to get the United States as a whole to be more united `(see what I did there?)`, [[Woodrow Wilson|President Woodrow Wilson]],  used what he called [[100% Americanism]], which was the concept that [[WW1 Immigration|American Immigrants]] must "renounce any sort of ties to their homelands; political ties, cultural ties, economic ties to be considered 100% loyal." i.e. 100% National Unity. [[Militarism]] (Glorification of the Military) was a key part in getting people motivated for the War and keeping morale high. Instances of Militarism such as making people feel like losers for not joining the Military and flexing of weaponry contributed to the War.
 
 Immigrant communities were diverse in their reaction to the war, some supported their home nations while others did not.
 
@@ -45,7 +45,7 @@ German Immigrants were treated cruelly whether they supported Germany or not. As
 - Could not teach the German Language in Schools.
 - German newspapers were forced to cancel.
 - Were tarred and feathered - by Mob groups.
-- Forced to kiss Americans flags - by Mob groups.
+- Forced to kiss American flags - by Mob groups.
 
 To make harassing them easier, Americans painted/tagged their houses in yellow so that they were easy to identify and pick out - target. Yellow is a bright color.
 
@@ -56,7 +56,7 @@ In [[WW1 Preparing For War|preparing for the war]], America went from only 300 t
 #NeedsWork (Ending Paragraph)
 
 ### **What Changes happened in America from the time soldiers left to WWI to the time period of and during their return?**
-America before the war was in a 'golden age', they were experiencing an optimistic future, and were trying to avoid war as much as possible. However, at the time the soldiers came back home, America was very different, there were many social changes and many people were left in distraught.
+America before the war was in a 'golden age', they were experiencing an optimistic future, and were trying to avoid war as much as possible. However, at the time the soldiers came back home, America was very different, there were many social changes and many people were left distraught.
 
 [[WW1 Women's Roles|Women's roles]] changed drastically. During the war, Women took on many jobs that were considered masculine (such as Typists, Telephone Operators (Signal Corp), Civilian Contractors), so when men came home, they did not expect women to be doing 'their' jobs, and were shocked. Women now were considered formal members of the Armed Services; Expectations of Women changed, Women gained respect and became more Independent. Many of these shifts in roles would be considered taboo and unheard of pre-war. This was the height of time for the change of Gender Roles, something that we are still experiencing today. Because of WW1, the **rate of change was accelerated**.
 
@@ -70,17 +70,17 @@ In all, America changed immensely from the time of the war to the end, some chan
 
 ### **Give a brief summary of the experiences of each of these African American groups during World War I:**
 #### African American Women :
-While non-African American Women had many opportunities, African American Women did not get the same chances and were instead prohibited from many jobs. African American Women could not be nurses, or work in the YMCAs abroad. Only 2 African American Women were allowed to use their nursing profession in Europe. Instead, of being allowed to help, the most that they could do is contribute their money, in the form of [[War Bonds]], in which they raised an estimate of $250 million of. 
+While non-African American Women had many opportunities, African American Women did not get the same chances and were instead prohibited from many jobs. African American Women could not be nurses, or work in the YMCAs abroad. Only 2 African American Women were allowed to use their nursing profession in Europe. Instead of being allowed to help, the most that they could do is contribute their money, in the form of [[War Bonds]], in which they raised an estimate of $250 million of. 
 
 #### African American Soldiers that fought in American Units :
-African American Soldiers that were drafted into the army were treated with heavy discrimination. The generals gave labor intensive jobs to African-Americans, many in dangerous situations. In addition, they did not have any protection in these situations - which many were close to enemy lines. One of the worst jobs were the Graves Registration Service, in which men had to disinter the bodies of the fallen soldiers.
+African American Soldiers that were drafted into the army were treated with heavy discrimination. The generals gave labor intensive jobs to African-Americans, many in dangerous situations. In addition, they did not have any protection in these situations - in which many were close to enemy lines. One of the worst jobs was the Graves Registration Service, in which men had to disinter the bodies of the fallen soldiers.
 
 Even after being awarded Distinguished service Crosses, African American Units received hate from White southern officers - being slandered as "rapists, malcontents, and incompetent black officers".
 #### African American Soldiers that fought in French Units :
 When some African American Soldiers were transferred to the French Army were treated with much more respect and based off of their work ethic. The Harlem Hell fighters -. When they came back, America did not honor those medals and made up lies saying that they were rapists and did not follow orders ([[White Supremacy]] was at an all time high).
 
 #### African Americans as a people during the World War 1 Time period :
-At the time of entering the War, African-Americans are largely living in rural areas. Slavery has ended but [[Jim Crow]], a form of discrimination and racial segregation, has replaced it. Everyone is asked to conserve food, buy bonds, and support the war effort, **African-Americans raised an estimate of $250 million in [[war bonds]]**. There are many massacres against black people as it was the height of [[White Supremacy]], one of the massacres being called the '[[WW1 Red Summer|Red Summer]]' of **1919**. [[W.E.B Du Bois]], goes to Europe to interview African-American troops, and learns a lot; He declares `"We Return from Fighting. We Return Fighting"`.
+At the time of entering the War, African-Americans were largely living in rural areas. Slavery has ended but [[Jim Crow]], a form of discrimination and racial segregation, has replaced it. Everyone is asked to conserve food, buy bonds, and support the war effort, **African-Americans raised an estimate of $250 million in [[war bonds]]**. There were many massacres against black people as it was the height of [[White Supremacy]], one of the massacres being called the '[[WW1 Red Summer|Red Summer]]' of **1919**. [[W.E.B Du Bois]], goes to Europe to interview African-American troops, and learns a lot; He declares `"We Return from Fighting. We Return Fighting"`.
 
 [[WW1 Life After The War|After the War]], African-American soldiers were treated even worse with [[White Supremacy|White Supremacists]] wanting to 'show them their place'. Many African-American's who earned medals did not receive them and wouldn't for many years, either until much after the war, or until they were dead. 
 
