@@ -11,4 +11,4 @@ The Soldiers did not receive any sort of check or bonus - *though it was promise
 
 This time transitioned into [[The Roaring Twenties]]
 
-The economy is in trouble, there was a revolution in Russia that is bringing a Socialist government to power. Ideas about Socialism are spreading throughout Europe. This all is generating fear that Socialism might be coming to the United States, and leads to investigations, raids, and deportations of people who opposed the government or took radical positions. The average US citizen did not benifit from the War, and was at unrest.
+The economy is in trouble, there was a revolution in Russia that is bringing a Socialist government to power. Ideas about Socialism are spreading throughout Europe. This all is generating fear that Socialism might be coming to the United States, and leads to investigations, raids, and deportations of people who opposed the government or took radical positions. The average US citizen did not benefit from the War, and was at unrest.

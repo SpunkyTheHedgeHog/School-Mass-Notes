@@ -83,25 +83,9 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "82a238aadf239364",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "WW1 INDEX.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -124,25 +108,54 @@
                 "file": "WW1 INDEX.md"
               }
             }
+          },
+          {
+            "id": "82a238aadf239364",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WW1 INDEX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "879f4ed341a9f1df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WW1 INDEX.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 373,
-    "collapsed": true
+    "width": 373
   },
   "active": "2146a8d3cebca81b",
   "lastOpenFiles": [
     "WW1 INDEX.md",
+    "WW1 Life After The War.md",
+    "WW1 Preparing For War.md",
+    "War Bonds.md",
+    "WW1 Life Before The War.md",
+    "Imperialism.md",
     "White Supremacy.md",
     "Pacifism.md",
     "WW1 Red Summer.md",
-    "W.E.B Du Bois.md",
-    "Jim Crow.md",
-    "WW1 African Americans.md",
-    "WW1 Immigration.md",
-    "WW1 Harlem Hellfighters.md",
-    "100% Americanism.md"
+    "W.E.B Du Bois.md"
   ]
 }
