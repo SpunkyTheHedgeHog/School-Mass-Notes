@@ -88,10 +88,15 @@ At the time of entering the War, African-Americans are largely living in rural a
 ANSWER
 
 ### **What changes happened for and in women as a result of and during WWI?**
-ANSWER
+[[WW1 Women's Roles|Women's roles]] changed drastically. During the war, Women took on many jobs that were considered masculine (such as Typists, Telephone Operators (Signal Corp), Civilian Contractors), so when men came home, they did not expect women to be doing 'their' jobs, and were shocked. Women now were considered formal members of the Armed Services; Expectations of Women changed, Women gained respect and became more Independent. Many of these shifts in roles would be considered taboo and unheard of pre-war. This was the height of time for the change of Gender Roles, something that we are still experiencing today. Because of WW1, the **rate of change was accelerated**.
+
 
 ### **What were the experiences of Native American people in America and in the War during WWI?**
-ANSWER
+Before the War, Native-Americans were confined to reservations. Native-Americans had recently experienced diseases and the destruction of their culture. There was a huge effort to 'educate' Indians but they did not want that. A program called the [[Allotment Act]] was tried. The Allotment Act tried to divide up Indian reservations and give each Indian family their own piece of property, hastening their introduction into white society. By taking an allotment, they would become a citizen, meaning that they could be drafted.
+
+When WW1 broke out, thousands of Native-Americans volunteered to fight in Europe. The Onondagas declared war on Germany themselves. Many Native-Americans wanted to fight for their homeland, Some wanted to demonstrate that they are equal to white people. About 10,000 American Indians served in the Army, and about 2,000 served in the Navy. One way that Indians contributed to the war was their language. Communication was frequently being intercepted, so they said their messages in Native-American's native language so the Germans could not understand.
+
+Many Indians did not receive discrimination in the Army compared to back home, so when they came back, they protested for rights - and got them; They became citizens.
 
 ### Vocabulary
 - [[Entente]]
