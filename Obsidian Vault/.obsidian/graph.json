@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:+Home",
@@ -15,28 +15,28 @@
       }
     },
     {
-      "query": "tags: Template",
+      "query": "Template",
       "color": {
         "a": 1,
         "rgb": 6384265
       }
     },
     {
-      "query": "tags: Index",
+      "query": "#INDEX",
       "color": {
         "a": 1,
         "rgb": 13666160
       }
     },
     {
-      "query": "tags: Vocabulary",
+      "query": "#Vocabulary",
       "color": {
         "a": 1,
         "rgb": 8962256
       }
     },
     {
-      "query": "tags: WW1",
+      "query": "#WW1",
       "color": {
         "a": 1,
         "rgb": 11833005
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7132754626224677,
-  "close": false
+  "scale": 0.18462326225858797,
+  "close": true
 }

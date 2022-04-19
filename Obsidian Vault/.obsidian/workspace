@@ -7,8 +7,12 @@
         "id": "2146a8d3cebca81b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "WW1 INDEX.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -42,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ece839bde5b60ab2",
@@ -100,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WW1 INDEX.md"
+              }
             }
           },
           {
@@ -109,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WW1 INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,21 +131,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WW1 INDEX.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 373,
-    "collapsed": true
+    "width": 373
   },
   "active": "2146a8d3cebca81b",
   "lastOpenFiles": [
+    "WW1 INDEX.md",
     "Templates/Template.Tags&Title.md",
     "WW1 Life During The War.md",
     "WW1 Women's Roles.md",
@@ -148,7 +155,6 @@
     "WW1 Red Summer.md",
     "WW1 Preparing For War.md",
     "WW1 Native-Americans.md",
-    "WW1 Life Before The War.md",
-    "WW1 Life After The War.md"
+    "WW1 Life Before The War.md"
   ]
 }
