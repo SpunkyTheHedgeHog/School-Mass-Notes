@@ -1,6 +1,5 @@
 ---
 aliases: YMCA
+tags: #WW1
 ---
-Tags : #WW1
-___
 # WW1 YMCA

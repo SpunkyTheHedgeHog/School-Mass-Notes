@@ -1,7 +1,6 @@
 ---
 aliases: 
+tags: #WW1 #Vocabulary 
 ---
-Tags : #WW1 #Vocabulary 
-___
 # Ultimatum
 A Final set of Demands.

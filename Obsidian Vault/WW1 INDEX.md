@@ -1,8 +1,7 @@
 ---
 aliases: WW1
+tags: #WW1 #Index #America #France #Britian #Russia #Germany #Austria_Hungary #Ottoman_Empire
 ---
-Tags : #WW1 #Index #America #France #Britian #Russia #Germany #Austria_Hungary #Ottoman_Empire
-___
 # WW1 Index
 > [[WW1 Allied Powers|Allied Powers]]
 > [[WW1 Central Powers|Central Powers]]

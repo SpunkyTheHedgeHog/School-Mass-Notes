@@ -1,8 +1,7 @@
 ---
 aliases: 
+tags: #Index 
 ---
-Tags : #Index 
-___
 # Home
 - [[History]]
 - 

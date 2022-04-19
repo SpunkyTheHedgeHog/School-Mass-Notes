@@ -1,6 +1,5 @@
 ---
 aliases:
+tags: #Index 
 ---
-Tags : #Index 
-___
 # White Supremacy

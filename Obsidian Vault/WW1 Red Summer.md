@@ -1,8 +1,7 @@
 ---
 aliases: 
+tags: #WW1 #Inequality
 ---
-Tags : #WW1 #Inequality
-___
 # WW1 Red Summer
 During [[WW1 INDEX|WW1]], it was the height of [[White Supremacy]]. White Americans were intent in ensuring that black people remembered their subordinate place in society and were willing to use violence to make that clear. In **1919**, there were racial riots during the Summer in which blood was spilled - which is where the name *Red Summer* comes from.
 

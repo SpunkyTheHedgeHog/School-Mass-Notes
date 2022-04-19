@@ -1,8 +1,7 @@
 ---
 aliases: Pacifist
+tags: #WW1
 ---
-Tags : #WW1
-___
 # Pacifism
 Pacifism is the opposition to war or violence as a means of settling disputes.
 ### Pacifism in World War 1

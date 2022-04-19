@@ -1,6 +1,5 @@
 ---
 aliases: 
+tags: 
 ---
-Tags : 
-___
 # {{title}}

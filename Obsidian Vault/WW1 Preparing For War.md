@@ -1,8 +1,7 @@
 ---
 aliases: 
+tags: #WW1 #America #Religion
 ---
-Tags : #WW1 #America #Religion
-___
 # WW1 Preparing For War
 In preparing for the war, America went from only 300 thousand men in their army to 4 million.
 

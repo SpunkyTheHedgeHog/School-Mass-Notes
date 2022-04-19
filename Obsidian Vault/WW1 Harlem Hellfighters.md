@@ -1,8 +1,7 @@
 ---
 aliases: 
+tags: #WW1 #Inequality 
 ---
-Tags : #WW1 #Inequality 
-___
 # WW1 Harlem Hellfighters
 **Main Points** :
 > Helped establish to the entire world the power of black soldiers in the military

@@ -1,8 +1,7 @@
 ---
 aliases: 
+tags: #WW1 #Roles #Inequality 
 ---
-Tags : #WW1 #Roles #Inequality 
-___
 # WW1 Women's Roles
 Women's Roles are changing a lot during the War - **1920** -, Women are not only wanting but are showing their Independence. This was the height of time for the change of Gender Roles, something that we are still experiencing today. Because of WW1, the **rate of change was accelerated**.
 

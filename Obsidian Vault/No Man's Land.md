@@ -1,8 +1,7 @@
 ---
 aliases: 
+tags: #Vocabulary 
 ---
-Tags : #Vocabulary 
-___
 # No Man's Land
 Disputed ground between the front lines or trenches of two opposing armies
 

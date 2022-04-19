@@ -1,7 +1,6 @@
 ---
 aliases: 
+tags: #Index 
 ---
-Tags : #Index 
-___
 # History
 - [[WW1 INDEX]] 

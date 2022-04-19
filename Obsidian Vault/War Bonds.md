@@ -1,6 +1,5 @@
 ---
 aliases:
+tags: #WW1 #America
 ---
-Tags : #WW1 #America
-___
 # War Bonds
