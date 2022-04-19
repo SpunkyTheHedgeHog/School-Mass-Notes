@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: 
+tags: Template
 ---
 # {{title}}
