@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: #WW1 #America #Germany #Inequality 
+tags: WW1 America Germany Inequality 
 ---
 # WW1 Native-Americans
 In the **1920**s, Native-Americans had been confined to reservations. They had disease, destruction of their culture. There was a huge effort to 'educate' Indians but they did not want that. A program called the [[Allotment Act]] was tried :

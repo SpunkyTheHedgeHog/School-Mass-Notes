@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: #WW1 #America #Inequality 
+tags: WW1 America Inequality 
 ---
 # WW1 African Americans
 At the time of entering the War, African-Americans are largely living in rural areas. Slavery has ended but [[Jim Crow]] has replaced it.

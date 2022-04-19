@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: #WW1 #America #Americanism #Germany #Inequality 
+tags: WW1 America Americanism Germany Inequality 
 ---
 # WW1 Immigration
 **1914**, America is at it's peak of Immigration.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WW1 INDEX.md",
+            "file": "WW1 Life During The War.md",
             "mode": "source",
             "source": false
           }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#WW1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WW1 INDEX.md"
+                "file": "WW1 Life During The War.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WW1 INDEX.md",
+                "file": "WW1 Life During The War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WW1 INDEX.md",
+                "file": "WW1 Life During The War.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +148,15 @@
   },
   "active": "2146a8d3cebca81b",
   "lastOpenFiles": [
-    "WW1 INDEX.md",
-    "WW1 Life Before The War.md",
     "WW1 Life During The War.md",
-    "WW1 Life After The War.md",
-    "Untitled.md",
-    "WW1 Native-Americans.md",
-    "WW1 African Americans.md",
-    "War Bonds.md",
     "WW1 Women's Roles.md",
-    "WW1 Immigration.md"
+    "WW2 Lesson 1 & 2 Vocabulary.md",
+    "WW1 YMCA.md",
+    "WW1 Red Summer.md",
+    "WW1 Preparing For War.md",
+    "WW1 Native-Americans.md",
+    "WW1 Life Before The War.md",
+    "WW1 Life After The War.md",
+    "WW1 INDEX.md"
   ]
 }

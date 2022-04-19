@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: #America #Inequality 
+tags: America Inequality 
 ---
 # Jim Crow
 A form of Discrimination, Share Cropping and Racial Segregation

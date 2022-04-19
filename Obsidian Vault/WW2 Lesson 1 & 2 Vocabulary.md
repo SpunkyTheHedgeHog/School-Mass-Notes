@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: #WW2  #Vocabulary #Assignment
+tags: WW2 Vocabulary Assignment
 ---
 # WW2 Vocabulary
 ## Lesson 1 – Aggression, Appeasement and War pg-456
