@@ -1,6 +1,6 @@
 ---
 aliases:
 ---
-Tags : #WW1 #Assignment #Inequality 
+Tags : #Index 
 ___
 # White Supremacy
