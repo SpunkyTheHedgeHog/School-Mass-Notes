@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "Template",
+      "query": "tags: Template",
       "color": {
         "a": 1,
         "rgb": 6384265
