@@ -30,19 +30,21 @@ Steel workers were seeking a reduction of their 12 hour work days.
 ### [10] What were the Boston police striking for? How much did they earn before?
 Police find that they can no longer support their families on a $21 a week salary. They strike for higher wages, and petition for a union. Wide spread looting takes place as a result. The strikers are fired, and in 3 days, they are replaced 
 ### [11] After all of the controversy in this part of the film is mentioned, what does the narrator ask about the state of America?
+Is America itself in danger of a Communist Revolution.
 ### [12] With the [[Ku Klux Klan]] resurgence, where did this organization gain new supporter?
-The [[Ku Klux Klan|KKK]] find new supporters in the North
+The [[Ku Klux Klan|KKK]] find new supporters in the North, and all capital cities.
 ### [13] Race riots rose at this time of extreme prejudice for what 3 groups
 - Anti-negro
 - Anti-jewish
 - Anti-catholic
+Anglo Saxon Supremancy.
 ### [14] What is the name of the republican senator from Ohio
 [[Warren Harding]]
 ### [15] Warren Harding overall, felt that the country needed what?
-[[Normalcy]]
+[[Normalcy]] #Important
 >"*America's present need is not for heroics, but healing. Not revolution, but restoration. Not nostrums, but normalcy*"
 ### [16] Did Warren Harding have a plan in place for his future leadership?
-[[Warren Harding]] had no plan, no purpose, no mission.
+[[Warren Harding]] had no plan, no purpose, no vision.
 ### [17] What was said to be presidential candidate Warren Harding's greatest desire?
 [[Warren Harding|President Warren Harding]]'s greatest desire was to be liked by the people.
 ### [18] What did president Harding say about happiness
@@ -54,4 +56,27 @@ It was replaced by the [[Automobile]]
 ### [21] How much did it cost?
 The [[Automobile]] costed less tat $500, which was in the budget of most Americans.
 ### [22] What was credited with changing the manors and morals of America?
-[[Automobile|Automobiles]]
+[[Automobile|Automobiles]], before this time it was considered unrespectful to be out with a women without having a chaparone. The Automobile allowed for this, and thus the Automobile was considered a bad thing. When a man was with a women unchaproned, the Women's purity was put in question.
+### [23] What is the invention of th radio said to have brought
+### [24] During this time, what did motion pictures glorify
+### [25] With all of the changes going on in America during the 1920s, parents were confronted bu children who wanted what?
+### [26] What did the narrator say that this time in America was all about?
+### [27] Who were mentioned as some of Americas most important writers?
+### [28] What did they feel about the current state of America?
+### [29] What did they do in response to this feeling?
+### [30] Writers Sinclair Lews and H.L. Mencken express a growing dissatifaction with what?
+### [31] AS a sign of overwhelming changes in these times, what happens to President Harding?
+### [32] What was the job of the next president according to the most prosperous Americans in the country?
+### [33] What kind of country does President Calvin Coolidge say America was?
+### [34] What wese some of major changes for the traditional house wife during this time?
+### [35] What was much if of the average Americans new found prosperity built on?
+### [36] More and more Americans are doing what during this time?
+### [37] What happend to the American farmer during this period in America?
+### [38] What was happening in the German economy?
+### [39] What controversial dictator in our world's history rose to power in response to Germany's failing economy?
+### [40] What were the key issues in the United states during the year 1928?
+### [41] By the time he came into office, what issues did President Herbert Hoover have to deal with?
+### [42] What does the value of stocks drop down to?
+### [43] What does the value of the stock brokers and business mogul's responses to the failing stock market? 
+### [44] By the end of 1930, how many Americans were unemployed? How much did it grow by 1932?
+### [45] What did AMerica know about the coming times as a result of this major issue in it's economy?
