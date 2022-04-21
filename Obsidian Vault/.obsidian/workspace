@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2146a8d3cebca81b",
+        "id": "c3986f15fc4e672b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WW1 INDEX.md",
+            "file": "The Roaring Twenties.md",
             "mode": "source",
             "source": false
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WW1 INDEX.md"
+                "file": "The Roaring Twenties.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WW1 INDEX.md",
+                "file": "The Roaring Twenties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,30 +131,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WW1 INDEX.md",
+                "file": "The Roaring Twenties.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 373
   },
-  "active": "2146a8d3cebca81b",
+  "active": "c3986f15fc4e672b",
   "lastOpenFiles": [
-    "WW1 INDEX.md",
-    "Templates/Template.Tags&Title.md",
-    "WW1 Life During The War.md",
-    "WW1 Women's Roles.md",
-    "WW2 Lesson 1 & 2 Vocabulary.md",
-    "WW1 YMCA.md",
-    "WW1 Red Summer.md",
-    "WW1 Preparing For War.md",
-    "WW1 Native-Americans.md",
-    "WW1 Life Before The War.md"
+    "The Roaring Twenties.md",
+    "Automobile.md",
+    "Hennery Ford.md",
+    "Warren Harding.md",
+    "Normalcy.md",
+    "Ku Klux Klan.md",
+    "White Supremacy.md",
+    "Woodrow Wilson.md",
+    "Pacifism.md",
+    "WW1 INDEX.md"
   ]
 }

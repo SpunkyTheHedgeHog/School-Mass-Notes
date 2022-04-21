@@ -1,5 +1,5 @@
 ---
-aliases: Woodrow
+aliases: Woodrow, President Woodrow Wilson
 tags: WW1 America Person
 ---
 # Woodrow Wilson

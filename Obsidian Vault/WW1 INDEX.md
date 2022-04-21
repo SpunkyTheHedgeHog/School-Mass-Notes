@@ -13,17 +13,18 @@ tags: WW1 Index America France Britian Russia Germany Austria_Hungary Ottoman_Em
 > [[WW1 Harlem Hellfighters|Harlem Hellfighters]]
 
 > [[WW1 Red Summer|Red Summer]]
+> [[Pacifism#Pacifism in World War 1|Pacifism]]
 
 > [[WW1 Life Before The War|Life Before The War]]
-> [[Pacifism#Pacifism in World War 1|Pacifism]]
 > [[WW1 Preparing For War|Preparing For War]]
 > [[WW1 Life During The War|Life During The War]]
 > [[WW1 Life After The War|Life After The War]]
+> [[The Roaring Twenties]]
 ## Questions, Answers, & Summaries
 ### **What was America like before and during World War I?**
 America before the war was in a 'golden age', they were experiencing an optimistic future, and were trying to avoid war as much as possible. However, during the war, America had to adjust and compensate for the situation. There were many social changes that were brought on.
 
-Before the war, America was peaceful; America had recovered from the civil war, the reconstruction era, and was coming into the civil rights era. The [[Industrial Revolution]] allowed America to gain an economic boost and thus America enjoyed a long period of peace. Yet, it was the height of [[White Supremacy]] because America was changing socially - African American people were finding opportunities to work, but many White Supremacists did not want this shift in social structure.
+[[WW1 Life Before The War|Before the war]], America was peaceful; America had recovered from the civil war, the reconstruction era, and was coming into the civil rights era. The [[Industrial Revolution]] allowed America to gain an economic boost and thus America enjoyed a long period of peace. Yet, it was the height of [[White Supremacy]] because America was changing socially - African American people were finding opportunities to work, but many White Supremacists did not want this shift in social structure.
 
 At the start of the war, America saw the war as a business opportunity. Because of the [[Industrial Revolution]], we had factories and workers, and because we had factories and workers, we could provide a surplus of supplies to Europe throughout the War.
 
