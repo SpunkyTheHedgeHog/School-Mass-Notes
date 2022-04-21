@@ -12,7 +12,7 @@ A conflict between people who could accept change. and those who would not accep
 The narrator compares the controversy to a battle ground
 ### [4] What date did WW1 end?
 [[WW1 INDEX|WW1]] ended on **Nov 11th 1918**
-### How many American soldiers began their journey home?
+### [5] How many American soldiers began their journey home?
 4 million soldiers were send out, 2 million came back.
 ### [6] What did the narrator ask about the mindsets of returning soldiers
 - What sort of America did they **Leave**?
