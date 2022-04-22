@@ -54,29 +54,57 @@ It was replaced by the [[Automobile]]
 ### [20] What was the name of the man who created this invention?
 [[Hennery Ford]]
 ### [21] How much did it cost?
-The [[Automobile]] costed less tat $500, which was in the budget of most Americans.
-### [22] What was credited with changing the manors and morals of America?
-[[Automobile|Automobiles]], before this time it was considered unrespectful to be out with a women without having a chaparone. The Automobile allowed for this, and thus the Automobile was considered a bad thing. When a man was with a women unchaproned, the Women's purity was put in question.
+The [[Automobile]] (Model T) costed less tat $500, which was in the budget of most Americans.
+### [22] What was credited with changing the manors and morals of America? #Important
+[[Automobile|Automobiles]], before this time it was considered unrespectful to be out with a women without having a chaparone. The Automobile allowed for parking - unchaparoned, and thus the Automobile was considered a bad thing. When a man was with a women unchaproned, the Women's purity was put in question.
 ### [23] What is the invention of th radio said to have brought
+New Ideas and new culture.
 ### [24] During this time, what did motion pictures glorify
+Motion pictures glorifed rebellion and defiance.
 ### [25] With all of the changes going on in America during the 1920s, parents were confronted bu children who wanted what?
+Children wanted to live faster, enjoy more, experience more deeply than their elders.
 ### [26] What did the narrator say that this time in America was all about?
+Rising Prosperity, Declining idealism
 ### [27] Who were mentioned as some of Americas most important writers?
+
 ### [28] What did they feel about the current state of America?
+They felt that this was a lost generation. 
 ### [29] What did they do in response to this feeling?
+
 ### [30] Writers Sinclair Lews and H.L. Mencken express a growing dissatifaction with what?
-### [31] AS a sign of overwhelming changes in these times, what happens to President Harding?
+With the lack of direction in purpose of American life
+### [31] As a sign of overwhelming changes in these times, what happens to President Harding?
+He gets old, and dies from a stroke.
 ### [32] What was the job of the next president according to the most prosperous Americans in the country?
+Is to maintain porsperity, and not to rock the boat (not to cause chaos).
 ### [33] What kind of country does President Calvin Coolidge say America was?
+President Calvin Coolidge said that America was a buisness country.
 ### [34] What wese some of major changes for the traditional house wife during this time?
+
 ### [35] What was much if of the average Americans new found prosperity built on?
+- paint glass nickel
+- steel petroleum and Road building
+expanding use of electricity is creating labor-saving devices for the housewife 
+- washing machines
+- vacuum cleaners
+- refrigerators
 ### [36] More and more Americans are doing what during this time?
+
 ### [37] What happend to the American farmer during this period in America?
+
 ### [38] What was happening in the German economy?
+Germany's economy was being run into the groud, and it's currecny was being used as walls to paper stoves.
 ### [39] What controversial dictator in our world's history rose to power in response to Germany's failing economy?
+[[Adolf Hitler]]
 ### [40] What were the key issues in the United states during the year 1928?
+
 ### [41] By the time he came into office, what issues did President Herbert Hoover have to deal with?
+
 ### [42] What does the value of stocks drop down to?
+
 ### [43] What does the value of the stock brokers and business mogul's responses to the failing stock market? 
+
 ### [44] By the end of 1930, how many Americans were unemployed? How much did it grow by 1932?
-### [45] What did AMerica know about the coming times as a result of this major issue in it's economy?
+
+### [45] What did America know about the coming times as a result of this major issue in it's economy?
+
