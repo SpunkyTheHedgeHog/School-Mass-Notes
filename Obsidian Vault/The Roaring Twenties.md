@@ -56,48 +56,52 @@ It was replaced by the [[Automobile]]
 ### [21] How much did it cost?
 The [[Automobile]] (Model T) costed less tat $500, which was in the budget of most Americans.
 ### [22] What was credited with changing the manors and morals of America? #Important
-[[Automobile|Automobiles]], before this time it was considered unrespectful to be out with a women without having a chaparone. The Automobile allowed for parking - unchaparoned, and thus the Automobile was considered a bad thing. When a man was with a women unchaproned, the Women's purity was put in question.
-### [23] What is the invention of th radio said to have brought
+[[Automobile|Automobiles]], before this time it was considered unrespectful to be out with a women without having a chaperone. The Automobile allowed for parking - unchaperoned, and thus the Automobile was considered a bad thing. When a man was with a women unchaperoned, the Women's purity was put in question.
+### [23] What is the invention of the radio said to have brought
 New Ideas and new culture.
 ### [24] During this time, what did motion pictures glorify
-Motion pictures glorifed rebellion and defiance.
-### [25] With all of the changes going on in America during the 1920s, parents were confronted bu children who wanted what?
+Motion pictures glorified rebellion and defiance.
+### [25] With all of the changes going on in America during the 1920s, parents were confronted by children who wanted what?
 Children wanted to live faster, enjoy more, experience more deeply than their elders.
 ### [26] What did the narrator say that this time in America was all about?
-Rising Prosperity, Declining idealism
+It is the time of **Rising Prosperity, Declining idealism**.
 ### [27] Who were mentioned as some of Americas most important writers?
-
+[[F Scott Fitzgerald]], [[Gertrude Stein]], and [[Ernest Hemingway]] feel so cut off from their roots, their society, their country, that they choose to live aboard
 ### [28] What did they feel about the current state of America?
-They felt that this was a lost generation. 
+[[Gertrude Stein ]]said that they felt that this was a lost generation. They feel alienated.
 ### [29] What did they do in response to this feeling?
 
-### [30] Writers Sinclair Lews and H.L. Mencken express a growing dissatifaction with what?
-With the lack of direction in purpose of American life
+### [30] Writers Sinclair Lewis and H.L. Mencken express a growing dissatisfaction with what?
+With the lack of direction and purpose of American life.
 ### [31] As a sign of overwhelming changes in these times, what happens to President Harding?
 He gets old, and dies from a stroke.
 ### [32] What was the job of the next president according to the most prosperous Americans in the country?
-Is to maintain porsperity, and not to rock the boat (not to cause chaos).
+Is to maintain prosperity, and not to rock the boat (not to cause chaos).
 ### [33] What kind of country does President Calvin Coolidge say America was?
-President Calvin Coolidge said that America was a buisness country.
-### [34] What wese some of major changes for the traditional house wife during this time?
+President [[Calvin Coolidge]] says :
 
-### [35] What was much if of the average Americans new found prosperity built on?
+>"*America is a business country, it wants a business government, the man who builds a factory builds a temple, the man who works there worships there.*"
+### [34] What were some of major changes for the traditional house wife during this time?
 - paint glass nickel
 - steel petroleum and Road building
 expanding use of electricity is creating labor-saving devices for the housewife 
 - washing machines
 - vacuum cleaners
 - refrigerators
+
+The expanding use of electricity is creating labor-saving devices for the housewife, and many of them are finding that they have more time to spend. 
+### [35] What was much of the average Americans new found prosperity built on?
+Much of America's prosperity was based on easy credit and installment buying.
 ### [36] More and more Americans are doing what during this time?
-
-### [37] What happend to the American farmer during this period in America?
-
+More and more Americans are mortgaging tomorrow for what they want today. People are gambling on the stock market risk their savings hoping they can get rich quick.
+### [37] What happened to the American farmer during this period in America?
+The American farmer is suffering, In prep for the sudden war, farmers borrowed money and taken out mortgages to buy marginal land, but now that the war is ended (Quicker then expected), there is no longer a demand for all the food that can be raised. Farms are being foreclosed, the president says that 'the farmers never had made money anyhow'.
 ### [38] What was happening in the German economy?
-Germany's economy was being run into the groud, and it's currecny was being used as walls to paper stoves.
+Germany's economy was being run into the ground, and it's currency was being used as walls to paper stoves.
 ### [39] What controversial dictator in our world's history rose to power in response to Germany's failing economy?
 [[Adolf Hitler]]
 ### [40] What were the key issues in the United states during the year 1928?
-
+Tension is increasing between people who are accepting of the modern changes in America and those who are not. The issue of the old fundamentalisms versus the new science is taking place in a small town in Tennessee
 ### [41] By the time he came into office, what issues did President Herbert Hoover have to deal with?
 
 ### [42] What does the value of stocks drop down to?
