@@ -68,9 +68,9 @@ It is the time of **Rising Prosperity, Declining idealism**.
 ### [27] Who were mentioned as some of Americas most important writers?
 [[F Scott Fitzgerald]], [[Gertrude Stein]], and [[Ernest Hemingway]] feel so cut off from their roots, their society, their country, that they choose to live aboard
 ### [28] What did they feel about the current state of America?
-[[Gertrude Stein ]]said that they felt that this was a lost generation. They feel alienated.
+[[Gertrude Stein]] said that they felt that this was a lost generation. They feel alienated.
 ### [29] What did they do in response to this feeling?
-
+They chose to live abroad in Europe.
 ### [30] Writers Sinclair Lewis and H.L. Mencken express a growing dissatisfaction with what?
 With the lack of direction and purpose of American life.
 ### [31] As a sign of overwhelming changes in these times, what happens to President Harding?
@@ -97,13 +97,13 @@ More and more Americans are mortgaging tomorrow for what they want today. People
 ### [37] What happened to the American farmer during this period in America?
 The American farmer is suffering, In prep for the sudden war, farmers borrowed money and taken out mortgages to buy marginal land, but now that the war is ended (Quicker then expected), there is no longer a demand for all the food that can be raised. Farms are being foreclosed, the president says that 'the farmers never had made money anyhow'.
 ### [38] What was happening in the German economy?
-Germany's economy was being run into the ground, and it's currency was being used as walls to paper stoves.
+Germany's economy had a runaway inflation, and it's currency was being used as wallpaper, and to ingite (burn) stoves.
 ### [39] What controversial dictator in our world's history rose to power in response to Germany's failing economy?
 [[Adolf Hitler]]
 ### [40] What were the key issues in the United states during the year 1928?
-Income tax prohibition and prosperity are the key issues in 1928
+Income tax, prohibition, and prosperity are the key issues in 1928
 ### [41] By the time he came into office, what issues did President Herbert Hoover have to deal with?
-Stocks are dangerously high, and are inflated beyond their worth.
+Stocks are dangerously high, and are inflated beyond their worth. The stock market was unstable and it collapsed.
 ### [42] What does the value of stocks drop down to?
 Stocks down more than fifty billion dollars.
 ### [43] What does the value of the stock brokers and business mogul's responses to the failing stock market? 
@@ -111,5 +111,5 @@ As a result, some speculators commit suicide, small investors have their savings
 ### [44] By the end of 1930, how many Americans were unemployed? How much did it grow by 1932?
 There are 4.5 million Americans unemployed, and by 1932, it grew to 13 million.
 ### [45] What did America know about the coming times as a result of this major issue in it's economy?
-
+Did not have the answers to the problems it had to face, but knew it had to face them.
 
