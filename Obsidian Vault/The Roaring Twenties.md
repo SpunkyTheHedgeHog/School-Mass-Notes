@@ -101,14 +101,15 @@ Germany's economy was being run into the ground, and it's currency was being use
 ### [39] What controversial dictator in our world's history rose to power in response to Germany's failing economy?
 [[Adolf Hitler]]
 ### [40] What were the key issues in the United states during the year 1928?
-Tension is increasing between people who are accepting of the modern changes in America and those who are not. The issue of the old fundamentalisms versus the new science is taking place in a small town in Tennessee
+Income tax prohibition and prosperity are the key issues in 1928
 ### [41] By the time he came into office, what issues did President Herbert Hoover have to deal with?
-
+Stocks are dangerously high, and are inflated beyond their worth.
 ### [42] What does the value of stocks drop down to?
-
+Stocks down more than fifty billion dollars.
 ### [43] What does the value of the stock brokers and business mogul's responses to the failing stock market? 
-
+As a result, some speculators commit suicide, small investors have their savings wiped out. Many business are forced to close, national income drops to less that half, and 1 out of every 4 farms are sold for taxes.
 ### [44] By the end of 1930, how many Americans were unemployed? How much did it grow by 1932?
-
+There are 4.5 million Americans unemployed, and by 1932, it grew to 13 million.
 ### [45] What did America know about the coming times as a result of this major issue in it's economy?
+
 
