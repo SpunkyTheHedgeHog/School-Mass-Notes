@@ -87,14 +87,14 @@ President [[Calvin Coolidge]] says :
 ### [34] What were some of major changes for the traditional house wife during this time?
 - paint glass nickel
 - steel petroleum and Road building
-expanding use of electricity is creating labor-saving devices for the housewife 
-- washing machines
-- vacuum cleaners
-- refrigerators
+- expanding use of electricity is creating labor-saving devices for the housewife 
+	- washing machines
+	- vacuum cleaners
+	- refrigerators
 
 The expanding use of electricity is creating labor-saving devices for the housewife, and many of them are finding that they have more time to spend. 
 ### [35] What was much of the average Americans new found prosperity built on?
-Much of America's prosperity was based on easy credit and installment buying.
+Much of America's prosperity was based on easy credit and installment buying. They built a system on false currency.
 ### [36] More and more Americans are doing what during this time?
 More and more Americans are mortgaging tomorrow for what they want today. People are gambling on the stock market risk their savings hoping they can get rich quick.
 ### [37] What happened to the American farmer during this period in America?
@@ -114,5 +114,5 @@ As a result, some speculators commit suicide, small investors have their savings
 ### [44] By the end of 1930, how many Americans were unemployed? How much did it grow by 1932?
 There are 4.5 million Americans unemployed, and by 1932, it grew to 13 million.
 ### [45] What did America know about the coming times as a result of this major issue in it's economy?
-Did not have the answers to the problems it had to face, but knew it had to face them.
+Did not have the answers to the problems it had to face, but knew it had to face them. [[The G]]
 
