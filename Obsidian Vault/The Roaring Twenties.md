@@ -3,6 +3,9 @@ aliases: Roaring Twenties, Jazz Age
 tags: R20s WW1 America Template Inequality Roles
 ---
 # The Roaring Twenties
+
+
+
 ## Video Questions
 ### [1] What era does the narrator call the Roaring Twenties at the beginning of the film
 The Era of Wonderful Nonsense
