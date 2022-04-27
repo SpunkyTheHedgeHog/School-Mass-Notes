@@ -37,7 +37,7 @@ Banks are closing like a wave.
 
 The federal goverment does not bail out the banks 
 
-4 million to 12 million in **1932**
+4 million to 12 million in **1932** sometinh
 
 1,000 homes are repossed everyday.
 200,000 vagrant (people commiting crimes) children wander the country - without parents.
