@@ -59,4 +59,18 @@ It orginated from Olkahoma, Texas, Colordo, and Kanas. The Top soil is 4 meters 
 
 40% of America lives in isolated communites, but the 10,000 watt transformers help provide electricty, and thus radios and regulur news reports give national events and inform the country.
 
-A momument is made to symbolize America's Tenacity. The Washignton Momument is made, blasted out of rock. 
+A momument is made to symbolize America's Tenacity, it was a symbol of America's fate in it's future, as well as it's past. The Washignton Momument is made, blasted out of rock. The rock is carved by drills and dynomites - Hell for [[Bill Renolds]], a driller. [[Bill Renolds]] stays above the dynomite, grappeled down over the edge. Lighting strikes the power line and causes the dynomite to go off prematurly, inguring and damaging [[Bill Renolds]]'s eardrums, but he goes to work the next day anyway.
+
+30,000 years will it take for the mountain to be shaped back to how it was from natural decay.
+
+public works programs called the New Deal, put in place by Presiendt Rosevelt.
+
+In the Heavy Weight championship, 57 million people listen in to the fight between [[Joe Louis]] and [[Max Schmelling]], and German opponent.
+
+[[Joe Louis]]'s family was drove out of their home by the [[Ku Klux Klan]], and he keeps his family alve by boxing. 
+
+Boxing is a symbol of [[Totalitarianism]] against [[Democracy]]. Supremacy against a nonracial lind of society.
+
+[[Joe Louis]] loses the fight to [[Max Schmelling]]. This was inspiration for Germany, and was a publicity dream for the Nazis. Hitler says 'their mistake was freeing their slaves'. A rematch is arranged. In Germany, Nazis expand their power. [[Joe Louis]] had alot of Weight on his Shoulders. For the first time in America's history, it was symbolicaly represented by a black man.
+75 thousand people watch the fight live, 7 million people tune in via radio, 100 million people tune in via tv.
+
