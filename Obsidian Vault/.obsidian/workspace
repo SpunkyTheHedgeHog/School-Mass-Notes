@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Roaring Twenties.md",
+            "file": "The Great Depression INDEX.md",
             "mode": "source",
             "source": false
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Roaring Twenties.md"
+                "file": "The Great Depression INDEX.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Roaring Twenties.md",
+                "file": "The Great Depression INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Roaring Twenties.md",
+                "file": "The Great Depression INDEX.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,15 +146,15 @@
   },
   "active": "c3986f15fc4e672b",
   "lastOpenFiles": [
+    "The Great Depression INDEX.md",
     "The Roaring Twenties.md",
+    "Hennery Ford.md",
+    "F Scott Fitzgerald.md",
+    "Warren Harding.md",
     "Calvin Coolidge.md",
     "Ernest Hemingway.md",
     "Gertrude Stein.md",
-    "F Scott Fitzgerald.md",
     "Adolf Hitler.md",
-    "WW1 INDEX.md",
-    "Automobile.md",
-    "Hennery Ford.md",
-    "Warren Harding.md"
+    "WW1 INDEX.md"
   ]
 }
