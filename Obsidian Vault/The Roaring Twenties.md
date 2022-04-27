@@ -114,5 +114,5 @@ As a result, some speculators commit suicide, small investors have their savings
 ### [44] By the end of 1930, how many Americans were unemployed? How much did it grow by 1932?
 There are 4.5 million Americans unemployed, and by 1932, it grew to 13 million.
 ### [45] What did America know about the coming times as a result of this major issue in it's economy?
-Did not have the answers to the problems it had to face, but knew it had to face them. [[The Great Depression]]
+Did not have the answers to the problems it had to face, but knew it had to face them. [[The Great Depression INDEX]]
 
