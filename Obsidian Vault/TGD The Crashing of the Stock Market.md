@@ -1,6 +1,5 @@
 ---
 aliases: The Crashing of the Stock Market
-tags: 
 ---
 # The Crashing of the Stock Market
 

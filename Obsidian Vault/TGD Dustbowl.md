@@ -1,6 +1,5 @@
 ---
 aliases: 
-tags:
 ---
 # TGD Dustbowl
 **1934**, The dustbowl,

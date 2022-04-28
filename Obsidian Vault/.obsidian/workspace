@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TGD INDEX.md",
+            "file": "WW1 YMCA.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"tags:\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TGD INDEX.md"
+                "file": "WW1 YMCA.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TGD INDEX.md",
+                "file": "WW1 YMCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TGD INDEX.md",
+                "file": "WW1 YMCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +148,15 @@
   },
   "active": "0d5e707459a16bff",
   "lastOpenFiles": [
-    "TGD INDEX.md",
+    "WW1 YMCA.md",
+    "W.E.B Du Bois.md",
+    "War Bonds.md",
+    "WW1 Life During The War.md",
+    "WW1 Life Before The War.md",
+    "WW1 Central Powers.md",
+    "WW1 Allied Powers.md",
     "TGD The Start of WW2.md",
-    "TGD Recovery.md",
-    "The Washington Monument.md",
-    "TGD Dustbowl.md",
     "TGD The Years Following The Crash.md",
-    "Stock Market.md",
-    "WW1 INDEX.md",
-    "The Roaring Twenties.md",
-    "Jim Crow.md"
+    "The Roaring Twenties.md"
   ]
 }

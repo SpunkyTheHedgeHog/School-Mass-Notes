@@ -1,6 +1,5 @@
 ---
 aliases: 
-tags: 
 ---
 # TGD Recovery
 

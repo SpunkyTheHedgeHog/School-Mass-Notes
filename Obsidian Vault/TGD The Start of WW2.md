@@ -1,6 +1,5 @@
 ---
 aliases: 
-tags: 
 ---
 # TGD The Start of WW2
 5,000 people live in Los Vegas.

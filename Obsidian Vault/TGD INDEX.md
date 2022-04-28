@@ -1,6 +1,5 @@
 ---
 aliases: The Great Depression, Great Depression
-tags:
 ---
 # The Great Depression Index
 

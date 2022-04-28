@@ -1,6 +1,5 @@
 ---
 aliases: The Years following the Crash
-tags:
 ---
 # The Years following the Crash
 

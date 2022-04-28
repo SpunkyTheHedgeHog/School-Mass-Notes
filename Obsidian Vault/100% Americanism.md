@@ -1,6 +1,5 @@
 ---
 aliases: Americanism
-tags:
 ---
 # 100% Americanism
 **100% Americanism** was the notion that immigrants had to renounce any sort of ties to their homelands; political ties, cultural ties, economic ties to be considered 100% loyal. 100% National Unity,
