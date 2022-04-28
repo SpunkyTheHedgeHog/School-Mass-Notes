@@ -30,7 +30,7 @@ On **April 13, 1935**, [[Louise Walter]] is living on the southern plains with h
 
 By **1936**, 26 billion dollars a day are lost by farmers. 250,000 farmers are fleeing the dust. Black Sunday. 2/3 of "dustbowlers" stay.
 ### What major engineering project helped to save the southwest of America?
-In attempt to recover, America started to try it's best help itself out and relaim at least some of what it lost. After losing roughly about 
+In attempt to recover, America started to try it's best help itself out and relaim at least some of what it lost. After losing above 6 million dollars, the public funded a vast amount of building projects that were privatly built, one of them included [[The Hoover Dam]], built over the Colorado river. [[The Hoover Dam]], named after [[Herbert Hoover]] represented America regaining it's balance. It was built by head engineer [[Frank Crowe]], nicknamed [[Frank Crowe|Frank 'hurry up' Crowe]] for their efficciecy at building Dams. 
 
 Vast building projects - Publicly funded privately built
 

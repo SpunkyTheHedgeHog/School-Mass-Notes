@@ -3,7 +3,7 @@ aliases:
 ---
 # TGD Recovery
 
-Vast building projects - Publicly funded privately built
+Vast building projects - Publicly funded privately built #Inquiry `Yes, but what does that mean?`
 
 [[Frank Crowe|Frank 'hurry up' Crowe]] built a damn over the Colorado river, called [[The Hoover Dam]], named after [[Herbert Hoover]]
 
