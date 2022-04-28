@@ -12,4 +12,8 @@ Boxing is a symbol of [[Totalitarianism]] against [[Democracy]]. Supremacy again
 
 [[Joe Louis]] loses the fight to [[Max Schmelling]]. This was inspiration for Germany, and was a publicity dream for the Nazis. Hitler says 'their mistake was freeing their slaves'. A rematch is arranged. In Germany, Nazis expand their power. [[Joe Louis]] had a lot of Weight on his Shoulders. For the first time in America's history, it was symbolically represented by a black man.
 
-75 thousand people watch the fight live, 7 million people tune in via radio, 100 million people tune in via tv.
+75 thousand people watch the fight live, 7 million people tune in via radio, 100 million people tune in via tv. The fight is a batlle of ideaologys, it represented alot more. [[Max Schmelling]] represented everything America disliked.
+
+[[Max Schmelling|Schmelling]] is knocked out and loses the fight in 124 seconds.
+
+His victory was was what America needed at the time.

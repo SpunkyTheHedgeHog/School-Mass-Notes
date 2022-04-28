@@ -21,6 +21,7 @@ tags: Inequality Roles
 > [[WW1 Life After The War|Life After The War]]
 > 
 > [[The Roaring Twenties]]
+
 ## Questions, Answers, & Summaries
 ### **What was America like before and during World War I?**
 America before the war was in a 'golden age', they were experiencing an optimistic future, and were trying to avoid war as much as possible. However, during the war, America had to adjust and compensate for the situation. There were many social changes that were brought on.
