@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c3986f15fc4e672b",
+        "id": "62bc72ff8e4b0cfc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "The Great Depression INDEX.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "241613f057568c4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TGD The Years Following The Crash.md",
             "mode": "source",
             "source": false
           }
@@ -144,17 +156,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "c3986f15fc4e672b",
+  "active": "62bc72ff8e4b0cfc",
   "lastOpenFiles": [
     "The Great Depression INDEX.md",
+    "TGD The Years Following The Crash.md",
+    "TGD The Crashing of the Stock Market.md",
     "The Roaring Twenties.md",
+    "The Great Depression.md",
+    "Bill Renolds.md",
+    "Templates/Template.Tags&Title.md",
     "Hennery Ford.md",
     "F Scott Fitzgerald.md",
-    "Warren Harding.md",
-    "Calvin Coolidge.md",
-    "Ernest Hemingway.md",
-    "Gertrude Stein.md",
-    "Adolf Hitler.md",
-    "WW1 INDEX.md"
+    "Warren Harding.md"
   ]
 }

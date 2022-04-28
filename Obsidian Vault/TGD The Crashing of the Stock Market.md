@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: The Crashing of the Stock Market
 tags: TGD
 ---
 # The Crashing of the Stock Market

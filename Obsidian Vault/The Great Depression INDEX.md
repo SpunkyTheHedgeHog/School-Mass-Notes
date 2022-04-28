@@ -5,63 +5,35 @@ tags: WW1 R20s INDEX
 # The Great Depression Index
 
 > [[The Roaring Twenties]]
-> [[TGD The Crashing of the Stock Market]]
-> [[TGD Start of the Crash]]
+> 
+> [[TGD The Crashing of the Stock Market|The Crashing of the Stock Market]]
+> [[TGD The Years Following The Crash|The Years following the Crash]]
 
-Social upheaval, poverty, drought.
+## Questions, Answers, and Summaries
+### In what year did the Great Depression begin?
+[[The Great Depression INDEX|The Great Depression]] began in **1929** 
+### What was said to be the cause of the Great Depression in America?
 
-## 1920 
-money flows, oil wells generate lots of money, and Skyscrapers go higher than stock market.
+### What did America feel that it had to do to recover from the Great Depression?
 
-Suburban housing projects like Hollywood-Land.
+### What was the “Dust Bowl” and what caused it?
 
-Got carried away with consumerism and capitalism.
+### What were the affects of the “Dust Bowl”?
 
-## 1929
-more money spent on advertisement than education.
+### What major engineering project helped to save the southwest of America?
 
-The boom is built on easy credit - 6 billion dollars of goods are bought on credit. 80% of Americans have no savings at all.
+### How did this project help the southwest and America? What states did it mainly benefit?
 
-Money was being borrowed that people could not pay back, this hurt both sides.
+### What was the name of the man responsible for building this great engineering marvel?
 
-Some stocks are bought at 50 times of what they are worth.
-The Stock market loses 12 times more money in three weeks than the US government uses in a year. #Inquiry `How does the stock market lose money, isn't it always in circulation?`
+### In what ways was this creation going to help America out of the Great Depression?
 
-Americans economy teeters on the edge of the abyss
+### What entertainment event lifted Americas spirit during these troubling times? What was the name of Americas hero in this event?
 
-## 1930
-It has been a year since the crash, a person (stock broker) puts their money in a bank that is about to cease to exist; A business person asks for their money from the US Bank, but the bank refuses to gives it to him.
-20,000 to 25,000 people gather outside the bank, protesting if the bank will become like the stock market. Police are sent to 'control' the problem
+### After all that has happened what coming world controversy was responsible for giving America the final push out of the great Depression?
 
-2 million are withdrawn from this branch alone
+### In what ways was this creation going to help America out of the Great Depression?
 
-Banks are closing like a wave.
-28 states without a single bank open.
+### What entertainment event lifted Americas spirit during these troubling times? What was the name of Americas hero in this event?
 
-The federal government does not bail out the banks 
-
-4 million to 12 million in **1932**
-
-1,000 homes are reposed everyday.
-200,000 vagrant (people committing crimes) children wander the country - without parents.
-34 million Americans have no source of Income.
-
-Vast building projects - Publicly funded privately built
-
-[[Frank Crowe|Frank 'hurry up' Crowe]] built a damn over the Colorado river, called [[The Hoover Dam]]
-
-The water and hydroelectricity will transform the whole of the Southwest.
-
-**March 4th, 1931** : The government gives the go-ahead to build [[The Hoover Dam]]
-
-Even before it was built, it was seen as a metaphor
-
-[[The Hoover Damn]] would cost 1 million dollars to build.
-Frank would receive a 2.5% cut of the Dam's profit. 
-
-42,000 men come across the country looking for jobs.
-
-[[Frank Crowe]] takes 5,000 men out of the 42,000 people who spent 'maybe' the majority of their savings to travel.
-
-It was survival of the fittest, known as [[Social Darwinism]]
-
+### After all that has happened what coming world controversy was responsible for giving America the final push out of the great Depression?
