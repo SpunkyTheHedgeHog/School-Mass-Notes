@@ -19,6 +19,7 @@ tags: Inequality Roles
 > [[WW1 Preparing For War|Preparing For War]]
 > [[WW1 Life During The War|Life During The War]]
 > [[WW1 Life After The War|Life After The War]]
+> 
 > [[The Roaring Twenties]]
 ## Questions, Answers, & Summaries
 ### **What was America like before and during World War I?**
