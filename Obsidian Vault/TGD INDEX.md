@@ -30,7 +30,27 @@ On **April 13, 1935**, [[Louise Walter]] is living on the southern plains with h
 
 By **1936**, 26 billion dollars a day are lost by farmers. 250,000 farmers are fleeing the dust. Black Sunday. 2/3 of "dustbowlers" stay.
 ### What major engineering project helped to save the southwest of America?
+In attempt to recover, America started to try it's best help itself out and relaim at least some of what it lost. After losing roughly about 
 
+Vast building projects - Publicly funded privately built
+
+[[Frank Crowe|Frank 'hurry up' Crowe]] built a damn over the Colorado river, called [[The Hoover Dam]], named after [[Herbert Hoover]]
+
+The water and hydroelectricity will transform the whole of the Southwest.
+Nevada, Arizona, California, still benefit from the hydroelectricity today.
+
+**March 4th, 1931** : The government gives the go-ahead to build [[The Hoover Dam]]
+
+Even before it was built, it was seen as a metaphor
+
+[[The Hoover Damn]] would cost 1 million dollars to build.
+Frank would receive a 2.5% cut of the Dam's profit. 
+
+42,000 men come across the country looking for jobs.
+
+[[Frank Crowe]] takes 5,000 men out of the 42,000 people who spent 'maybe' the majority of their savings to travel.
+
+It was survival of the fittest, known as [[Social Darwinism]]
 ### How did this project help the southwest and America? What states did it mainly benefit?
 
 ### What was the name of the man responsible for building this great engineering marvel?
