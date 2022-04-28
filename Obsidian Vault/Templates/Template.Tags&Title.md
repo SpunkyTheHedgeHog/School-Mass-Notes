@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: Template
+tags: DeleteThis
 ---
 # {{title}}

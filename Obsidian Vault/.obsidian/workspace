@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WW1 YMCA.md",
+            "file": "TGD Recovery.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"tags:\"",
+                "query": "\"The Hoover Damn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WW1 YMCA.md"
+                "file": "TGD Recovery.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WW1 YMCA.md",
+                "file": "TGD Recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WW1 YMCA.md",
+                "file": "TGD Recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,20 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373,
-    "collapsed": true
+    "width": 373
   },
   "active": "0d5e707459a16bff",
   "lastOpenFiles": [
-    "WW1 YMCA.md",
-    "W.E.B Du Bois.md",
-    "War Bonds.md",
-    "WW1 Life During The War.md",
-    "WW1 Life Before The War.md",
-    "WW1 Central Powers.md",
-    "WW1 Allied Powers.md",
-    "TGD The Start of WW2.md",
-    "TGD The Years Following The Crash.md",
-    "The Roaring Twenties.md"
+    "TGD Recovery.md",
+    "The Hoover Dam.md",
+    "TGD INDEX.md",
+    "Herbert Hoover.md",
+    "Frank Crowe.md",
+    "Ku Klux Klan.md",
+    "Joe Louis.md",
+    "Max Schmelling.md",
+    "WW1 Harlem Hellfighters.md",
+    "Hennery Johnson.md"
   ]
 }

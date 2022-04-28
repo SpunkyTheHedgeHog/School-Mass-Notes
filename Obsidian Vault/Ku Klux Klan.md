@@ -1,6 +1,6 @@
 ---
 aliases: KKK
-tags: Inequality
+tags: Inequality Religion
 ---
 # Ku Klux Klan
 [[White Supremacy]]

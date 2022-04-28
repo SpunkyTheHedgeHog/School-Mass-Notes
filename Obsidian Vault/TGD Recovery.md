@@ -14,7 +14,7 @@ Nevada, Arizona, California, still benefit from the hydroelectricity today.
 
 Even before it was built, it was seen as a metaphor
 
-[[The Hoover Damn]] would cost 1 million dollars to build.
+[[The Hoover Dam]] would cost 1 million dollars to build.
 Frank would receive a 2.5% cut of the Dam's profit. 
 
 42,000 men come across the country looking for jobs.
