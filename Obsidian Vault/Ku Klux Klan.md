@@ -1,6 +1,6 @@
 ---
 aliases: KKK
-tags: WW1 America Inequality
+tags: Inequality
 ---
 # Ku Klux Klan
 [[White Supremacy]]

@@ -1,10 +1,10 @@
 ---
 aliases: Roaring Twenties, Jazz Age
-tags: R20s WW1 America Template Inequality Roles
+tags: Roles
 ---
 # The Roaring Twenties
-
-
+> [[WW1 INDEX|WW1]]
+> [[TGD INDEX|The Great Depression]]
 
 ## Video Questions
 ### [1] What era does the narrator call the Roaring Twenties at the beginning of the film
@@ -96,7 +96,7 @@ The expanding use of electricity is creating labor-saving devices for the housew
 ### [35] What was much of the average Americans new found prosperity built on?
 Much of America's prosperity was based on easy credit and installment buying. They built a system on false currency.
 ### [36] More and more Americans are doing what during this time?
-More and more Americans are mortgaging tomorrow for what they want today. People are gambling on the stock market risk their savings hoping they can get rich quick.
+More and more Americans are mortgaging tomorrow for what they want today. People are gambling on the [[stock market]] risk their savings hoping they can get rich quick.
 ### [37] What happened to the American farmer during this period in America?
 The American farmer is suffering, In prep for the sudden war, farmers borrowed money and taken out mortgages to buy marginal land, but now that the war is ended (Quicker then expected), there is no longer a demand for all the food that can be raised. Farms are being foreclosed, the president says that 'the farmers never had made money anyhow'.
 ### [38] What was happening in the German economy?
@@ -106,13 +106,13 @@ Germany's economy had a runaway inflation, and it's currency was being used as w
 ### [40] What were the key issues in the United states during the year 1928?
 Income tax, prohibition, and prosperity are the key issues in 1928
 ### [41] By the time he came into office, what issues did President Herbert Hoover have to deal with?
-Stocks are dangerously high, and are inflated beyond their worth. The stock market was unstable and it collapsed.
+Stocks are dangerously high, and are inflated beyond their worth. The [[stock market]] was unstable and it collapsed.
 ### [42] What does the value of stocks drop down to?
 Stocks down more than fifty billion dollars.
-### [43] What does the value of the stock brokers and business mogul's responses to the failing stock market? 
+### [43] What does the value of the stock brokers and business mogul's responses to the failing [[stock market]]? 
 As a result, some speculators commit suicide, small investors have their savings wiped out. Many business are forced to close, national income drops to less that half, and 1 out of every 4 farms are sold for taxes.
 ### [44] By the end of 1930, how many Americans were unemployed? How much did it grow by 1932?
 There are 4.5 million Americans unemployed, and by 1932, it grew to 13 million.
 ### [45] What did America know about the coming times as a result of this major issue in it's economy?
-Did not have the answers to the problems it had to face, but knew it had to face them. [[The Great Depression INDEX]]
+Did not have the answers to the problems it had to face, but knew it had to face them. [[TGD INDEX]]
 

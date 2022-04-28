@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: R20s
+tags: Person
 ---
 # Hennery Ford
 [[Automobile]]

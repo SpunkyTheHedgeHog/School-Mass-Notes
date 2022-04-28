@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: WW1 Inequality 
+tags: Inequality 
 ---
 # WW1 Harlem Hellfighters
 **Main Points** :

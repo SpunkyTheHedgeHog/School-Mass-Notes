@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: Person R20s
+tags: Person
 ---
 # F Scott Fitzgerald

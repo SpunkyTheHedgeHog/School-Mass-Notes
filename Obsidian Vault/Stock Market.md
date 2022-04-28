@@ -2,4 +2,4 @@
 aliases: 
 tags: 
 ---
-# Normalcy
+# Stock Market

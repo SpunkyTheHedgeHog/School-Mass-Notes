@@ -1,6 +1,6 @@
 ---
 aliases: WW1
-tags: WW1 Index America France Britian Russia Germany Austria_Hungary Ottoman_Empire Inequality
+tags: Inequality Roles
 ---
 # WW1 Index
 > [[WW1 Allied Powers|Allied Powers]]

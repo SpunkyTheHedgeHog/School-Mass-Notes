@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: WW1 France Britian Russia Germany America Roles
+tags: Roles
 ---
 # WW1 After The War
 The War was predilected to last far into **1920**, but unexpectedly, Germany Surrendered in **1918** because they could not hold off the [[WW1 Allied Powers|Allied Powers]]. An Armistice was Signed, an agreement to end fighting, on **November 11th, 1918**.

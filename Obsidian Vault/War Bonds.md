@@ -1,5 +1,5 @@
 ---
 aliases:
-tags: WW1 America
+tags: 
 ---
 # War Bonds

@@ -1,5 +1,5 @@
 ---
 aliases: YMCA
-tags: WW1
+tags: 
 ---
 # WW1 YMCA

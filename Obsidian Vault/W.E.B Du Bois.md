@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: WW1 Person 
+tags: 
 ---
 # W.E.B Du Bois
 Interviewer? #Inquiry 

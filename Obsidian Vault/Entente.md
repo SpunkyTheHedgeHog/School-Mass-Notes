@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: WW1 Vocabulary 
+tags: Vocabulary 
 ---
 # Entente
 A non-binding to follow common polices

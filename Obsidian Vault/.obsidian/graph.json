@@ -3,7 +3,7 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "tag:#WW1",
+      "query": "WW1",
       "color": {
         "a": 1,
         "rgb": 11833005
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.18462326225858824,
-  "close": true
+  "scale": 0.5087618855792794,
+  "close": false
 }

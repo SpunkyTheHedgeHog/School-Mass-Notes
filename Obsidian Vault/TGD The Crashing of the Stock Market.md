@@ -1,6 +1,6 @@
 ---
 aliases: The Crashing of the Stock Market
-tags: TGD
+tags: 
 ---
 # The Crashing of the Stock Market
 
