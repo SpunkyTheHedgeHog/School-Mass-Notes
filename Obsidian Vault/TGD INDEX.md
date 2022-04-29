@@ -49,3 +49,6 @@ The Heavy Weight Championship, where American hero, [[Joe Louis]], was put up ag
 75 thousand people watch the fight live, 7 million people tune in via radio, 100 million people tune in via tv. The fight is a battle of ideologies, it was representing a lot more. [[Max Schmelling]] represented everything America disliked.
 
 [[Max Schmelling|Schmelling]] is knocked out and loses the fight in 124 seconds. His victory was was what America needed at the time.
+### ==Explain== How did the U.S. Government react to the Great Depression? `PG 426`
+### ==Compare Points Of View== Describe the similarities between fascism and communism. `PG 430`
+### ==Support Ideas With Examples== Describe the problems of the Weimar Republic. `PG 440`
