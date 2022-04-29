@@ -38,13 +38,14 @@ The water and hydroelectricity that the Dam generates off of it's *'a-million-an
 ### What was the name of the man responsible for building this great engineering marvel?
 [[Frank Crowe]], otherwise known as [[Frank Crowe|Frank 'hurry up' Crowe]] for his efficiency.
 ### In what ways was this creation going to help America out of the Great Depression?
-The Dam generates electricity, and power from the water. The electricity made can make money for the US. 
+The Dam generates electricity, and power from the water. The electricity made can make money for the US. It's profit is directly responsible for the town of [[Las Vegas]], and around **1930**, 5,000 people live in [[Las Vegas]]. The city is seen as a relaxing, fun and games (Drinking and Gambling) haven for men. Wives of men say that they deserve the haven for the hard work they have done on the [[The Hoover Dam|Hoover Dam]].
+
+In **present day**, over 37 million people come each year to party.
 ### What entertainment event lifted Americas spirit during these troubling times? What was the name of Americas hero in this event?
-
+The Heavy Weight Championship, where American hero, [[Joe Louis]], was put up against what was seen as America's opponent - German fighter, [[Max Schmelling]].
 ### After all that has happened what coming world controversy was responsible for giving America the final push out of the great Depression?
+[[Joe Louis]] loses the fight to [[Max Schmelling]]. This was inspiration for Germany, and was a publicity dream for the Nazis. [[Adolf Hitler]] says 'their mistake was freeing their slaves'. A rematch is arranged. In Germany, Nazis expand their power. [[Joe Louis]] had a lot of Weight on his Shoulders. For the first time in America's history, it was symbolically represented by a black man.
 
-### In what ways was this creation going to help America out of the Great Depression?
+75 thousand people watch the fight live, 7 million people tune in via radio, 100 million people tune in via tv. The fight is a battle of ideologies, it was representing a lot more. [[Max Schmelling]] represented everything America disliked.
 
-### What entertainment event lifted Americas spirit during these troubling times? What was the name of Americas hero in this event?
-
-### After all that has happened what coming world controversy was responsible for giving America the final push out of the great Depression?
+[[Max Schmelling|Schmelling]] is knocked out and loses the fight in 124 seconds. His victory was was what America needed at the time.
