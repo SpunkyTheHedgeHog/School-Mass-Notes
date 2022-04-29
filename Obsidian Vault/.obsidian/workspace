@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Militarism.md",
+            "file": "TGD INDEX.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Militarism.md"
+                "file": "TGD INDEX.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Militarism.md",
+                "file": "TGD INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Militarism.md",
+                "file": "TGD INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,15 +147,15 @@
   },
   "active": "d0cdf1d56e366a30",
   "lastOpenFiles": [
+    "TGD INDEX.md",
+    "Erma Godbey.md",
+    "The Hoover Dam.md",
+    "TGD The Years Following The Crash.md",
+    "TGD Recovery.md",
     "Militarism.md",
     "WW1 Propaganda.md",
     "Adolf Hitler.md",
     "+Home.md",
-    "Templates/Template.Tags&Title.md",
-    "TGD Recovery.md",
-    "Bill Reynolds.md",
-    "Louise Walter.md",
-    "Social Darwinism.md",
-    "TGD The Years Following The Crash.md"
+    "Templates/Template.Tags&Title.md"
   ]
 }
