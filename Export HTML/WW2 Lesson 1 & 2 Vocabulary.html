@@ -17,44 +17,82 @@
                 <link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/main.css" />
                 <script src="/School-Mass-Notes/Export HTML/obs.html/static/mermaid.min.js"></script> 
                 
+<link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/callouts.css" />
 <link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/graph.css" />
-<script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/dirtree.js" /></script>
 
 
                 <!-- Onload tweaks -->
                 <script>
-                        // add prefix to hash to avoid scrolling
-                        if (1 == 0){
-                                if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
-                                        window.location.hash = '!' + window.location.hash.substr(1);
-                                }
-                        }
+                        const CURRENT_NODE = 'WW2 Lesson 1 & 2 Vocabulary';
                 </script>
         </head>
 
 <body onload="LoadPage();">
-<div id="header" class="header">
-        <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
-
-        <div style="width:6rem; height:1.6rem; position:fixed; left:calc(100vw - 6rem);top: 0.9rem; ">
-
-                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
-                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" title="Open tag view">
-                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="RSS Feed link"/>
-                        </a>
-                </div>
-        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+        <div class="flex_col">
+                <div id="header" class="header">
+                        <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="RSS Feed link"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
             <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
                     <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
             </a>
         </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=WW2 Lesson 1 & 2 Vocabulary" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
         </div>
-
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <div class="flex_row">
+                        <div id="left_pane"></div>
+                        <div class="container">
+                                        <h1 id="ww2-vocabulary">WW2 Vocabulary</h1>
+<div class="toc">
+<ul>
+<li><a href="#ww2-vocabulary" class="anchor-link">WW2 Vocabulary</a><ul>
+<li><a href="#lesson-1-aggression-appeasement-and-war-pg-456" class="anchor-link">Lesson 1 – Aggression, Appeasement and War pg-456</a><ul>
+<li><a href="#01-appeasement" class="anchor-link">01     :   Appeasement</a></li>
+<li><a href="#02-pacifism" class="anchor-link">02 :   Pacifism</a></li>
+<li><a href="#03-neutrality-acts" class="anchor-link">03 :   Neutrality Acts</a></li>
+<li><a href="#04-axis-powers" class="anchor-link">04 :   Axis Powers</a></li>
+<li><a href="#05-francisco-franco" class="anchor-link">05 :   Francisco Franco</a></li>
+<li><a href="#06-anschluss" class="anchor-link">06 :   Anschluss</a></li>
+<li><a href="#07-muhammad-ali-jinnah-skipped" class="anchor-link">07 :   Muhammad Ali Jinnah ::: Skipped</a></li>
+<li><a href="#08-sudetenland" class="anchor-link">08 :   Sudetenland</a></li>
+<li><a href="#09-nazi-soviet-pact" class="anchor-link">09 :   Nazi-Soviet Pact</a></li>
+</ul>
+</li>
+<li><a href="#lesson-2-axis-powers-advance-pg-462" class="anchor-link">Lesson 2 – Axis Powers Advance- pg-462</a><ul>
+<li><a href="#10-blitzkrieg" class="anchor-link">10 :   Blitzkrieg</a></li>
+<li><a href="#11-luftwaffe" class="anchor-link">11 :   Luftwaffe</a></li>
+<li><a href="#12-dunkirk" class="anchor-link">12 :   Dunkirk</a></li>
+<li><a href="#13-vichy" class="anchor-link">13 :   Vichy</a></li>
+<li><a href="#14-erwin-rommel" class="anchor-link">14 :   Erwin Rommel</a></li>
+<li><a href="#15-lend-lease-act" class="anchor-link">15 :   Lend-Lease Act</a></li>
+<li><a href="#16-atlantic-charter" class="anchor-link">16 :   Atlantic Charter</a></li>
+<li><a href="#17-hideki-tojo" class="anchor-link">17 :   Hideki Tojo</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 </div>
-<div class="container-wrapper single_tab_page">
-        <div class="container">
-        <h1 id="ww2-vocabulary">WW2 Vocabulary</h1>
 <h2 id="lesson-1-aggression-appeasement-and-war-pg-456">Lesson 1 – Aggression, Appeasement and War pg-456</h2>
 <h4 id="01-appeasement">01     :   Appeasement</h4>
 <blockquote>
@@ -140,17 +178,74 @@
 <p>Hideki Tojo (1884–1948) was born in Tokyo and was a career military man. He was a general of the Imperial Japanese Army and the 40th prime minister of Japan during most of World War II, from 1941 to 1945. He was directly responsible for the attack on Pearl Harbor, and was arrested and sentenced to death for Japanese war crimes.   </p>
 <p>Hideki Tojo was prime minister for 3 years before he was sentenced to death.   </p>
 </blockquote>
-<div class="graph">
-    <svg class="graph_svg" id="A234709651817302701906606313702615620818{level}"></svg>
-    <button class="graph_button" id="B234709651817302701906606313702615620818{level}" level="{level}" onclick="run('234709651817302701906606313702615620818'+this.level, 'WW2 Lesson 1 & 2 Vocabulary');">Show Graph</button>
+<!-- <div class="graph">
+    <svg class="graph_svg" id="A142466652917403548955559589350471238611{level}"></svg>
+    <button class="graph_button" id="B142466652917403548955559589350471238611{level}" level="{level}" onclick="run('142466652917403548955559589350471238611'+this.level, 'WW2 Lesson 1 & 2 Vocabulary');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
-        <!-- end content -->
-        </div>
+ -->
+ <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
+
+<div class="graph">
+    <div id="A142466652917403548955559589350471238611{level}" class="graph_div"></div>
+    <button class="graph_button" id="B142466652917403548955559589350471238611{level}" level="{level}" onclick="run('142466652917403548955559589350471238611'+this.level, 'WW2 Lesson 1 & 2 Vocabulary');">Show Graph</button>
 </div>
 
 
+<script src="//unpkg.com/3d-force-graph"></script>
+<script>
+    function grapher(args) {
+        window.Graph = ForceGraph3D()
+            (args.graph_container)
+            .jsonUrl(args.data)
+            .width(args.width)
+            .height(args.height)
+            .nodeLabel('id')
+            .linkDirectionalParticles("value")
+            .linkDirectionalParticleSpeed(0.010)
+            .linkDirectionalParticleWidth(2.0)
+            .nodeColor(node => {
+                if (node.id == current_node_id){
+                    return '#ff0000'
+                }
+                let isConnected = false;
+                node.links.forEach(link => {
+                    if (link == current_node_id){
+                        isConnected = true;
+                    }
+                })
+                if (isConnected){
+                    return '#f7be49';
+                }
+                return '#ffffff'
+            })
+            .linkColor(link => {
+                if (link.source == current_node_id || link.target == current_node_id){
+                    return '#ff0000'
+                }
+                return '#dadada'
+            })
+            .linkOpacity(0.3)
+            .onNodeClick(node => {
+                args.node = node;
+                graph_left_click(args)()
+            })
+            .onNodeRightClick(node => {
+                args.node = node;
+                graph_right_click(args)()
+            });
+    }
+</script>
+
+
+                        <!-- end content -->
+                        </div>
+                        <div id="right_pane"></div>
+                </div>
+        </div>
+
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
+
 </body>
 </html>

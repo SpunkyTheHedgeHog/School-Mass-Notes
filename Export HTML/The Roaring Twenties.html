@@ -17,47 +17,110 @@
                 <link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/main.css" />
                 <script src="/School-Mass-Notes/Export HTML/obs.html/static/mermaid.min.js"></script> 
                 
+<link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/callouts.css" />
 <link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/graph.css" />
-<script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/dirtree.js" /></script>
 
 
                 <!-- Onload tweaks -->
                 <script>
-                        // add prefix to hash to avoid scrolling
-                        if (1 == 0){
-                                if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
-                                        window.location.hash = '!' + window.location.hash.substr(1);
-                                }
-                        }
+                        const CURRENT_NODE = 'The Roaring Twenties';
                 </script>
         </head>
 
 <body onload="LoadPage();">
-<div id="header" class="header">
-        <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
-
-        <div style="width:6rem; height:1.6rem; position:fixed; left:calc(100vw - 6rem);top: 0.9rem; ">
-
-                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
-                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" title="Open tag view">
-                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="RSS Feed link"/>
-                        </a>
-                </div>
-        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+        <div class="flex_col">
+                <div id="header" class="header">
+                        <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="RSS Feed link"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
             <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
                     <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
             </a>
         </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=The Roaring Twenties" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
         </div>
-
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <div class="flex_row">
+                        <div id="left_pane"></div>
+                        <div class="container">
+                                        <h1 id="the-roaring-twenties">The Roaring Twenties</h1>
+<div class="toc">
+<ul>
+<li><a href="#the-roaring-twenties" class="anchor-link">The Roaring Twenties</a><ul>
+<li><a href="#video-questions" class="anchor-link">Video Questions</a><ul>
+<li><a href="#1-what-era-does-the-narrator-call-the-roaring-twenties-at-the-beginning-of-the-film" class="anchor-link">[1] What era does the narrator call the Roaring Twenties at the beginning of the film</a></li>
+<li><a href="#2-the-narrator-states-that-the-roaring-twenties-was-a-time-of-growing-conflict-between-who" class="anchor-link">[2] The narrator states that the roaring twenties was a time of growing conflict between who?</a></li>
+<li><a href="#3-what-other-comparisons-of-controversy-does-the-films-narrator-make" class="anchor-link">[3] What other comparisons of controversy does the films narrator make?</a></li>
+<li><a href="#4-what-date-did-ww1-end" class="anchor-link">[4] What date did WW1 end?</a></li>
+<li><a href="#5-how-many-american-soldiers-began-their-journey-home" class="anchor-link">[5] How many American soldiers began their journey home?</a></li>
+<li><a href="#6-what-did-the-narrator-ask-about-the-mindsets-of-returning-soldiers" class="anchor-link">[6] What did the narrator ask about the mindsets of returning soldiers</a></li>
+<li><a href="#7-who-was-the-president-during-this-time-in-america" class="anchor-link">[7] Who was the president during this time in America?</a></li>
+<li><a href="#8-according-to-the-narrator-how-many-lives-were-lost-in-ww1" class="anchor-link">[8] According to the narrator how many lives were lost in WW1?</a></li>
+<li><a href="#9-what-were-steel-workers-striking-for" class="anchor-link">[9] What were steel workers striking for</a></li>
+<li><a href="#10-what-were-the-boston-police-striking-for-how-much-did-they-earn-before" class="anchor-link">[10] What were the Boston police striking for? How much did they earn before?</a></li>
+<li><a href="#11-after-all-of-the-controversy-in-this-part-of-the-film-is-mentioned-what-does-the-narrator-ask-about-the-state-of-america" class="anchor-link">[11] After all of the controversy in this part of the film is mentioned, what does the narrator ask about the state of America?</a></li>
+<li><a href="#12-with-the-ku-klux-klan-resurgence-where-did-this-organization-gain-new-supporter" class="anchor-link">[12] With the Ku Klux Klan resurgence, where did this organization gain new supporter?</a></li>
+<li><a href="#13-race-riots-rose-at-this-time-of-extreme-prejudice-for-what-3-groups" class="anchor-link">[13] Race riots rose at this time of extreme prejudice for what 3 groups</a></li>
+<li><a href="#14-what-is-the-name-of-the-republican-senator-from-ohio" class="anchor-link">[14] What is the name of the republican senator from Ohio</a></li>
+<li><a href="#15-warren-harding-overall-felt-that-the-country-needed-what" class="anchor-link">[15] Warren Harding overall, felt that the country needed what?</a></li>
+<li><a href="#16-did-warren-harding-have-a-plan-in-place-for-his-future-leadership" class="anchor-link">[16] Did Warren Harding have a plan in place for his future leadership?</a></li>
+<li><a href="#17-what-was-said-to-be-presidential-candidate-warren-hardings-greatest-desire" class="anchor-link">[17] What was said to be presidential candidate Warren Harding's greatest desire?</a></li>
+<li><a href="#18-what-did-president-harding-say-about-happiness" class="anchor-link">[18] What did president Harding say about happiness</a></li>
+<li><a href="#19-what-was-the-traditional-horse-and-buggy-replaced-by" class="anchor-link">[19] What was the traditional horse and buggy replaced by?</a></li>
+<li><a href="#20-what-was-the-name-of-the-man-who-created-this-invention" class="anchor-link">[20] What was the name of the man who created this invention?</a></li>
+<li><a href="#21-how-much-did-it-cost" class="anchor-link">[21] How much did it cost?</a></li>
+<li><a href="#22-what-was-credited-with-changing-the-manors-and-morals-of-america-important" class="anchor-link">[22] What was credited with changing the manors and morals of America? Important</a></li>
+<li><a href="#23-what-is-the-invention-of-the-radio-said-to-have-brought" class="anchor-link">[23] What is the invention of the radio said to have brought</a></li>
+<li><a href="#24-during-this-time-what-did-motion-pictures-glorify" class="anchor-link">[24] During this time, what did motion pictures glorify</a></li>
+<li><a href="#25-with-all-of-the-changes-going-on-in-america-during-the-1920s-parents-were-confronted-by-children-who-wanted-what" class="anchor-link">[25] With all of the changes going on in America during the 1920s, parents were confronted by children who wanted what?</a></li>
+<li><a href="#26-what-did-the-narrator-say-that-this-time-in-america-was-all-about" class="anchor-link">[26] What did the narrator say that this time in America was all about?</a></li>
+<li><a href="#27-who-were-mentioned-as-some-of-americas-most-important-writers" class="anchor-link">[27] Who were mentioned as some of Americas most important writers?</a></li>
+<li><a href="#28-what-did-they-feel-about-the-current-state-of-america" class="anchor-link">[28] What did they feel about the current state of America?</a></li>
+<li><a href="#29-what-did-they-do-in-response-to-this-feeling" class="anchor-link">[29] What did they do in response to this feeling?</a></li>
+<li><a href="#30-writers-sinclair-lewis-and-hl-mencken-express-a-growing-dissatisfaction-with-what" class="anchor-link">[30] Writers Sinclair Lewis and H.L. Mencken express a growing dissatisfaction with what?</a></li>
+<li><a href="#31-as-a-sign-of-overwhelming-changes-in-these-times-what-happens-to-president-harding" class="anchor-link">[31] As a sign of overwhelming changes in these times, what happens to President Harding?</a></li>
+<li><a href="#32-what-was-the-job-of-the-next-president-according-to-the-most-prosperous-americans-in-the-country" class="anchor-link">[32] What was the job of the next president according to the most prosperous Americans in the country?</a></li>
+<li><a href="#33-what-kind-of-country-does-president-calvin-coolidge-say-america-was" class="anchor-link">[33] What kind of country does President Calvin Coolidge say America was?</a></li>
+<li><a href="#34-what-were-some-of-major-changes-for-the-traditional-house-wife-during-this-time" class="anchor-link">[34] What were some of major changes for the traditional house wife during this time?</a></li>
+<li><a href="#35-what-was-much-of-the-average-americans-new-found-prosperity-built-on" class="anchor-link">[35] What was much of the average Americans new found prosperity built on?</a></li>
+<li><a href="#36-more-and-more-americans-are-doing-what-during-this-time" class="anchor-link">[36] More and more Americans are doing what during this time?</a></li>
+<li><a href="#37-what-happened-to-the-american-farmer-during-this-period-in-america" class="anchor-link">[37] What happened to the American farmer during this period in America?</a></li>
+<li><a href="#38-what-was-happening-in-the-german-economy" class="anchor-link">[38] What was happening in the German economy?</a></li>
+<li><a href="#39-what-controversial-dictator-in-our-worlds-history-rose-to-power-in-response-to-germanys-failing-economy" class="anchor-link">[39] What controversial dictator in our world's history rose to power in response to Germany's failing economy?</a></li>
+<li><a href="#40-what-were-the-key-issues-in-the-united-states-during-the-year-1928" class="anchor-link">[40] What were the key issues in the United states during the year 1928?</a></li>
+<li><a href="#41-by-the-time-he-came-into-office-what-issues-did-president-herbert-hoover-have-to-deal-with" class="anchor-link">[41] By the time he came into office, what issues did President Herbert Hoover have to deal with?</a></li>
+<li><a href="#42-what-does-the-value-of-stocks-drop-down-to" class="anchor-link">[42] What does the value of stocks drop down to?</a></li>
+<li><a href="#43-what-does-the-value-of-the-stock-brokers-and-business-moguls-responses-to-the-failing-stock-market" class="anchor-link">[43] What does the value of the stock brokers and business mogul's responses to the failing stock market?</a></li>
+<li><a href="#44-by-the-end-of-1930-how-many-americans-were-unemployed-how-much-did-it-grow-by-1932" class="anchor-link">[44] By the end of 1930, how many Americans were unemployed? How much did it grow by 1932?</a></li>
+<li><a href="#45-what-did-america-know-about-the-coming-times-as-a-result-of-this-major-issue-in-its-economy" class="anchor-link">[45] What did America know about the coming times as a result of this major issue in it's economy?</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 </div>
-<div class="container-wrapper single_tab_page">
-        <div class="container">
-        <h1 id="the-roaring-twenties">The Roaring Twenties</h1>
 <blockquote>
-<p><a href="/School-Mass-Notes/Export HTML/WW1 INDEX.html">WW1</a> <br />
-<a href="/School-Mass-Notes/Export HTML/TGD INDEX.html">The Great Depression</a>   </p>
+<p><a href="/School-Mass-Notes/Export HTML/WW1 INDEX.html">WW1</a>   </p>
+<p><a href="/School-Mass-Notes/Export HTML/TGD INDEX.html">The Great Depression</a>   </p>
 </blockquote>
 <h2 id="video-questions">Video Questions</h2>
 <h3 id="1-what-era-does-the-narrator-call-the-roaring-twenties-at-the-beginning-of-the-film">[1] What era does the narrator call the Roaring Twenties at the beginning of the film</h3>
@@ -189,17 +252,74 @@ Anglo Saxon Supremancy.   </li>
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/TGD INDEX.html">TGD INDEX</a></li>
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/WW1 INDEX.html">WW1 INDEX</a></li>
 </ul>
-<div class="graph">
-    <svg class="graph_svg" id="A319327386458788713642802910154210347138{level}"></svg>
-    <button class="graph_button" id="B319327386458788713642802910154210347138{level}" level="{level}" onclick="run('319327386458788713642802910154210347138'+this.level, 'The Roaring Twenties');">Show Graph</button>
+<!-- <div class="graph">
+    <svg class="graph_svg" id="A159178267722839388798808012656144679522{level}"></svg>
+    <button class="graph_button" id="B159178267722839388798808012656144679522{level}" level="{level}" onclick="run('159178267722839388798808012656144679522'+this.level, 'The Roaring Twenties');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
-        <!-- end content -->
-        </div>
+ -->
+ <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
+
+<div class="graph">
+    <div id="A159178267722839388798808012656144679522{level}" class="graph_div"></div>
+    <button class="graph_button" id="B159178267722839388798808012656144679522{level}" level="{level}" onclick="run('159178267722839388798808012656144679522'+this.level, 'The Roaring Twenties');">Show Graph</button>
 </div>
 
 
+<script src="//unpkg.com/3d-force-graph"></script>
+<script>
+    function grapher(args) {
+        window.Graph = ForceGraph3D()
+            (args.graph_container)
+            .jsonUrl(args.data)
+            .width(args.width)
+            .height(args.height)
+            .nodeLabel('id')
+            .linkDirectionalParticles("value")
+            .linkDirectionalParticleSpeed(0.010)
+            .linkDirectionalParticleWidth(2.0)
+            .nodeColor(node => {
+                if (node.id == current_node_id){
+                    return '#ff0000'
+                }
+                let isConnected = false;
+                node.links.forEach(link => {
+                    if (link == current_node_id){
+                        isConnected = true;
+                    }
+                })
+                if (isConnected){
+                    return '#f7be49';
+                }
+                return '#ffffff'
+            })
+            .linkColor(link => {
+                if (link.source == current_node_id || link.target == current_node_id){
+                    return '#ff0000'
+                }
+                return '#dadada'
+            })
+            .linkOpacity(0.3)
+            .onNodeClick(node => {
+                args.node = node;
+                graph_left_click(args)()
+            })
+            .onNodeRightClick(node => {
+                args.node = node;
+                graph_right_click(args)()
+            });
+    }
+</script>
+
+
+                        <!-- end content -->
+                        </div>
+                        <div id="right_pane"></div>
+                </div>
+        </div>
+
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
+
 </body>
 </html>

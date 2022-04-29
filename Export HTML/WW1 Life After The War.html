@@ -17,44 +17,57 @@
                 <link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/main.css" />
                 <script src="/School-Mass-Notes/Export HTML/obs.html/static/mermaid.min.js"></script> 
                 
+<link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/callouts.css" />
 <link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/graph.css" />
-<script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/dirtree.js" /></script>
 
 
                 <!-- Onload tweaks -->
                 <script>
-                        // add prefix to hash to avoid scrolling
-                        if (1 == 0){
-                                if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
-                                        window.location.hash = '!' + window.location.hash.substr(1);
-                                }
-                        }
+                        const CURRENT_NODE = 'WW1 Life After The War';
                 </script>
         </head>
 
 <body onload="LoadPage();">
-<div id="header" class="header">
-        <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
-
-        <div style="width:6rem; height:1.6rem; position:fixed; left:calc(100vw - 6rem);top: 0.9rem; ">
-
-                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
-                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" title="Open tag view">
-                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="RSS Feed link"/>
-                        </a>
-                </div>
-        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+        <div class="flex_col">
+                <div id="header" class="header">
+                        <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="RSS Feed link"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
             <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
                     <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
             </a>
         </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=WW1 Life After The War" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
         </div>
-
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <div class="flex_row">
+                        <div id="left_pane"></div>
+                        <div class="container">
+                                        <h1 id="ww1-after-the-war">WW1 After The War</h1>
+<div class="toc">
+<ul>
+<li><a href="#ww1-after-the-war" class="anchor-link">WW1 After The War</a></li>
+</ul>
 </div>
-<div class="container-wrapper single_tab_page">
-        <div class="container">
-        <h1 id="ww1-after-the-war">WW1 After The War</h1>
 <p>The War was predilected to last far into <strong>1920</strong>, but unexpectedly, Germany Surrendered in <strong>1918</strong> because they could not hold off the <a href="/School-Mass-Notes/Export HTML/WW1 Allied Powers.html">Allied Powers</a>. An Armistice was Signed, an agreement to end fighting, on <strong>November 11th, 1918</strong>.   </p>
 <p>The Soldiers come home to a country that has changed. The Men who stayed home became richer and women became more independent. Women were always told that they could not do certain jobs, but when they came back home, they were shocked that women were successfully doing them. The <a href="/School-Mass-Notes/Export HTML/Industrial Revolution.html">economic boom</a> is over and now their former jobs have been taken, meaning that the soldiers can't find work. They feel forgotten, and are mentally worn down and ill. Many experience Shell Shock/PTSD. <br />
 The Soldiers did not receive any sort of check or bonus - <em>though it was promised</em> - there is no plan to reintegrate soldiers back into society, and the government was not prepared.   </p>
@@ -63,17 +76,74 @@ The Soldiers did not receive any sort of check or bonus - <em>though it was prom
 <ul>
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/WW1 INDEX.html">WW1 INDEX</a></li>
 </ul>
-<div class="graph">
-    <svg class="graph_svg" id="A133341673720638273882669282310900187850{level}"></svg>
-    <button class="graph_button" id="B133341673720638273882669282310900187850{level}" level="{level}" onclick="run('133341673720638273882669282310900187850'+this.level, 'WW1 Life After The War');">Show Graph</button>
+<!-- <div class="graph">
+    <svg class="graph_svg" id="A226213465067373921133757455849690026134{level}"></svg>
+    <button class="graph_button" id="B226213465067373921133757455849690026134{level}" level="{level}" onclick="run('226213465067373921133757455849690026134'+this.level, 'WW1 Life After The War');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
-        <!-- end content -->
-        </div>
+ -->
+ <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
+
+<div class="graph">
+    <div id="A226213465067373921133757455849690026134{level}" class="graph_div"></div>
+    <button class="graph_button" id="B226213465067373921133757455849690026134{level}" level="{level}" onclick="run('226213465067373921133757455849690026134'+this.level, 'WW1 Life After The War');">Show Graph</button>
 </div>
 
 
+<script src="//unpkg.com/3d-force-graph"></script>
+<script>
+    function grapher(args) {
+        window.Graph = ForceGraph3D()
+            (args.graph_container)
+            .jsonUrl(args.data)
+            .width(args.width)
+            .height(args.height)
+            .nodeLabel('id')
+            .linkDirectionalParticles("value")
+            .linkDirectionalParticleSpeed(0.010)
+            .linkDirectionalParticleWidth(2.0)
+            .nodeColor(node => {
+                if (node.id == current_node_id){
+                    return '#ff0000'
+                }
+                let isConnected = false;
+                node.links.forEach(link => {
+                    if (link == current_node_id){
+                        isConnected = true;
+                    }
+                })
+                if (isConnected){
+                    return '#f7be49';
+                }
+                return '#ffffff'
+            })
+            .linkColor(link => {
+                if (link.source == current_node_id || link.target == current_node_id){
+                    return '#ff0000'
+                }
+                return '#dadada'
+            })
+            .linkOpacity(0.3)
+            .onNodeClick(node => {
+                args.node = node;
+                graph_left_click(args)()
+            })
+            .onNodeRightClick(node => {
+                args.node = node;
+                graph_right_click(args)()
+            });
+    }
+</script>
+
+
+                        <!-- end content -->
+                        </div>
+                        <div id="right_pane"></div>
+                </div>
+        </div>
+
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
+
 </body>
 </html>

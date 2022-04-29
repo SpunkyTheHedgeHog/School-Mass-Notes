@@ -17,49 +17,81 @@
                 <link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/main.css" />
                 <script src="/School-Mass-Notes/Export HTML/obs.html/static/mermaid.min.js"></script> 
                 
+<link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/callouts.css" />
 <link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/graph.css" />
-<script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/dirtree.js" /></script>
 
 
                 <!-- Onload tweaks -->
                 <script>
-                        // add prefix to hash to avoid scrolling
-                        if (1 == 0){
-                                if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
-                                        window.location.hash = '!' + window.location.hash.substr(1);
-                                }
-                        }
+                        const CURRENT_NODE = 'TGD INDEX';
                 </script>
         </head>
 
 <body onload="LoadPage();">
-<div id="header" class="header">
-        <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
-
-        <div style="width:6rem; height:1.6rem; position:fixed; left:calc(100vw - 6rem);top: 0.9rem; ">
-
-                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
-                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" title="Open tag view">
-                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="RSS Feed link"/>
-                        </a>
-                </div>
-        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+        <div class="flex_col">
+                <div id="header" class="header">
+                        <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="RSS Feed link"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
             <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
                     <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
             </a>
         </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=TGD INDEX" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
         </div>
-
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <div class="flex_row">
+                        <div id="left_pane"></div>
+                        <div class="container">
+                                        <h1 id="the-great-depression-index">The Great Depression Index</h1>
+<div class="toc">
+<ul>
+<li><a href="#the-great-depression-index" class="anchor-link">The Great Depression Index</a><ul>
+<li><a href="#questions-answers-and-summaries" class="anchor-link">Questions, Answers, and Summaries</a><ul>
+<li><a href="#in-what-year-did-the-great-depression-begin" class="anchor-link">In what year did the Great Depression begin?</a></li>
+<li><a href="#what-was-said-to-be-the-cause-of-the-great-depression-in-america" class="anchor-link">What was said to be the cause of the Great Depression in America?</a></li>
+<li><a href="#what-did-america-feel-that-it-had-to-do-to-recover-from-the-great-depression" class="anchor-link">What did America feel that it had to do to recover from the Great Depression?</a></li>
+<li><a href="#what-was-the-dust-bowl-and-what-caused-it" class="anchor-link">What was the “Dust Bowl” and what caused it?</a></li>
+<li><a href="#what-were-the-affects-of-the-dust-bowl" class="anchor-link">What were the affects of the “Dust Bowl”?</a></li>
+<li><a href="#what-major-engineering-project-helped-to-save-the-southwest-of-america" class="anchor-link">What major engineering project helped to save the southwest of America?</a></li>
+<li><a href="#how-did-this-project-help-the-southwest-and-america-what-states-did-it-mainly-benefit" class="anchor-link">How did this project help the southwest and America? What states did it mainly benefit?</a></li>
+<li><a href="#what-was-the-name-of-the-man-responsible-for-building-this-great-engineering-marvel" class="anchor-link">What was the name of the man responsible for building this great engineering marvel?</a></li>
+<li><a href="#in-what-ways-was-this-creation-going-to-help-america-out-of-the-great-depression" class="anchor-link">In what ways was this creation going to help America out of the Great Depression?</a></li>
+<li><a href="#what-entertainment-event-lifted-americas-spirit-during-these-troubling-times-what-was-the-name-of-americas-hero-in-this-event" class="anchor-link">What entertainment event lifted Americas spirit during these troubling times? What was the name of Americas hero in this event?</a></li>
+<li><a href="#after-all-that-has-happened-what-coming-world-controversy-was-responsible-for-giving-america-the-final-push-out-of-the-great-depression" class="anchor-link">After all that has happened what coming world controversy was responsible for giving America the final push out of the great Depression?</a></li>
+<li><a href="#in-what-ways-was-this-creation-going-to-help-america-out-of-the-great-depression_1" class="anchor-link">In what ways was this creation going to help America out of the Great Depression?</a></li>
+<li><a href="#what-entertainment-event-lifted-americas-spirit-during-these-troubling-times-what-was-the-name-of-americas-hero-in-this-event_1" class="anchor-link">What entertainment event lifted Americas spirit during these troubling times? What was the name of Americas hero in this event?</a></li>
+<li><a href="#after-all-that-has-happened-what-coming-world-controversy-was-responsible-for-giving-america-the-final-push-out-of-the-great-depression_1" class="anchor-link">After all that has happened what coming world controversy was responsible for giving America the final push out of the great Depression?</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 </div>
-<div class="container-wrapper single_tab_page">
-        <div class="container">
-        <h1 id="the-great-depression-index">The Great Depression Index</h1>
 <blockquote>
 <p><a href="/School-Mass-Notes/Export HTML/WW1 INDEX.html">WW1</a> <br />
 <a href="/School-Mass-Notes/Export HTML/The Roaring Twenties.html">The Roaring Twenties</a>   </p>
 <p><a href="/School-Mass-Notes/Export HTML/Stock Market.html">Stock Market</a>   </p>
-<p><a href="/School-Mass-Notes/Export HTML/TGD The Crashing of the Stock Market.html">The Crashing of the Stock Market</a> <br />
+<p><a href="/School-Mass-Notes/Export HTML/TGD Leading Up to the Stock Market Crash.html">Leading Up to the Stock Market Crash</a> <br />
 <a href="/School-Mass-Notes/Export HTML/TGD The Years Following The Crash.html">The Years following the Crash</a> <br />
 <a href="/School-Mass-Notes/Export HTML/TGD Recovery.html">Recovery</a>   </p>
 <p><a href="/School-Mass-Notes/Export HTML/TGD Dustbowl.html">The Dustbowl</a> <br />
@@ -72,8 +104,23 @@
 <h3 id="what-was-said-to-be-the-cause-of-the-great-depression-in-america">What was said to be the cause of the Great Depression in America?</h3>
 <h3 id="what-did-america-feel-that-it-had-to-do-to-recover-from-the-great-depression">What did America feel that it had to do to recover from the Great Depression?</h3>
 <h3 id="what-was-the-dust-bowl-and-what-caused-it">What was the “Dust Bowl” and what caused it?</h3>
+<p>In <strong>1934</strong>, multiple duststorms hit New York, 18,000 miles wide, carrying 3 tons of dust, for every American. The storms originated in Oklahoma, Texas, Colorado, and Kanas. The Top soil is 4 meters deep - dried up and was loose due to the 4 years of farmers. Static electricity build up between the Earth and the Dust, and as a result, it is lifted up and is further propelled by high altitude winds.   </p>
 <h3 id="what-were-the-affects-of-the-dust-bowl">What were the affects of the “Dust Bowl”?</h3>
+<p>On <strong>April 13, 1935</strong>, <a href="/School-Mass-Notes/Export HTML/Louise Walter.html">Louise Walter</a> is living on the southern plains with her daughters - she has breathing problems, and 39 duststorms within 3 months have just passed. The biggest dustorm hits, going at 65 miles an hour, as it hit's Colorado, the temperature changes, and <a href="/School-Mass-Notes/Export HTML/Louise Walter.html">Louise Walter</a>'s daughters gets devoured by the sudden onsluaght of dust. She is rescued by her mom, but the house it falling apart; dust is seeping through the walls, windows, and cracks of the wood house. Cattle die, being cut open by the sand. Dust Pneumonia can kill people, lungs full of dust.   </p>
+<p>By <strong>1936</strong>, 26 billion dollars a day are lost by farmers. 250,000 farmers are fleeing the dust. Black Sunday. 2/3 of "dustbowlers" stay.   </p>
 <h3 id="what-major-engineering-project-helped-to-save-the-southwest-of-america">What major engineering project helped to save the southwest of America?</h3>
+<p>In attempt to recover, America started to try it's best help itself out and relaim at least some of what it lost. After losing above 6 million dollars, the public funded a vast amount of building projects that were privatly built, one of them included <a href="/School-Mass-Notes/Export HTML/The Hoover Dam.html">The Hoover Dam</a>, built over the Colorado river. <a href="/School-Mass-Notes/Export HTML/The Hoover Dam.html">The Hoover Dam</a>, named after <a href="/School-Mass-Notes/Export HTML/Herbert Hoover.html">Herbert Hoover</a> represented America regaining it's balance. It was built by head engineer <a href="/School-Mass-Notes/Export HTML/Frank Crowe.html">Frank Crowe</a>, nicknamed <a href="/School-Mass-Notes/Export HTML/Frank Crowe.html">Frank 'hurry up' Crowe</a> for their efficciecy at building Dams.    </p>
+<p>Vast building projects - Publicly funded privately built   </p>
+<p><a href="/School-Mass-Notes/Export HTML/Frank Crowe.html">Frank 'hurry up' Crowe</a> built a damn over the Colorado river, called <a href="/School-Mass-Notes/Export HTML/The Hoover Dam.html">The Hoover Dam</a>, named after <a href="/School-Mass-Notes/Export HTML/Herbert Hoover.html">Herbert Hoover</a>   </p>
+<p>The water and hydroelectricity will transform the whole of the Southwest. <br />
+Nevada, Arizona, California, still benefit from the hydroelectricity today.   </p>
+<p><strong>March 4th, 1931</strong> : The government gives the go-ahead to build <a href="/School-Mass-Notes/Export HTML/The Hoover Dam.html">The Hoover Dam</a>   </p>
+<p>Even before it was built, it was seen as a metaphor   </p>
+<p><a href="/School-Mass-Notes/Export HTML/The Hoover Dam.html">The Hoover Dam</a> would cost 1 million dollars to build. <br />
+Frank would receive a 2.5% cut of the Dam's profit.    </p>
+<p>42,000 men come across the country looking for jobs.   </p>
+<p><a href="/School-Mass-Notes/Export HTML/Frank Crowe.html">Frank Crowe</a> takes 5,000 men out of the 42,000 people who spent 'maybe' the majority of their savings to travel.   </p>
+<p>It was survival of the fittest, known as <a href="/School-Mass-Notes/Export HTML/Social Darwinism.html">Social Darwinism</a>   </p>
 <h3 id="how-did-this-project-help-the-southwest-and-america-what-states-did-it-mainly-benefit">How did this project help the southwest and America? What states did it mainly benefit?</h3>
 <h3 id="what-was-the-name-of-the-man-responsible-for-building-this-great-engineering-marvel">What was the name of the man responsible for building this great engineering marvel?</h3>
 <h3 id="in-what-ways-was-this-creation-going-to-help-america-out-of-the-great-depression">In what ways was this creation going to help America out of the Great Depression?</h3>
@@ -86,17 +133,74 @@
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/The Roaring Twenties.html">The Roaring Twenties</a></li>
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/TGD INDEX.html">TGD INDEX</a></li>
 </ul>
-<div class="graph">
-    <svg class="graph_svg" id="A64822742011292620588263081618207588980{level}"></svg>
-    <button class="graph_button" id="B64822742011292620588263081618207588980{level}" level="{level}" onclick="run('64822742011292620588263081618207588980'+this.level, 'TGD INDEX');">Show Graph</button>
+<!-- <div class="graph">
+    <svg class="graph_svg" id="A104916997455005551901989741873981695172{level}"></svg>
+    <button class="graph_button" id="B104916997455005551901989741873981695172{level}" level="{level}" onclick="run('104916997455005551901989741873981695172'+this.level, 'TGD INDEX');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
-        <!-- end content -->
-        </div>
+ -->
+ <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
+
+<div class="graph">
+    <div id="A104916997455005551901989741873981695172{level}" class="graph_div"></div>
+    <button class="graph_button" id="B104916997455005551901989741873981695172{level}" level="{level}" onclick="run('104916997455005551901989741873981695172'+this.level, 'TGD INDEX');">Show Graph</button>
 </div>
 
 
+<script src="//unpkg.com/3d-force-graph"></script>
+<script>
+    function grapher(args) {
+        window.Graph = ForceGraph3D()
+            (args.graph_container)
+            .jsonUrl(args.data)
+            .width(args.width)
+            .height(args.height)
+            .nodeLabel('id')
+            .linkDirectionalParticles("value")
+            .linkDirectionalParticleSpeed(0.010)
+            .linkDirectionalParticleWidth(2.0)
+            .nodeColor(node => {
+                if (node.id == current_node_id){
+                    return '#ff0000'
+                }
+                let isConnected = false;
+                node.links.forEach(link => {
+                    if (link == current_node_id){
+                        isConnected = true;
+                    }
+                })
+                if (isConnected){
+                    return '#f7be49';
+                }
+                return '#ffffff'
+            })
+            .linkColor(link => {
+                if (link.source == current_node_id || link.target == current_node_id){
+                    return '#ff0000'
+                }
+                return '#dadada'
+            })
+            .linkOpacity(0.3)
+            .onNodeClick(node => {
+                args.node = node;
+                graph_left_click(args)()
+            })
+            .onNodeRightClick(node => {
+                args.node = node;
+                graph_right_click(args)()
+            });
+    }
+</script>
+
+
+                        <!-- end content -->
+                        </div>
+                        <div id="right_pane"></div>
+                </div>
+        </div>
+
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
+
 </body>
 </html>

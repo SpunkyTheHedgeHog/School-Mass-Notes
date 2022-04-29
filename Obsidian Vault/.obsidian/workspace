@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5e707459a16bff",
+        "id": "d0cdf1d56e366a30",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TGD Recovery.md",
+            "file": "Militarism.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"The Hoover Damn",
+                "query": "\"tags\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TGD Recovery.md"
+                "file": "Militarism.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TGD Recovery.md",
+                "file": "Militarism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TGD Recovery.md",
+                "file": "Militarism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,17 +145,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "0d5e707459a16bff",
+  "active": "d0cdf1d56e366a30",
   "lastOpenFiles": [
+    "Militarism.md",
+    "WW1 Propaganda.md",
+    "Adolf Hitler.md",
+    "+Home.md",
+    "Templates/Template.Tags&Title.md",
     "TGD Recovery.md",
-    "The Hoover Dam.md",
-    "TGD INDEX.md",
-    "Herbert Hoover.md",
-    "Frank Crowe.md",
-    "Ku Klux Klan.md",
-    "Joe Louis.md",
-    "Max Schmelling.md",
-    "WW1 Harlem Hellfighters.md",
-    "Hennery Johnson.md"
+    "Bill Reynolds.md",
+    "Louise Walter.md",
+    "Social Darwinism.md",
+    "TGD The Years Following The Crash.md"
   ]
 }

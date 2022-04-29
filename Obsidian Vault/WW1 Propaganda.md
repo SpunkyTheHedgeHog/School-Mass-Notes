@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: #WW1 #Roles #Inequality 
+tags: Roles Inequality 
 ---
 # WW1 Propaganda
 
