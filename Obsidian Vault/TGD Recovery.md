@@ -14,5 +14,4 @@ In attempt to recover, America started to try it's best to help itself out and r
 
 Despite many odds and challenges, such as the cooling of the cement, and Carbon Monoxide gases, [[The Hoover Dam]] was completed on **September 30th, 1935**, 2 years ahead of Schedule.
 
-The water and hydroelectricity that the Dam generates off of it's *'a-million-and-a-half-gallon-a-second-power*' will transform the whole of the Southwest. Nevada, Arizona, California, still benefit from the hydroelectricity today. It's profit is directly responsible for the town of [[Los Vegas]]
-
+The water and hydroelectricity that the Dam generates off of it's *'a-million-and-a-half-gallon-a-second-power*' transforms the whole of the Southwest. Nevada, Arizona, California, still benefit from the hydroelectricity today. It's profit is directly responsible for the town of [[Las Vegas]].

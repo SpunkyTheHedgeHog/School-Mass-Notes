@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TGD Recovery.md",
+            "file": "TGD INDEX.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e5453a81c53cc25e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TGD Leading Up to the Stock Market Crash.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"tags\"",
+                "query": "Vegas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "7475349136694aca",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TGD Recovery.md"
+                "file": "TGD INDEX.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TGD Recovery.md",
+                "file": "TGD INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TGD Recovery.md",
+                "file": "TGD INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,19 +156,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373
+    "width": 373,
+    "collapsed": true
   },
   "active": "d0cdf1d56e366a30",
   "lastOpenFiles": [
-    "TGD Recovery.md",
-    "Los Vegas.md",
     "TGD INDEX.md",
-    "Erma Godbey.md",
-    "The Hoover Dam.md",
-    "TGD The Years Following The Crash.md",
-    "Militarism.md",
-    "WW1 Propaganda.md",
-    "Adolf Hitler.md",
-    "+Home.md"
+    "TGD Leading Up to the Stock Market Crash.md",
+    "Stock Market.md",
+    "Las Vegas.md",
+    "TGD Recovery.md",
+    "TGD Dustbowl.md",
+    "TGD The Start of WW2.md",
+    "The Washington Monument.md",
+    "Frank Crowe.md",
+    "The Hoover Dam.md"
   ]
 }
