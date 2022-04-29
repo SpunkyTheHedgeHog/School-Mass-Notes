@@ -24,19 +24,53 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'WW2 Lesson 1 & 2 Vocabulary';
+                        // // add prefix to hash to avoid scrolling
+                        // if (0 == 0){
+                        //         if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
+                        //                 window.location.hash = '!' + window.location.hash.substr(1);
+                        //         }
+                        // }
                 </script>
         </head>
 
 <body onload="LoadPage();">
-        <div class="flex_col">
-                <div id="header" class="header">
+        <div class="flex_col" id="site_column">
+                <div id="header" class="header" style="position:fixed">
                         <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex');toggle('navbar2', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" class="system-link" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="Tags view"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+            <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
+                    <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
+            </a>
+        </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=WW2 Lesson 1 & 2 Vocabulary" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
+        </div>
+                                        </div>                                
+                                </div>
+                        </div>
+                </div>
+                <div id="header2" class="header">
+                        <div id="header_flex2" class="flex_row">
                                 <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
                                 <div class="navbar-button" onclick="toggle('navbar', 'flex')">
                                         ≡
                                 </div>
-                                <div id="navbar" class="navbar">
+                                <div id="navbar2" class="navbar">
                                 
                                         <div class="icon-tray">
                                                 
@@ -58,40 +92,11 @@
                                         </div>                                
                                 </div>
                         </div>
-                </div>
-                <div class="flex_row">
-                        <div class="container">
-                                        <h1 id="ww2-vocabulary">WW2 Vocabulary</h1>
-<div class="toc">
-<ul>
-<li><a href="#ww2-vocabulary" class="anchor-link">WW2 Vocabulary</a><ul>
-<li><a href="#lesson-1-aggression-appeasement-and-war-pg-456" class="anchor-link">Lesson 1 – Aggression, Appeasement and War pg-456</a><ul>
-<li><a href="#01-appeasement" class="anchor-link">01     :   Appeasement</a></li>
-<li><a href="#02-pacifism" class="anchor-link">02 :   Pacifism</a></li>
-<li><a href="#03-neutrality-acts" class="anchor-link">03 :   Neutrality Acts</a></li>
-<li><a href="#04-axis-powers" class="anchor-link">04 :   Axis Powers</a></li>
-<li><a href="#05-francisco-franco" class="anchor-link">05 :   Francisco Franco</a></li>
-<li><a href="#06-anschluss" class="anchor-link">06 :   Anschluss</a></li>
-<li><a href="#07-muhammad-ali-jinnah-skipped" class="anchor-link">07 :   Muhammad Ali Jinnah ::: Skipped</a></li>
-<li><a href="#08-sudetenland" class="anchor-link">08 :   Sudetenland</a></li>
-<li><a href="#09-nazi-soviet-pact" class="anchor-link">09 :   Nazi-Soviet Pact</a></li>
-</ul>
-</li>
-<li><a href="#lesson-2-axis-powers-advance-pg-462" class="anchor-link">Lesson 2 – Axis Powers Advance- pg-462</a><ul>
-<li><a href="#10-blitzkrieg" class="anchor-link">10 :   Blitzkrieg</a></li>
-<li><a href="#11-luftwaffe" class="anchor-link">11 :   Luftwaffe</a></li>
-<li><a href="#12-dunkirk" class="anchor-link">12 :   Dunkirk</a></li>
-<li><a href="#13-vichy" class="anchor-link">13 :   Vichy</a></li>
-<li><a href="#14-erwin-rommel" class="anchor-link">14 :   Erwin Rommel</a></li>
-<li><a href="#15-lend-lease-act" class="anchor-link">15 :   Lend-Lease Act</a></li>
-<li><a href="#16-atlantic-charter" class="anchor-link">16 :   Atlantic Charter</a></li>
-<li><a href="#17-hideki-tojo" class="anchor-link">17 :   Hideki Tojo</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</div>
+                </div>                
+                <div class="flex_row" id="container_row">
+                        <div class="container-wrapper ">
+                                <div class="container">
+                                <h1 id="ww2-vocabulary">WW2 Vocabulary</h1>
 <h2 id="lesson-1-aggression-appeasement-and-war-pg-456">Lesson 1 – Aggression, Appeasement and War pg-456</h2>
 <h4 id="01-appeasement">01     :   Appeasement</h4>
 <blockquote>
@@ -178,8 +183,8 @@
 <p>Hideki Tojo was prime minister for 3 years before he was sentenced to death.   </p>
 </blockquote>
 <!-- <div class="graph">
-    <svg class="graph_svg" id="A115162051429234848694173561726905187323{level}"></svg>
-    <button class="graph_button" id="B115162051429234848694173561726905187323{level}" level="{level}" onclick="run('115162051429234848694173561726905187323'+this.level, 'WW2 Lesson 1 & 2 Vocabulary');">Show Graph</button>
+    <svg class="graph_svg" id="A263446914602020430819665201594014317138{level}"></svg>
+    <button class="graph_button" id="B263446914602020430819665201594014317138{level}" level="{level}" onclick="run('263446914602020430819665201594014317138'+this.level, 'WW2 Lesson 1 & 2 Vocabulary');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
@@ -187,8 +192,8 @@
  <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
 <div class="graph">
-    <div id="A115162051429234848694173561726905187323{level}" class="graph_div"></div>
-    <button class="graph_button" id="B115162051429234848694173561726905187323{level}" level="{level}" onclick="run('115162051429234848694173561726905187323'+this.level, 'WW2 Lesson 1 & 2 Vocabulary');">Show Graph</button>
+    <div id="A263446914602020430819665201594014317138{level}" class="graph_div"></div>
+    <button class="graph_button" id="B263446914602020430819665201594014317138{level}" level="{level}" onclick="run('263446914602020430819665201594014317138'+this.level, 'WW2 Lesson 1 & 2 Vocabulary');">Show Graph</button>
 </div>
 
 
@@ -238,13 +243,12 @@
 </script>
 
 
-                        <!-- end content -->
+                                <!-- end content -->
+                                </div>
                         </div>
-                        <div id="right_pane"></div>
                 </div>
         </div>
 
-<script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
-
+        <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
 </body>
 </html>

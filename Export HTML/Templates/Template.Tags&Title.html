@@ -24,19 +24,53 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'Template.Tags&Title';
+                        // // add prefix to hash to avoid scrolling
+                        // if (0 == 0){
+                        //         if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
+                        //                 window.location.hash = '!' + window.location.hash.substr(1);
+                        //         }
+                        // }
                 </script>
         </head>
 
 <body onload="LoadPage();">
-        <div class="flex_col">
-                <div id="header" class="header">
+        <div class="flex_col" id="site_column">
+                <div id="header" class="header" style="position:fixed">
                         <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex');toggle('navbar2', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" class="system-link" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="Tags view"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+            <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
+                    <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
+            </a>
+        </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=Template.Tags&Title" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
+        </div>
+                                        </div>                                
+                                </div>
+                        </div>
+                </div>
+                <div id="header2" class="header">
+                        <div id="header_flex2" class="flex_row">
                                 <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
                                 <div class="navbar-button" onclick="toggle('navbar', 'flex')">
                                         ≡
                                 </div>
-                                <div id="navbar" class="navbar">
+                                <div id="navbar2" class="navbar">
                                 
                                         <div class="icon-tray">
                                                 
@@ -58,18 +92,14 @@
                                         </div>                                
                                 </div>
                         </div>
-                </div>
-                <div class="flex_row">
-                        <div class="container">
-                                        <h1 id="title">{{title}}</h1>
-<div class="toc">
-<ul>
-<li><a href="#title" class="anchor-link">{{title}}</a></li>
-</ul>
-</div>
+                </div>                
+                <div class="flex_row" id="container_row">
+                        <div class="container-wrapper ">
+                                <div class="container">
+                                <h1 id="title">{{title}}</h1>
 <!-- <div class="graph">
-    <svg class="graph_svg" id="A101412236386785346972162858282212722820{level}"></svg>
-    <button class="graph_button" id="B101412236386785346972162858282212722820{level}" level="{level}" onclick="run('101412236386785346972162858282212722820'+this.level, 'Template.Tags&Title');">Show Graph</button>
+    <svg class="graph_svg" id="A54498515442374193848179500074463678145{level}"></svg>
+    <button class="graph_button" id="B54498515442374193848179500074463678145{level}" level="{level}" onclick="run('54498515442374193848179500074463678145'+this.level, 'Template.Tags&Title');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
@@ -77,8 +107,8 @@
  <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
 <div class="graph">
-    <div id="A101412236386785346972162858282212722820{level}" class="graph_div"></div>
-    <button class="graph_button" id="B101412236386785346972162858282212722820{level}" level="{level}" onclick="run('101412236386785346972162858282212722820'+this.level, 'Template.Tags&Title');">Show Graph</button>
+    <div id="A54498515442374193848179500074463678145{level}" class="graph_div"></div>
+    <button class="graph_button" id="B54498515442374193848179500074463678145{level}" level="{level}" onclick="run('54498515442374193848179500074463678145'+this.level, 'Template.Tags&Title');">Show Graph</button>
 </div>
 
 
@@ -128,13 +158,12 @@
 </script>
 
 
-                        <!-- end content -->
+                                <!-- end content -->
+                                </div>
                         </div>
-                        <div id="right_pane"></div>
                 </div>
         </div>
 
-<script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
-
+        <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
 </body>
 </html>

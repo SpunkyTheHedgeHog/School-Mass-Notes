@@ -63,7 +63,7 @@ function graph_right_click(args){
 }
 
 function graph_open_link(args){
-    if (! 1)
+    if (! 0)
     {
         return graph_open_link_tabs(args)
     }

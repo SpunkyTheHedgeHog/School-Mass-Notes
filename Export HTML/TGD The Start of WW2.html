@@ -24,19 +24,53 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'TGD The Start of WW2';
+                        // // add prefix to hash to avoid scrolling
+                        // if (0 == 0){
+                        //         if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
+                        //                 window.location.hash = '!' + window.location.hash.substr(1);
+                        //         }
+                        // }
                 </script>
         </head>
 
 <body onload="LoadPage();">
-        <div class="flex_col">
-                <div id="header" class="header">
+        <div class="flex_col" id="site_column">
+                <div id="header" class="header" style="position:fixed">
                         <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex');toggle('navbar2', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" class="system-link" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="Tags view"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+            <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
+                    <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
+            </a>
+        </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=TGD The Start of WW2" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
+        </div>
+                                        </div>                                
+                                </div>
+                        </div>
+                </div>
+                <div id="header2" class="header">
+                        <div id="header_flex2" class="flex_row">
                                 <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
                                 <div class="navbar-button" onclick="toggle('navbar', 'flex')">
                                         ≡
                                 </div>
-                                <div id="navbar" class="navbar">
+                                <div id="navbar2" class="navbar">
                                 
                                         <div class="icon-tray">
                                                 
@@ -58,15 +92,11 @@
                                         </div>                                
                                 </div>
                         </div>
-                </div>
-                <div class="flex_row">
-                        <div class="container">
-                                        <h1 id="tgd-the-start-of-ww2">TGD The Start of WW2</h1>
-<div class="toc">
-<ul>
-<li><a href="#tgd-the-start-of-ww2" class="anchor-link">TGD The Start of WW2</a></li>
-</ul>
-</div>
+                </div>                
+                <div class="flex_row" id="container_row">
+                        <div class="container-wrapper ">
+                                <div class="container">
+                                <h1 id="tgd-the-start-of-ww2">TGD The Start of WW2</h1>
 <p>40% of America lives in isolated communities, but the 10,000 watt transformers help provide electricity, and thus radios and regular news reports give national events and inform the country. By <strong>1934</strong>, their are over 18 million radio sets.   </p>
 <p>In the Heavy Weight championship, 57 million people listen in to the fight between <a href="/School-Mass-Notes/Export HTML/Joe Louis.html">Joe Louis</a>, a black - American fighter, and <a href="/School-Mass-Notes/Export HTML/Max Schmelling.html">Max Schmelling</a>, and German opponent.   </p>
 <p><a href="/School-Mass-Notes/Export HTML/Joe Louis.html">Joe Louis</a>'s family was drove out of their home by the <a href="/School-Mass-Notes/Export HTML/Ku Klux Klan.html">Ku Klux Klan</a>, and he keeps his family alive by boxing.    </p>
@@ -78,8 +108,8 @@
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/TGD INDEX.html">TGD INDEX</a></li>
 </ul>
 <!-- <div class="graph">
-    <svg class="graph_svg" id="A19041493712116653340639550420041062625{level}"></svg>
-    <button class="graph_button" id="B19041493712116653340639550420041062625{level}" level="{level}" onclick="run('19041493712116653340639550420041062625'+this.level, 'TGD The Start of WW2');">Show Graph</button>
+    <svg class="graph_svg" id="A131914196915912696655082688946589748596{level}"></svg>
+    <button class="graph_button" id="B131914196915912696655082688946589748596{level}" level="{level}" onclick="run('131914196915912696655082688946589748596'+this.level, 'TGD The Start of WW2');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
@@ -87,8 +117,8 @@
  <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
 <div class="graph">
-    <div id="A19041493712116653340639550420041062625{level}" class="graph_div"></div>
-    <button class="graph_button" id="B19041493712116653340639550420041062625{level}" level="{level}" onclick="run('19041493712116653340639550420041062625'+this.level, 'TGD The Start of WW2');">Show Graph</button>
+    <div id="A131914196915912696655082688946589748596{level}" class="graph_div"></div>
+    <button class="graph_button" id="B131914196915912696655082688946589748596{level}" level="{level}" onclick="run('131914196915912696655082688946589748596'+this.level, 'TGD The Start of WW2');">Show Graph</button>
 </div>
 
 
@@ -138,13 +168,12 @@
 </script>
 
 
-                        <!-- end content -->
+                                <!-- end content -->
+                                </div>
                         </div>
-                        <div id="right_pane"></div>
                 </div>
         </div>
 
-<script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
-
+        <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
 </body>
 </html>

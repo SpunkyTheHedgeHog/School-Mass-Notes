@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WW1 Women's Roles.md",
+            "file": "TGD INDEX.md",
             "mode": "source",
             "source": false
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WW1 Women's Roles.md"
+                "file": "TGD INDEX.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WW1 Women's Roles.md",
+                "file": "TGD INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WW1 Women's Roles.md",
+                "file": "TGD INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,11 +147,11 @@
   },
   "active": "ffe199020e06a4a1",
   "lastOpenFiles": [
+    "TGD INDEX.md",
     "WW1 Women's Roles.md",
     "WW1 Life During The War.md",
     "WW1 INDEX.md",
     "+Home.md",
-    "TGD INDEX.md",
     "WW1 Propaganda.md",
     "The Roaring Twenties.md",
     "History.md",

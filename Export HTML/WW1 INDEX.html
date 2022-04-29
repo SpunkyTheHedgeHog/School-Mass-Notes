@@ -24,19 +24,53 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'WW1 INDEX';
+                        // // add prefix to hash to avoid scrolling
+                        // if (0 == 0){
+                        //         if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
+                        //                 window.location.hash = '!' + window.location.hash.substr(1);
+                        //         }
+                        // }
                 </script>
         </head>
 
 <body onload="LoadPage();">
-        <div class="flex_col">
-                <div id="header" class="header">
+        <div class="flex_col" id="site_column">
+                <div id="header" class="header" style="position:fixed">
                         <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex');toggle('navbar2', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" class="system-link" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="Tags view"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+            <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
+                    <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
+            </a>
+        </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=WW1 INDEX" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
+        </div>
+                                        </div>                                
+                                </div>
+                        </div>
+                </div>
+                <div id="header2" class="header">
+                        <div id="header_flex2" class="flex_row">
                                 <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
                                 <div class="navbar-button" onclick="toggle('navbar', 'flex')">
                                         ≡
                                 </div>
-                                <div id="navbar" class="navbar">
+                                <div id="navbar2" class="navbar">
                                 
                                         <div class="icon-tray">
                                                 
@@ -58,35 +92,11 @@
                                         </div>                                
                                 </div>
                         </div>
-                </div>
-                <div class="flex_row">
-                        <div class="container">
-                                        <h1 id="ww1-index">WW1 Index</h1>
-<div class="toc">
-<ul>
-<li><a href="#ww1-index" class="anchor-link">WW1 Index</a><ul>
-<li><a href="#questions-answers-summaries" class="anchor-link">Questions, Answers, &amp; Summaries</a><ul>
-<li><a href="#what-was-america-like-before-and-during-world-war-i" class="anchor-link">What was America like before and during World War I?</a></li>
-<li><a href="#what-changes-happened-in-america-from-the-time-soldiers-left-to-wwi-to-the-time-period-of-and-during-their-return" class="anchor-link">What Changes happened in America from the time soldiers left to WWI to the time period of and during their return?</a></li>
-<li><a href="#give-a-brief-summary-of-the-experiences-of-each-of-these-african-american-groups-during-world-war-i" class="anchor-link">Give a brief summary of the experiences of each of these African American groups during World War I:</a><ul>
-<li><a href="#african-american-women" class="anchor-link">African American Women :</a></li>
-<li><a href="#african-american-soldiers-that-fought-in-american-units" class="anchor-link">African American Soldiers that fought in American Units :</a></li>
-<li><a href="#african-american-soldiers-that-fought-in-french-units" class="anchor-link">African American Soldiers that fought in French Units :</a></li>
-<li><a href="#african-americans-as-a-people-during-the-world-war-1-time-period" class="anchor-link">African Americans as a people during the World War 1 Time period :</a></li>
-</ul>
-</li>
-<li><a href="#explain-what-difficulties-average-citizens-went-through-in-america-during-wwi" class="anchor-link">Explain what difficulties average citizens went through in America during WWI.</a></li>
-<li><a href="#what-changes-happened-for-and-in-women-as-a-result-of-and-during-wwi" class="anchor-link">What changes happened for and in women as a result of and during WWI?</a></li>
-<li><a href="#what-were-the-experiences-of-native-american-people-in-america-and-in-the-war-during-wwi" class="anchor-link">What were the experiences of Native American people in America and in the War during WWI?</a></li>
-<li><a href="#who-benefited-from-the-war" class="anchor-link">Who benefited from the War?</a></li>
-<li><a href="#why-were-german-immigrant-houses-painted-yellow" class="anchor-link">Why were German Immigrant Houses Painted Yellow?</a></li>
-</ul>
-</li>
-<li><a href="#vocabulary" class="anchor-link">Vocabulary</a></li>
-</ul>
-</li>
-</ul>
-</div>
+                </div>                
+                <div class="flex_row" id="container_row">
+                        <div class="container-wrapper ">
+                                <div class="container">
+                                <h1 id="ww1-index">WW1 Index</h1>
 <blockquote>
 <p><a href="/School-Mass-Notes/Export HTML/WW1 Allied Powers.html">Allied Powers</a> <br />
 <a href="/School-Mass-Notes/Export HTML/WW1 Central Powers.html">Central Powers</a>   </p>
@@ -178,8 +188,8 @@
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/TGD INDEX.html">TGD INDEX</a></li>
 </ul>
 <!-- <div class="graph">
-    <svg class="graph_svg" id="A313744600859587906136542711182336601055{level}"></svg>
-    <button class="graph_button" id="B313744600859587906136542711182336601055{level}" level="{level}" onclick="run('313744600859587906136542711182336601055'+this.level, 'WW1 INDEX');">Show Graph</button>
+    <svg class="graph_svg" id="A47146389070670843024285870804041966520{level}"></svg>
+    <button class="graph_button" id="B47146389070670843024285870804041966520{level}" level="{level}" onclick="run('47146389070670843024285870804041966520'+this.level, 'WW1 INDEX');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
@@ -187,8 +197,8 @@
  <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
 <div class="graph">
-    <div id="A313744600859587906136542711182336601055{level}" class="graph_div"></div>
-    <button class="graph_button" id="B313744600859587906136542711182336601055{level}" level="{level}" onclick="run('313744600859587906136542711182336601055'+this.level, 'WW1 INDEX');">Show Graph</button>
+    <div id="A47146389070670843024285870804041966520{level}" class="graph_div"></div>
+    <button class="graph_button" id="B47146389070670843024285870804041966520{level}" level="{level}" onclick="run('47146389070670843024285870804041966520'+this.level, 'WW1 INDEX');">Show Graph</button>
 </div>
 
 
@@ -238,13 +248,12 @@
 </script>
 
 
-                        <!-- end content -->
+                                <!-- end content -->
+                                </div>
                         </div>
-                        <div id="right_pane"></div>
                 </div>
         </div>
 
-<script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
-
+        <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
 </body>
 </html>

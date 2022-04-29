@@ -24,19 +24,53 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = '100% Americanism';
+                        // // add prefix to hash to avoid scrolling
+                        // if (0 == 0){
+                        //         if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
+                        //                 window.location.hash = '!' + window.location.hash.substr(1);
+                        //         }
+                        // }
                 </script>
         </head>
 
 <body onload="LoadPage();">
-        <div class="flex_col">
-                <div id="header" class="header">
+        <div class="flex_col" id="site_column">
+                <div id="header" class="header" style="position:fixed">
                         <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex');toggle('navbar2', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" class="system-link" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="Tags view"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+            <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
+                    <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
+            </a>
+        </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=100% Americanism" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
+        </div>
+                                        </div>                                
+                                </div>
+                        </div>
+                </div>
+                <div id="header2" class="header">
+                        <div id="header_flex2" class="flex_row">
                                 <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
                                 <div class="navbar-button" onclick="toggle('navbar', 'flex')">
                                         ≡
                                 </div>
-                                <div id="navbar" class="navbar">
+                                <div id="navbar2" class="navbar">
                                 
                                         <div class="icon-tray">
                                                 
@@ -58,15 +92,11 @@
                                         </div>                                
                                 </div>
                         </div>
-                </div>
-                <div class="flex_row">
-                        <div class="container">
-                                        <h1 id="100-americanism">100% Americanism</h1>
-<div class="toc">
-<ul>
-<li><a href="#100-americanism" class="anchor-link">100% Americanism</a></li>
-</ul>
-</div>
+                </div>                
+                <div class="flex_row" id="container_row">
+                        <div class="container-wrapper ">
+                                <div class="container">
+                                <h1 id="100-americanism">100% Americanism</h1>
 <p><strong>100% Americanism</strong> was the notion that immigrants had to renounce any sort of ties to their homelands; political ties, cultural ties, economic ties to be considered 100% loyal. 100% National Unity,   </p>
 <p>The idea was to create a <strong>collective American identity</strong> (https://en.wikipedia.org/wiki/Americanism_(ideology))   </p>
 <p>People changed the name of Hamburgers to Liberty Sandwiches.</p><h2>Backlinks</h2>
@@ -75,8 +105,8 @@
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/WW1 INDEX.html">WW1 INDEX</a></li>
 </ul>
 <!-- <div class="graph">
-    <svg class="graph_svg" id="A164482226282916957503706155966873057549{level}"></svg>
-    <button class="graph_button" id="B164482226282916957503706155966873057549{level}" level="{level}" onclick="run('164482226282916957503706155966873057549'+this.level, '100% Americanism');">Show Graph</button>
+    <svg class="graph_svg" id="A304188195706836128463200460724453005776{level}"></svg>
+    <button class="graph_button" id="B304188195706836128463200460724453005776{level}" level="{level}" onclick="run('304188195706836128463200460724453005776'+this.level, '100% Americanism');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
@@ -84,8 +114,8 @@
  <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
 <div class="graph">
-    <div id="A164482226282916957503706155966873057549{level}" class="graph_div"></div>
-    <button class="graph_button" id="B164482226282916957503706155966873057549{level}" level="{level}" onclick="run('164482226282916957503706155966873057549'+this.level, '100% Americanism');">Show Graph</button>
+    <div id="A304188195706836128463200460724453005776{level}" class="graph_div"></div>
+    <button class="graph_button" id="B304188195706836128463200460724453005776{level}" level="{level}" onclick="run('304188195706836128463200460724453005776'+this.level, '100% Americanism');">Show Graph</button>
 </div>
 
 
@@ -135,13 +165,12 @@
 </script>
 
 
-                        <!-- end content -->
+                                <!-- end content -->
+                                </div>
                         </div>
-                        <div id="right_pane"></div>
                 </div>
         </div>
 
-<script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
-
+        <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
 </body>
 </html>

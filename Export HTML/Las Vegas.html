@@ -24,19 +24,53 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'Las Vegas';
+                        // // add prefix to hash to avoid scrolling
+                        // if (0 == 0){
+                        //         if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
+                        //                 window.location.hash = '!' + window.location.hash.substr(1);
+                        //         }
+                        // }
                 </script>
         </head>
 
 <body onload="LoadPage();">
-        <div class="flex_col">
-                <div id="header" class="header">
+        <div class="flex_col" id="site_column">
+                <div id="header" class="header" style="position:fixed">
                         <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex');toggle('navbar2', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" class="system-link" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="Tags view"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+            <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
+                    <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
+            </a>
+        </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=Las Vegas" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
+        </div>
+                                        </div>                                
+                                </div>
+                        </div>
+                </div>
+                <div id="header2" class="header">
+                        <div id="header_flex2" class="flex_row">
                                 <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
                                 <div class="navbar-button" onclick="toggle('navbar', 'flex')">
                                         ≡
                                 </div>
-                                <div id="navbar" class="navbar">
+                                <div id="navbar2" class="navbar">
                                 
                                         <div class="icon-tray">
                                                 
@@ -58,15 +92,11 @@
                                         </div>                                
                                 </div>
                         </div>
-                </div>
-                <div class="flex_row">
-                        <div class="container">
-                                        <h1 id="las-vegas">Las Vegas</h1>
-<div class="toc">
-<ul>
-<li><a href="#las-vegas" class="anchor-link">Las Vegas</a></li>
-</ul>
-</div>
+                </div>                
+                <div class="flex_row" id="container_row">
+                        <div class="container-wrapper ">
+                                <div class="container">
+                                <h1 id="las-vegas">Las Vegas</h1>
 <p>Around <strong>1930</strong>, 5,000 people live in Los Vegas. The city is seen as a relaxing, fun and games (Drinking and Gambling) haven for men. Wives of men say that they deserve the haven for the hard work they have done on the <a href="/School-Mass-Notes/Export HTML/The Hoover Dam.html">Hoover Dam</a>.   </p>
 <p>In <strong>present day</strong>, over 37 million people come each year to party.</p><h2>Backlinks</h2>
 <ul>
@@ -74,8 +104,8 @@
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/TGD INDEX.html">TGD INDEX</a></li>
 </ul>
 <!-- <div class="graph">
-    <svg class="graph_svg" id="A291272225042476629755173155799814612993{level}"></svg>
-    <button class="graph_button" id="B291272225042476629755173155799814612993{level}" level="{level}" onclick="run('291272225042476629755173155799814612993'+this.level, 'Las Vegas');">Show Graph</button>
+    <svg class="graph_svg" id="A5072777357557823468913538197833655997{level}"></svg>
+    <button class="graph_button" id="B5072777357557823468913538197833655997{level}" level="{level}" onclick="run('5072777357557823468913538197833655997'+this.level, 'Las Vegas');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
@@ -83,8 +113,8 @@
  <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
 <div class="graph">
-    <div id="A291272225042476629755173155799814612993{level}" class="graph_div"></div>
-    <button class="graph_button" id="B291272225042476629755173155799814612993{level}" level="{level}" onclick="run('291272225042476629755173155799814612993'+this.level, 'Las Vegas');">Show Graph</button>
+    <div id="A5072777357557823468913538197833655997{level}" class="graph_div"></div>
+    <button class="graph_button" id="B5072777357557823468913538197833655997{level}" level="{level}" onclick="run('5072777357557823468913538197833655997'+this.level, 'Las Vegas');">Show Graph</button>
 </div>
 
 
@@ -134,13 +164,12 @@
 </script>
 
 
-                        <!-- end content -->
+                                <!-- end content -->
+                                </div>
                         </div>
-                        <div id="right_pane"></div>
                 </div>
         </div>
 
-<script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
-
+        <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
 </body>
 </html>

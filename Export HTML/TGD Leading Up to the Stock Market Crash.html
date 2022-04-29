@@ -24,19 +24,53 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'TGD Leading Up to the Stock Market Crash';
+                        // // add prefix to hash to avoid scrolling
+                        // if (0 == 0){
+                        //         if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
+                        //                 window.location.hash = '!' + window.location.hash.substr(1);
+                        //         }
+                        // }
                 </script>
         </head>
 
 <body onload="LoadPage();">
-        <div class="flex_col">
-                <div id="header" class="header">
+        <div class="flex_col" id="site_column">
+                <div id="header" class="header" style="position:fixed">
                         <div id="header_flex" class="flex_row">
+                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
+                                <div class="navbar-button" onclick="toggle('navbar', 'flex');toggle('navbar2', 'flex')">
+                                        ≡
+                                </div>
+                                <div id="navbar" class="navbar">
+                                
+                                        <div class="icon-tray">
+                                                
+                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
+                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" class="system-link" title="Open tag view">
+                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="Tags view"/>
+                                                        </a>
+                                                </div>
+                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
+            <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
+                    <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
+            </a>
+        </div>
+                                                        <div class="graph_header_div">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=TGD Leading Up to the Stock Market Crash" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
+            </a>
+        </div>
+                                        </div>                                
+                                </div>
+                        </div>
+                </div>
+                <div id="header2" class="header">
+                        <div id="header_flex2" class="flex_row">
                                 <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
                                 <div class="navbar-button" onclick="toggle('navbar', 'flex')">
                                         ≡
                                 </div>
-                                <div id="navbar" class="navbar">
+                                <div id="navbar2" class="navbar">
                                 
                                         <div class="icon-tray">
                                                 
@@ -58,15 +92,11 @@
                                         </div>                                
                                 </div>
                         </div>
-                </div>
-                <div class="flex_row">
-                        <div class="container">
-                                        <h1 id="leading-up-to-the-stock-market-crash">Leading Up to the Stock Market Crash</h1>
-<div class="toc">
-<ul>
-<li><a href="#leading-up-to-the-stock-market-crash" class="anchor-link">Leading Up to the Stock Market Crash</a></li>
-</ul>
-</div>
+                </div>                
+                <div class="flex_row" id="container_row">
+                        <div class="container-wrapper ">
+                                <div class="container">
+                                <h1 id="leading-up-to-the-stock-market-crash">Leading Up to the Stock Market Crash</h1>
 <p><strong>1920</strong>, it was the time of social upheaval, poverty, drought. Money is in circulation. Oil wells are generating lots of income, and skyscrapers rise high. There were many suburban housing projects, such as Hollywood-Land, and America was getting carried away with consumerism and capitalism.   </p>
 <p><strong>1929</strong>, more money is spent on advertisement than education. The boom is built on easy credit - 6 billion dollars of goods are bought on credit and Money was being borrowed that people could not pay back (hurting both sides). 80% of Americans have no savings at all.   </p>
 <p>Some stocks are bought at 50 times of what they are worth. The <a href="/School-Mass-Notes/Export HTML/not_created.html" class="nonexistent-link">Stock market</a> loses 12 times more money in 3 weeks than the US government uses in a year. Americans economy teeters on the edge of the abyss.</p><h2>Backlinks</h2>
@@ -74,8 +104,8 @@
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/TGD INDEX.html">TGD INDEX</a></li>
 </ul>
 <!-- <div class="graph">
-    <svg class="graph_svg" id="A200688681231115190030380583457934506665{level}"></svg>
-    <button class="graph_button" id="B200688681231115190030380583457934506665{level}" level="{level}" onclick="run('200688681231115190030380583457934506665'+this.level, 'TGD Leading Up to the Stock Market Crash');">Show Graph</button>
+    <svg class="graph_svg" id="A22180070969666144244301090710004078916{level}"></svg>
+    <button class="graph_button" id="B22180070969666144244301090710004078916{level}" level="{level}" onclick="run('22180070969666144244301090710004078916'+this.level, 'TGD Leading Up to the Stock Market Crash');">Show Graph</button>
 </div>
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
@@ -83,8 +113,8 @@
  <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
 
 <div class="graph">
-    <div id="A200688681231115190030380583457934506665{level}" class="graph_div"></div>
-    <button class="graph_button" id="B200688681231115190030380583457934506665{level}" level="{level}" onclick="run('200688681231115190030380583457934506665'+this.level, 'TGD Leading Up to the Stock Market Crash');">Show Graph</button>
+    <div id="A22180070969666144244301090710004078916{level}" class="graph_div"></div>
+    <button class="graph_button" id="B22180070969666144244301090710004078916{level}" level="{level}" onclick="run('22180070969666144244301090710004078916'+this.level, 'TGD Leading Up to the Stock Market Crash');">Show Graph</button>
 </div>
 
 
@@ -134,13 +164,12 @@
 </script>
 
 
-                        <!-- end content -->
+                                <!-- end content -->
+                                </div>
                         </div>
-                        <div id="right_pane"></div>
                 </div>
         </div>
 
-<script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
-
+        <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
 </body>
 </html>

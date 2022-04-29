@@ -18,7 +18,7 @@ aliases: The Great Depression, Great Depression
 > [[TGD The Start of WW2|The Start of WW2]]
 ## Questions, Answers, and Summaries
 ### In what year did the Great Depression begin?
-[[TGD INDEX|The Great Depression]] began in **1929** 
+[[TGD INDEX|The Great Depression]] began in **1929**.
 ### What was said to be the cause of the Great Depression in America?
 The initial cause of [[TGD INDEX|The Great Depression]] was the borrowing of easy credit. This was the act of buying goods on money that people could not pay back, leading to both sides of the transaction would lose money. 6 million dollars of wares are purchased on money that didn't exist, and 80% of Americans lacked savings. The stocks of companies, one of the goods being purchased, are sold for 50 times the price than what they are worth, and as a result, the Stock Market loses 12 times more money in 3 weeks than the US Government uses in a year.  
 ### What did America feel that it had to do to recover from the Great Depression?
@@ -41,9 +41,9 @@ The water and hydroelectricity that the Dam generates off of it's *'a-million-an
 The Dam generates electricity, and power from the water. The electricity made can make money for the US. It's profit is directly responsible for the town of [[Las Vegas]], and around **1930**, 5,000 people live in [[Las Vegas]]. The city is seen as a relaxing, fun and games (Drinking and Gambling) haven for men. Wives of men say that they deserve the haven for the hard work they have done on the [[The Hoover Dam|Hoover Dam]].
 
 In **present day**, over 37 million people come each year to party.
-### What entertainment event lifted Americas spirit during these troubling times? What was the name of Americas hero in this event?
+### What entertainment event lifted America's spirit during these troubling times? What was the name of America's hero in this event?
 The Heavy Weight Championship, where American hero, [[Joe Louis]], was put up against what was seen as America's opponent - German fighter, [[Max Schmelling]].
-### After all that has happened what coming world controversy was responsible for giving America the final push out of the great Depression?
+### After all that has happened, what coming world controversy was responsible for giving America the final push out of the great Depression?
 [[Joe Louis]] loses the fight to [[Max Schmelling]]. This was inspiration for Germany, and was a publicity dream for the Nazis. [[Adolf Hitler]] says 'their mistake was freeing their slaves'. A rematch is arranged. In Germany, Nazis expand their power. [[Joe Louis]] had a lot of Weight on his Shoulders. For the first time in America's history, it was symbolically represented by a black man.
 
 75 thousand people watch the fight live, 7 million people tune in via radio, 100 million people tune in via tv. The fight is a battle of ideologies, it was representing a lot more. [[Max Schmelling]] represented everything America disliked.
