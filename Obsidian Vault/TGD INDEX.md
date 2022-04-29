@@ -3,7 +3,7 @@ aliases: The Great Depression, Great Depression
 ---
 # The Great Depression Index
 
-> [[WW1 INDEX|WW1]]
+> [[WW1 INDEX|World War 1]]
 > [[The Roaring Twenties]]
 >
 > [[Stock Market]]
@@ -22,7 +22,7 @@ aliases: The Great Depression, Great Depression
 ### What was said to be the cause of the Great Depression in America?
 The initial cause of [[TGD INDEX|The Great Depression]] was the borrowing of easy credit. This was the act of buying goods on money that people could not pay back, leading to both sides of the transaction would lose money. 6 million dollars of wares are purchased on money that didn't exist, and 80% of Americans lacked savings. The stocks of companies, one of the goods being purchased, are sold for 50 times the price than what they are worth, and as a result, the Stock Market loses 12 times more money in 3 weeks than the US Government uses in a year.  
 ### What did America feel that it had to do to recover from the Great Depression?
-
+America knew that it needed to gain money and create motivation to be able to support itself and keep standing for any longer. Projects such as [[The Washington Monument]], Public work programs like the [[New Deal]], and the [[The Hoover Dam|Hoover Dam]] are contributed to America's [[TGD Recovery|Recovery]].
 ### What was the “Dust Bowl” and what caused it?
 In **1934**, multiple duststorms hit New York, 18,000 miles wide, carrying 3 tons of dust, for every American. The storms originated in Oklahoma, Texas, Colorado, and Kanas. The Top soil is 4 meters deep - dried up and was loose due to the 4 years of farmers. Static electricity build up between the Earth and the Dust, and as a result, it is lifted up and is further propelled by high altitude winds.
 ### What were the affects of the “Dust Bowl”?

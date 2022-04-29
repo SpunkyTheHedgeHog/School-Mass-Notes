@@ -3,7 +3,7 @@ aliases: Roaring Twenties, Jazz Age
 tags: Roles
 ---
 # The Roaring Twenties
-> [[WW1 INDEX|WW1]]
+> [[WW1 INDEX|World War 1]]
 > 
 > [[TGD INDEX|The Great Depression]]
 

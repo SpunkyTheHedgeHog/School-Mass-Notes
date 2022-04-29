@@ -1,4 +1,4 @@
 ---
 aliases: 
 ---
-# White Supremacy
+# New Deal

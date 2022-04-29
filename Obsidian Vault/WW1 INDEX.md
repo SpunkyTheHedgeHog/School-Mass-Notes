@@ -1,5 +1,5 @@
 ---
-aliases: WW1
+aliases: WW1, World War 1
 tags: Inequality Roles
 ---
 # WW1 Index
@@ -21,6 +21,7 @@ tags: Inequality Roles
 > [[WW1 Life After The War|Life After The War]]
 > 
 > [[The Roaring Twenties]]
+> [[TGD INDEX|The Great Depression]]
 
 ## Questions, Answers, & Summaries
 ### **What was America like before and during World War I?**

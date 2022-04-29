@@ -7,4 +7,4 @@ A monument is made to symbolize America's Tenacity, it was a symbol of America's
 
 30,000 years will it take for the mountain to be shaped back to how it was from natural decay.
 
-public works programs called the New Deal, put in place by President Roosevelt.
+public works programs called the [[New Deal]], put in place by [[Franklin Roosevelt]].
