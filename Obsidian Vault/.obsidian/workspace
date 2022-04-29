@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "WW1 Women's Roles.md",
             "mode": "source",
             "source": false
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "WW1 Women's Roles.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "WW1 Women's Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "WW1 Women's Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,15 +147,15 @@
   },
   "active": "ffe199020e06a4a1",
   "lastOpenFiles": [
+    "WW1 Women's Roles.md",
+    "WW1 Life During The War.md",
+    "WW1 INDEX.md",
     "+Home.md",
     "TGD INDEX.md",
-    "WW1 INDEX.md",
+    "WW1 Propaganda.md",
     "The Roaring Twenties.md",
     "History.md",
     "White Supremacy.md",
-    "TGD Recovery.md",
-    "WW2 Lesson 1 & 2 Vocabulary.md",
-    "Franklin Roosevelt.md",
-    "The Washington Monument.md"
+    "TGD Recovery.md"
   ]
 }

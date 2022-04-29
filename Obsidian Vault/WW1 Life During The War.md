@@ -13,4 +13,6 @@ America was considering joining the war because Germany sunk the Lusitania (a tr
 
 Citizens were encouraged to use less meat and wheat, and instead use ingredients like fish, beans, and corn.
 
+![[WW1 Propaganda#WW1 Propaganda]]
+
 ![[WW1 Women's Roles#Women's Contribution to the War]]
