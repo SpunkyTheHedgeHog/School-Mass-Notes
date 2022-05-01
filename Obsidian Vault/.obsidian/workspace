@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TGD INDEX.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TGD INDEX.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TGD INDEX.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TGD INDEX.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,14 +147,14 @@
   },
   "active": "ffe199020e06a4a1",
   "lastOpenFiles": [
+    "+Home.md",
+    "WW1 INDEX.md",
+    "WW1 Women's Roles.md",
     "TGD INDEX.md",
     "TGD The Start of WW2.md",
     "The Washington Monument.md",
     "TGD Dustbowl.md",
-    "WW1 Women's Roles.md",
     "WW1 Life During The War.md",
-    "WW1 INDEX.md",
-    "+Home.md",
     "WW1 Propaganda.md",
     "The Roaring Twenties.md"
   ]

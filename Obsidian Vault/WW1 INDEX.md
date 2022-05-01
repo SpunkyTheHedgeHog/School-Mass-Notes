@@ -1,5 +1,5 @@
 ---
-aliases: WW1, World War 1
+aliases: WW1, World War 
 tags: Inequality Roles
 ---
 # WW1 Index
