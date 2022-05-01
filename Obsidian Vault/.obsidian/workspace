@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TGD The Years Following The Crash.md",
+            "file": "TGD INDEX.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d43e9c7cf84685bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "New Deal.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4f2c1215c4a202bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TGD Recovery.md",
             "mode": "source",
             "source": false
           }
@@ -104,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TGD The Years Following The Crash.md"
+                "file": "New Deal.md"
               }
             }
           },
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TGD The Years Following The Crash.md",
+                "file": "New Deal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TGD The Years Following The Crash.md",
+                "file": "New Deal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,17 +169,17 @@
     "width": 373,
     "collapsed": true
   },
-  "active": "ffe199020e06a4a1",
+  "active": "d43e9c7cf84685bb",
   "lastOpenFiles": [
+    "New Deal.md",
+    "TGD INDEX.md",
+    "TGD Recovery.md",
+    "The Washington Monument.md",
+    "TGD Leading Up to the Stock Market Crash.md",
     "TGD The Years Following The Crash.md",
     "Pasted image 20220430180416.png",
-    "TGD Leading Up to the Stock Market Crash.md",
-    "TGD INDEX.md",
     "Franklin Delano Roosevelt.md",
-    "New Deal.md",
-    "The Washington Monument.md",
     "Normalcy.md",
-    "Theodore Roosevelt.md",
-    "TGD The Start of WW2.md"
+    "Theodore Roosevelt.md"
   ]
 }

@@ -11,7 +11,8 @@ aliases: The Great Depression, Great Depression
 > [[TGD Leading Up to the Stock Market Crash|Leading Up to the Stock Market Crash]]
 > [[TGD The Years Following The Crash|The Years following the Crash]]
 > [[TGD Recovery|Recovery]]
-> 
+>
+> [[New Deal]]
 > [[TGD Dustbowl|The Dustbowl]]
 > [[The Washington Monument]]
 >
@@ -21,6 +22,8 @@ aliases: The Great Depression, Great Depression
 [[TGD INDEX|The Great Depression]] began in **1929**.
 ### What was said to be the cause of the Great Depression in America?
 The initial cause of [[TGD INDEX|The Great Depression]] was the borrowing of easy credit. This was the act of buying goods on money that people could not pay back, leading to both sides of the transaction would lose money. 6 million dollars of wares are purchased on money that didn't exist, and 80% of Americans lacked savings. The stocks of companies, one of the goods being purchased, are sold for 50 times the price than what they are worth, and as a result, the Stock Market loses 12 times more money in 3 weeks than the US Government uses in a year.  
+
+In addition, the supply of many industries, such as farmers, are overproducing and outpacing the demand of their products, leading to waste. Since the demand of their products is way lower than what they have, bosses lay off workers. (*Workers being laid off now have no source of income, further slowing the demand of supplies as they can't purchase what they need*) 
 ### What did America feel that it had to do to recover from the Great Depression?
 America knew that it needed to gain money and create motivation to be able to support itself and keep standing for any longer. Projects such as [[The Washington Monument]], Public work programs like the [[New Deal]], and the [[The Hoover Dam|Hoover Dam]] are contributed to America's [[TGD Recovery|Recovery]].
 ### What was the “Dust Bowl” and what caused it?
