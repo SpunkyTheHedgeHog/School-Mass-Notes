@@ -26,18 +26,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "4f2c1215c4a202bf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TGD Recovery.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -172,14 +160,14 @@
   "active": "d43e9c7cf84685bb",
   "lastOpenFiles": [
     "New Deal.md",
-    "TGD INDEX.md",
+    "TGD Dustbowl.md",
     "TGD Recovery.md",
+    "TGD INDEX.md",
     "The Washington Monument.md",
     "TGD Leading Up to the Stock Market Crash.md",
     "TGD The Years Following The Crash.md",
     "Pasted image 20220430180416.png",
     "Franklin Delano Roosevelt.md",
-    "Normalcy.md",
-    "Theodore Roosevelt.md"
+    "Normalcy.md"
   ]
 }
