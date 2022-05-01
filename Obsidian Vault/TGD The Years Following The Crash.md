@@ -8,4 +8,6 @@ A (unnamed) a person in [[Bronx]]  asks to withdraw their money/stocks from the 
 
 The people of America withdraw 2 million dollars from their banks for safe caution within a single morning. In the final 60 days of **1930**, 600 banks shut. Banks are forced to close on a mass scale, and 28 states are left without have a single bank open. The federal government does not bail out the banks either. 
 
-**1932**, Unemployment goes from 4 million to 12 million. 1,000 homes are reposed everyday. 200,000 vagrant (people committing crimes) children wander the country - without parents. 34 million Americans have no source of Income.
+**1932**, Unemployment goes from 4 million to 12 million. 1,000 homes are reposed everyday. 200,000 vagrant (people committing crimes) children wander the country - without parents. 34 million Americans have no source of Income!
+
+![[StockMarketGraph.png]]

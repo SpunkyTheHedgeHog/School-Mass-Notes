@@ -81,7 +81,7 @@ Erwin Rommel most likely killed himself to avoid torture.
 The Lend-Lease Act let the U.S. to protect any country it deemed beneficial.
 
 #### 16	:	Atlantic Charter
->agreement in which [[Franklin Roosevelt]] and Winston Churchill set goals for the defeat of Nazi Germany and for the postwar world
+>agreement in which [[Franklin Delano Roosevelt]] and Winston Churchill set goals for the defeat of Nazi Germany and for the postwar world
 
 Atlantic Charter was the plan after the war.
 >

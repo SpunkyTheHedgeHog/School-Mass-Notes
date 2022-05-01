@@ -1,4 +1,0 @@
----
-aliases: Person
----
-# Franklin Roosevelt
