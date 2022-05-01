@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Deal.md"
+                "file": "TGD INDEX.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Deal.md",
+                "file": "TGD INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Deal.md",
+                "file": "TGD INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,11 +157,11 @@
     "width": 373,
     "collapsed": true
   },
-  "active": "d43e9c7cf84685bb",
+  "active": "ffe199020e06a4a1",
   "lastOpenFiles": [
+    "TGD INDEX.md",
     "New Deal.md",
     "TGD Dustbowl.md",
-    "TGD INDEX.md",
     "TGD Recovery.md",
     "The Washington Monument.md",
     "TGD Leading Up to the Stock Market Crash.md",

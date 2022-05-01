@@ -8,4 +8,4 @@ The [[New Deal]] allowed the federal government to take a more active role in ma
 
 Unfortunately, The [[New Deal]] program failed to out right end [[TGD INDEX|The Great Depression]] as it was planned to due to the natural disaster that was the [[TGD Dustbowl]]. (*This is not to say that the [[New Deal]] didn't help, it did, but not exactly enough*)
 
-<sub><sub>I guess you can say it didn't **deal** with the situation well enough.<sub/><sub/>
+<sub><sub>I guess you can say it didn't ***deal*** with the situation well enough.</sub></sub>
