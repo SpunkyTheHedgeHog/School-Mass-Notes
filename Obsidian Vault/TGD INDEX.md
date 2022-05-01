@@ -50,5 +50,6 @@ The Heavy Weight Championship, where American hero, [[Joe Louis]], was put up ag
 
 [[Max Schmelling|Schmelling]] is knocked out and loses the fight in 124 seconds. His victory was was what America needed at the time.
 ### ==Explain== How did the U.S. Government react to the Great Depression? `PG 426`
+1932, [[Franklin Roosevelt]] [[New Deal]], allowed the federal goverment to take a more active role in the stock market, and take laws to regulate stock market, and protected the bank departments. Eventually failed due to dustbowls.
 ### ==Compare Points Of View== Describe the similarities between fascism and communism. `PG 430`
 ### ==Support Ideas With Examples== Describe the problems of the Weimar Republic. `PG 440`
