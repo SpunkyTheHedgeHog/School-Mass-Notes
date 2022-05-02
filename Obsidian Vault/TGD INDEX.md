@@ -54,7 +54,7 @@ The Heavy Weight Championship, where American hero, [[Joe Louis]], was put up ag
 
 [[Max Schmelling|Schmelling]] is knocked out and loses the fight in 124 seconds. His victory was was what America needed at the time.
 ### ==Explain== How did the U.S. Government react to the Great Depression? `PG 426`
-**1932**, in efforts to stop [[TGD INDEX|The Great Depression]], the government deployed what was called the [[New Deal]]. The [[New Deal]] was a collection of economic and social programs established by [[Franklin Delano Roosevelt]] to help Americans during [[TGD INDEX|The Great Depression]].
+Before, the U.S. Government was very hands off when it delt with the [[TGD INDEX|Great Depression]].But when**1932** canme around, [[Franklin Delano Roosevelt]] became President. In efforts to stop [[TGD INDEX|The Great Depression]], the government deployed what was called the [[New Deal]]. The [[New Deal]] was a collection of economic and social programs established by [[Franklin Delano Roosevelt]] to help Americans during [[TGD INDEX|The Great Depression]].
 
 The [[New Deal]] allowed the federal government to take a more active role in managing the economy. New laws regulated the [[Stock Market]] and protected bank deposits. Government programs created jobs and gave aid to farmers. A new Social Security system provided pensions for the elderly and other benefits.
 
@@ -62,6 +62,8 @@ Unfortunately, The [[New Deal]] program failed to out right end [[TGD INDEX|The 
 <sub><sub>I guess you can say it didn't ***deal*** with the situation well enough.</sub></sub>
 
 America cancelled any and all investments to other countries, and raised their [[Tariffs]] to try to get more money. This action affected the other countries and led them to doing the same, which rippled like a Rube Goldberg machine and just ended up hurting everyone.
+
+The Goverment also assisted in the funding of [[The Hoover Dam]], 
 ### ==Compare Points Of View== Describe the similarities between fascism and communism. `PG 430`
 [[Fascism]]
 ### ==Support Ideas With Examples== Describe the problems of the Weimar Republic. `PG 440`

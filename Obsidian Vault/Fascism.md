@@ -15,3 +15,6 @@ Fascists were also antidemocratic. They rejected the Enlightenment emphasis on r
 Given its restrictions on individual freedom, why did fascism appeal to many Italians? First, it promised a strong, stable government and an end to the political feuding that had paralyzed [[democracy]] in Italy. Mussolini projected a sense of power and confidence at a time of disorder and despair. His intense nationalism also revived national pride, which helped further the shift of political thought throughout Italy.
 
 At first, Il Duce received good press outside Italy. Newspapers in Britain, France, and North America applauded the discipline and order of Mussolini’s government. “He got the trains running on time,” admirers said. Only later, when Mussolini embarked on a course of foreign conquest, did Western democracies protest.
+
+## Fascism vs Communism
+
