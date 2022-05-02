@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ffe199020e06a4a1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TGD INDEX.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "d43e9c7cf84685bb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Deal.md",
+            "file": "TGD INDEX.md",
             "mode": "source",
             "source": false
           }
@@ -157,9 +145,10 @@
     "width": 373,
     "collapsed": true
   },
-  "active": "ffe199020e06a4a1",
+  "active": "d43e9c7cf84685bb",
   "lastOpenFiles": [
     "TGD INDEX.md",
+    "Tariffs.md",
     "New Deal.md",
     "TGD Dustbowl.md",
     "TGD Recovery.md",
@@ -167,7 +156,6 @@
     "TGD Leading Up to the Stock Market Crash.md",
     "TGD The Years Following The Crash.md",
     "Pasted image 20220430180416.png",
-    "Franklin Delano Roosevelt.md",
-    "Normalcy.md"
+    "Franklin Delano Roosevelt.md"
   ]
 }
