@@ -3,5 +3,5 @@ aliases:
 ---
 # Home
 > [[WW1 INDEX|World War 1]]
-> [[The Roaring Twenties INDEX]]
+> [[The Roaring Twenties INDEX|Roaring Twenties]]
 > [[TGD INDEX|The Great Depression]]

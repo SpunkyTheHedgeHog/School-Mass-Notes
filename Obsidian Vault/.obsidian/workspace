@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TGD INDEX.md",
-            "mode": "preview",
+            "file": "+Home.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TGD INDEX.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TGD INDEX.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TGD INDEX.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,15 +146,15 @@
   },
   "active": "07106bfcd73fbc40",
   "lastOpenFiles": [
+    "+Home.md",
+    "The Roaring Twenties INDEX.md",
     "TGD INDEX.md",
     "Hennery Johnson.md",
     "Democracy.md",
     "Fascism.md",
     "WW1 INDEX.md",
-    "The Roaring Twenties INDEX.md",
     "Bronx.md",
     "Communism.md",
-    "Tariffs.md",
-    "New Deal.md"
+    "Tariffs.md"
   ]
 }
