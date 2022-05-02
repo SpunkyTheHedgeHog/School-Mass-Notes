@@ -1,0 +1,4 @@
+---
+aliases: Communist, Communists
+---
+# Communism

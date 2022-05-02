@@ -1,6 +1,6 @@
 ---
 aliases: Roaring Twenties, Jazz Age
-tags: Roles
+tags: Roles Index
 ---
 # The Roaring Twenties
 > [[WW1 INDEX|World War 1]]
@@ -34,7 +34,7 @@ Steel workers were seeking a reduction of their 12 hour work days.
 ### [10] What were the Boston police striking for? How much did they earn before?
 Police find that they can no longer support their families on a $21 a week salary. They strike for higher wages, and petition for a union. Wide spread looting takes place as a result. The strikers are fired, and in 3 days, they are replaced 
 ### [11] After all of the controversy in this part of the film is mentioned, what does the narrator ask about the state of America?
-Is America itself in danger of a Communist Revolution.
+Is America itself in danger of a [[Communism|Communist]] Revolution.
 ### [12] With the [[Ku Klux Klan]] resurgence, where did this organization gain new supporter?
 The [[Ku Klux Klan|KKK]] find new supporters in the North, and all capital cities.
 ### [13] Race riots rose at this time of extreme prejudice for what 3 groups

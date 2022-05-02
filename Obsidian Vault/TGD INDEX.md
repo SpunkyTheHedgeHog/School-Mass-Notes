@@ -1,10 +1,11 @@
 ---
 aliases: The Great Depression, Great Depression
+tags: Index
 ---
-# The Great Depression Index
+# The Great Depression
 
 > [[WW1 INDEX|World War 1]]
-> [[The Roaring Twenties]]
+> [[The Roaring Twenties INDEX]]
 >
 > [[Stock Market]]
 > 
@@ -62,4 +63,5 @@ Unfortunately, The [[New Deal]] program failed to out right end [[TGD INDEX|The 
 
 America cancelled any and all investments to other countries, and raised their [[Tariffs]] to try to get more money. This action affected the other countries and led them to doing the same, which rippled like a Rube Goldberg machine and just ended up hurting everyone.
 ### ==Compare Points Of View== Describe the similarities between fascism and communism. `PG 430`
+[[Fascism]]
 ### ==Support Ideas With Examples== Describe the problems of the Weimar Republic. `PG 440`

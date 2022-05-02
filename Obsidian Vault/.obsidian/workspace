@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d43e9c7cf84685bb",
+        "id": "07106bfcd73fbc40",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "TGD INDEX.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -142,20 +142,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373,
-    "collapsed": true
+    "width": 373
   },
-  "active": "d43e9c7cf84685bb",
+  "active": "07106bfcd73fbc40",
   "lastOpenFiles": [
     "TGD INDEX.md",
+    "Hennery Johnson.md",
+    "Democracy.md",
+    "Fascism.md",
+    "WW1 INDEX.md",
+    "The Roaring Twenties INDEX.md",
+    "Bronx.md",
+    "Communism.md",
     "Tariffs.md",
-    "New Deal.md",
-    "TGD Dustbowl.md",
-    "TGD Recovery.md",
-    "The Washington Monument.md",
-    "TGD Leading Up to the Stock Market Crash.md",
-    "TGD The Years Following The Crash.md",
-    "Pasted image 20220430180416.png",
-    "Franklin Delano Roosevelt.md"
+    "New Deal.md"
   ]
 }

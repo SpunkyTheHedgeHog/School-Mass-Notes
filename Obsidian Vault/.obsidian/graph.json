@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:Template",
+      "query": "tag:#Template",
       "color": {
         "a": 1,
         "rgb": 6384265
@@ -34,25 +34,18 @@
         "a": 1,
         "rgb": 8962256
       }
-    },
-    {
-      "query": "WW1",
-      "color": {
-        "a": 1,
-        "rgb": 11833005
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 2.55,
-  "collapse-forces": false,
+  "lineSizeMultiplier": 1.61666666666667,
+  "collapse-forces": true,
   "centerStrength": 1,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5087618855792826,
+  "scale": 0.1846232622585903,
   "close": true
 }

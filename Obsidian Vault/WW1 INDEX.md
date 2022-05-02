@@ -1,8 +1,8 @@
 ---
 aliases: WW1, World War 
-tags: Inequality Roles
+tags: Inequality Roles Index
 ---
-# WW1 Index
+# World War 1
 > [[WW1 Allied Powers|Allied Powers]]
 > [[WW1 Central Powers|Central Powers]]
 
@@ -20,7 +20,7 @@ tags: Inequality Roles
 > [[WW1 Life During The War|Life During The War]]
 > [[WW1 Life After The War|Life After The War]]
 > 
-> [[The Roaring Twenties]]
+> [[The Roaring Twenties INDEX]]
 > [[TGD INDEX|The Great Depression]]
 
 ## Questions, Answers, & Summaries
