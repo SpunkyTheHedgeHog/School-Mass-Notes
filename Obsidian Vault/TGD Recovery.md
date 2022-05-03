@@ -16,5 +16,5 @@ Despite many odds and challenges, such as the cooling of the cement, and Carbon 
 
 The water and hydroelectricity that the Dam generates off of it's *'a-million-and-a-half-gallon-a-second-power*' transforms the whole of the Southwest. Nevada, Arizona, California, still benefit from the hydroelectricity today. It's profit is directly responsible for the town of [[Las Vegas]].
 
-![[The Washington Monument#The Washington Monument]]
+![[Mount Rushmore#The Mount Rushmore]]
 ![[New Deal#New Deal]]

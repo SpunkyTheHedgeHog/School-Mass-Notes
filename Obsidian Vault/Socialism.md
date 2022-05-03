@@ -1,0 +1,4 @@
+---
+aliases: Socialist, Socialists
+---
+# Socialism

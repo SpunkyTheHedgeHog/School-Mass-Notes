@@ -15,7 +15,7 @@ tags: Index
 >
 > [[New Deal]]
 > [[TGD Dustbowl|The Dustbowl]]
-> [[The Washington Monument]]
+> [[Mount Rushmore]]
 >
 > [[TGD The Start of WW2|The Start of WW2]]
 ## Questions, Answers, and Summaries
@@ -26,7 +26,7 @@ The initial cause of [[TGD INDEX|The Great Depression]] was the borrowing of eas
 
 In addition, the supply of many industries, such as farmers, are overproducing and outpacing the demand of their products, leading to waste. Since the demand of their products is way lower than what they have, bosses lay off workers. (*Workers being laid off now have no source of income, further slowing the demand of supplies as they can't purchase what they need*) 
 ### What did America feel that it had to do to recover from the Great Depression?
-America knew that it needed to gain money and create motivation to be able to support itself and keep standing for any longer. Projects such as [[The Washington Monument]], Public work programs like the [[New Deal]], and the [[The Hoover Dam|Hoover Dam]] are contributed to America's [[TGD Recovery|Recovery]].
+America knew that it needed to gain money and create motivation to be able to support itself and keep standing for any longer. Projects such as [[Mount Rushmore]], Public work programs like the [[New Deal]], and the [[The Hoover Dam|Hoover Dam]] are contributed to America's [[TGD Recovery|Recovery]].
 ### What was the “Dust Bowl” and what caused it?
 In **1934**, multiple duststorms hit New York, 18,000 miles wide, carrying 3 tons of dust, for every American. The storms originated in Oklahoma, Texas, Colorado, and Kanas. The Top soil is 4 meters deep - dried up and was loose due to the 4 years of farmers. Static electricity build up between the Earth and the Dust, and as a result, it is lifted up and is further propelled by high altitude winds.
 ### What were the affects of the “Dust Bowl”?
@@ -54,7 +54,7 @@ The Heavy Weight Championship, where American hero, [[Joe Louis]], was put up ag
 
 [[Max Schmelling|Schmelling]] is knocked out and loses the fight in 124 seconds. His victory was was what America needed at the time.
 ### ==Explain== How did the U.S. Government react to the Great Depression? `PG 426`
-Before, the U.S. Government was very hands off when it delt with the [[TGD INDEX|Great Depression]].But when**1932** canme around, [[Franklin Delano Roosevelt]] became President. In efforts to stop [[TGD INDEX|The Great Depression]], the government deployed what was called the [[New Deal]]. The [[New Deal]] was a collection of economic and social programs established by [[Franklin Delano Roosevelt]] to help Americans during [[TGD INDEX|The Great Depression]].
+Before, the U.S. Government was very hands off when it dealt with the [[TGD INDEX|Great Depression]]. But when **1932** came around, [[Franklin Delano Roosevelt]] became President. In efforts to stop [[TGD INDEX|The Great Depression]], the government deployed what was called the [[New Deal]]. The [[New Deal]] was a collection of economic and social programs established by [[Franklin Delano Roosevelt]] to help Americans during [[TGD INDEX|The Great Depression]].
 
 The [[New Deal]] allowed the federal government to take a more active role in managing the economy. New laws regulated the [[Stock Market]] and protected bank deposits. Government programs created jobs and gave aid to farmers. A new Social Security system provided pensions for the elderly and other benefits.
 
@@ -63,7 +63,9 @@ Unfortunately, The [[New Deal]] program failed to out right end [[TGD INDEX|The 
 
 America cancelled any and all investments to other countries, and raised their [[Tariffs]] to try to get more money. This action affected the other countries and led them to doing the same, which rippled like a Rube Goldberg machine and just ended up hurting everyone.
 
-The Goverment also assisted in the funding of [[The Hoover Dam]], 
+The Government also assisted in the funding of [[Frank Crowe|Frank 'hurry up' Crowe]]'s project, [[The Hoover Dam]], a dam that generated hydroelectricity off of the Colorado River. While it took 4 years to build, it was done ahead of their planned 6 years, and it transformed the whole of the Southwest (Nevada, Arizona, California continue to benefit from it today).
+
+To symbolize America's pride, it's unity, it's tenacity, and it's fate in it's future and past, [[Mount Rushmore]] was created. It featured a bust of 4 different Presidents - and a *bust* it was when lighting struck a powerline, causing the sculpting dynamite to be set off prematurely and *busting* [[Bill Reynolds]]'s eardrums (He was back on the job the next day).
 ### ==Compare Points Of View== Describe the similarities between fascism and communism. `PG 430`
-[[Fascism]]
+![[Fascism#Fascism vs Communism]]
 ### ==Support Ideas With Examples== Describe the problems of the Weimar Republic. `PG 440`

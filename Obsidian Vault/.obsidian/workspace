@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "07106bfcd73fbc40",
+        "id": "0c333dc7eb69fa17",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "TGD INDEX.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Index",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "TGD INDEX.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "TGD INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "TGD INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,17 +145,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "07106bfcd73fbc40",
+  "active": "0c333dc7eb69fa17",
   "lastOpenFiles": [
-    "+Home.md",
-    "The Roaring Twenties INDEX.md",
     "TGD INDEX.md",
-    "Hennery Johnson.md",
-    "Democracy.md",
     "Fascism.md",
-    "WW1 INDEX.md",
-    "Bronx.md",
     "Communism.md",
-    "Tariffs.md"
+    "Propaganda.md",
+    "Totalitarianism.md",
+    "Socialism.md",
+    "Mount Rushmore.md",
+    "Russia.md",
+    "TGD Recovery.md",
+    "re.md"
   ]
 }
