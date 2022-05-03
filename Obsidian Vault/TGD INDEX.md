@@ -66,6 +66,3 @@ America cancelled any and all investments to other countries, and raised their [
 The Government also assisted in the funding of [[Frank Crowe|Frank 'hurry up' Crowe]]'s project, [[The Hoover Dam]], a dam that generated hydroelectricity off of the Colorado River. While it took 4 years to build, it was done ahead of their planned 6 years, and it transformed the whole of the Southwest (Nevada, Arizona, California continue to benefit from it today).
 
 To symbolize America's pride, it's unity, it's tenacity, and it's fate in it's future and past, [[Mount Rushmore]] was created. It featured a bust of 4 different Presidents - and a *bust* it was when lighting struck a powerline, causing the sculpting dynamite to be set off prematurely and *busting* [[Bill Reynolds]]'s eardrums (He was back on the job the next day).
-### ==Compare Points Of View== Describe the similarities between fascism and communism. `PG 430`
-![[Fascism#Fascism vs Communism]]
-### ==Support Ideas With Examples== Describe the problems of the Weimar Republic. `PG 440`
