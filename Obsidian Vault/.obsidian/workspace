@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TGD INDEX.md",
+            "file": "Feminism.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"tags:\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TGD INDEX.md"
+                "file": "Feminism.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TGD INDEX.md",
+                "file": "Feminism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TGD INDEX.md",
+                "file": "Feminism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,15 +147,15 @@
   },
   "active": "0c333dc7eb69fa17",
   "lastOpenFiles": [
-    "TGD INDEX.md",
-    "Fascism.md",
-    "Communism.md",
-    "Propaganda.md",
-    "Totalitarianism.md",
-    "Socialism.md",
-    "Mount Rushmore.md",
-    "Russia.md",
-    "TGD Recovery.md",
-    "re.md"
+    "Feminism.md",
+    "Nazi Germany.md",
+    "Chancellor.md",
+    "Ruhr Valley.md",
+    "Hyperinflation.md",
+    "Adolf Hitler.md",
+    "Third Reich.md",
+    "Nuremberg Laws.md",
+    "Gestapo.md",
+    "The Roaring Twenties INDEX.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
 aliases:
-tags: #WW1
+tags: WW1
 ---
 # Feminism
