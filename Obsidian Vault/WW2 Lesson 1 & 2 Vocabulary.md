@@ -46,7 +46,7 @@ Sudetenland was inside Czechoslovakia...
 #### 09	:	Nazi-Soviet Pact
 >agreement between Germany and the Soviet Union in 1939 in which the two nations promised not to fight each other and to divide up land in Eastern Europe.
 
-Nazi-Soviet Pact was a mutually beneficial agreement.
+[[Nazi Germany|Nazi]]-Soviet Pact was a mutually beneficial agreement.
 
 ## Lesson 2 – Axis Powers Advance- pg-462
 
@@ -81,7 +81,7 @@ Erwin Rommel most likely killed himself to avoid torture.
 The Lend-Lease Act let the U.S. to protect any country it deemed beneficial.
 
 #### 16	:	Atlantic Charter
->agreement in which [[Franklin Delano Roosevelt]] and Winston Churchill set goals for the defeat of Nazi Germany and for the postwar world
+>agreement in which [[Franklin Delano Roosevelt]] and Winston Churchill set goals for the defeat of [[Nazi Germany]] and for the postwar world
 
 Atlantic Charter was the plan after the war.
 >

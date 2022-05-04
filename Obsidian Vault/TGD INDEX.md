@@ -48,7 +48,7 @@ In **present day**, over 37 million people come each year to party.
 ### What entertainment event lifted America's spirit during these troubling times? What was the name of America's hero in this event?
 The Heavy Weight Championship, where American hero, [[Joe Louis]], was put up against what was seen as America's opponent - German fighter, [[Max Schmelling]].
 ### After all that has happened, what coming world controversy was responsible for giving America the final push out of the great Depression?
-[[Joe Louis]] loses the fight to [[Max Schmelling]]. This was inspiration for Germany, and was a publicity dream for the Nazis. [[Adolf Hitler]] says 'their mistake was freeing their slaves'. A rematch is arranged. In Germany, Nazis expand their power. [[Joe Louis]] had a lot of Weight on his Shoulders. For the first time in America's history, it was symbolically represented by a black man.
+[[Joe Louis]] loses the fight to [[Max Schmelling]]. This was inspiration for Germany, and was a publicity dream for the [[Nazi Germany|Nazis]]. [[Adolf Hitler]] says 'their mistake was freeing their slaves'. A rematch is arranged. In Germany, [[Nazi Germany|Nazis]] expand their power. [[Joe Louis]] had a lot of Weight on his Shoulders. For the first time in America's history, it was symbolically represented by a black man.
 
 75 thousand people watch the fight live, 7 million people tune in via radio, 100 million people tune in via tv. The fight is a battle of ideologies, it was representing a lot more. [[Max Schmelling]] represented everything America disliked.
 
