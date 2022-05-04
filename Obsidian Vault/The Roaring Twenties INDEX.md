@@ -101,7 +101,7 @@ More and more Americans are mortgaging tomorrow for what they want today. People
 ### [37] What happened to the American farmer during this period in America?
 The American farmer is suffering, In prep for the sudden war, farmers borrowed money and taken out mortgages to buy marginal land, but now that the war is ended (Quicker then expected), there is no longer a demand for all the food that can be raised. Farms are being foreclosed, the president says that 'the farmers never had made money anyhow'.
 ### [38] What was happening in the German economy?
-Germany's economy had a runaway inflation, and it's currency was being used as wallpaper, and to ingite (burn) stoves.
+Germany's economy had a runaway inflation, and it's currency was being used as wallpaper, and to ingite (burn) stoves. This was called [[Hyperinflation]]
 ### [39] What controversial dictator in our world's history rose to power in response to Germany's failing economy?
 [[Adolf Hitler]]
 ### [40] What were the key issues in the United states during the year 1928?
