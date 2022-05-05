@@ -16,7 +16,7 @@ tags: Religion Index
 
 The rise of nationalism caused people to identify Jews as outsiders. [[Adolf Hitler|Hitler]] identified a Jew as anyone with at least one Jewish parent, he considered them as not one as members of a religion but as a separate race.
 ### How did the Nazi Party maintain it's control of Germany?
-In short, lots of Propaganda. [[Adolf Hitler|Hitler]] organized an efficient and brutal system of terror, repression and totalitarian rule. [[TGD INDEX|The Great Depression]] only helped fuel the bonfire, an gave people another reason to join the [[Nazi Party]] as unemployment rates started flatting on the '*y axis*'. 
+In short, lots of [[Propaganda]]. [[Adolf Hitler|Hitler]] organized an efficient and brutal system of terror, repression and totalitarian rule. [[TGD INDEX|The Great Depression]] only helped fuel the bonfire, an gave people another reason to join the [[Nazi Party]] as unemployment rates started flatting on the '*y axis*'. Hitler made Jobs avaliable - this gave people who took them pride (as much propaganda shamed men who didn't have jobs). The jobs that Hiter gave were jobs that helped build the country, brought business, brought labor, and maintained capital (all under control off the government). 
 
 [[Adolf Hitler|Hitler]]'s ideology gave veterans, workers, lower-middle class, average folk, and business men a [[Scapegoat]] , aka someone to blame for their problems, and supported them by promising to end reparations, create jobs, and defy the [[Versailles Treaty]] by Rearming Germany. 
 
