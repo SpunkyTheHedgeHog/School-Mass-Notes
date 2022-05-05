@@ -21,8 +21,12 @@ In short, lots of [[Propaganda]]. [[Adolf Hitler|Hitler]] organized an efficient
 [[Adolf Hitler|Hitler]]'s ideology gave veterans, workers, lower-middle class, average folk, and business men a [[Scapegoat]] , aka someone to blame for their problems, and supported them by promising to end reparations, create jobs, and defy the [[Versailles Treaty]] by Rearming Germany. 
 
 [[The Weimar Republic]]'s nation was divided and was *being held together by scotch tape*. It looked for someone who could deal with the [[Nazi Germany|Nazis]] and [[Communism|Communists]], and while it was a good option by no means, [[Adolf Hitler]] was the option they picked, and they appointed him [[Chancellor]] in **1933**. While [[Adolf Hitler|Hitler]] gained rule by legal means, he ruled as a dictator, killing anyone and everyone he deemed as disloyal. He quickly minimized small political parties, and eradicated/eliminated his rival party, the [[Communism|Communists]].
+
+[[Adolf Hitler]] caused further caused fear in citizens by publicaly killing them in unjust and cruel ways.
 ### How did World War 1 impact the growth of authoritarain states in Eastern Europe?
 PG 442, A Totalitarian State Emerges
+
+Like Germany, most new nations in went from democratic to Authorian rule in the postwar era. Although they did have their diffrences, none of them had enough money to develop their Industry.
 
 
 ## Vocabulary
