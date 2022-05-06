@@ -31,6 +31,8 @@ PG 442, A [[Totalitarian]] State Emerges
 Like Germany, most new nations in went from [[Democracy|Democratic]] to [[Authoritarian]] rule in the postwar era. Although they did have their differences, none of them had enough money to develop their Industry, in addition, none of them wanted to help each other develop either due to ethnic rivalries left over from [[WW1 INDEX|WW1]].
 
 This led to each country attempting to be independent of it's neighbors, and severe tension. In Czechoslovakia, Czechs and Slovaks became unwilling partners and some German people showed interest in joining the [[Nazi Party]].
+### ==Analyze Politcal Cartoons== British cartoonist David Low was known for speaking out against the policy of appeasement. How does this cartoon reflect him message?
+![[NaziComic.png]]
 
 
 ## Vocabulary
