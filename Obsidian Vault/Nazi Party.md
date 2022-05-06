@@ -4,4 +4,4 @@ aliases:
 # Nazi Party
 >[[Nazi Germany]]
 
-National Socialist German Workers
+[[Nationalism|National]] [[Socialism|Socialist]] German Workers

@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0c333dc7eb69fa17",
+        "id": "fc8124544ae761f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Nazi Germany.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"tags:\"",
+                "query": "tag:#WW1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,17 +146,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "0c333dc7eb69fa17",
+  "active": "fc8124544ae761f7",
   "lastOpenFiles": [
     "Nazi Germany.md",
-    "Adolf Hitler.md",
-    "The Weimar Republic.md",
-    "Versailles Treaty.md",
     "Scapegoat.md",
+    "Adolf Hitler.md",
+    "Anti-Semitism.md",
+    "The Roaring Twenties INDEX.md",
+    "WW1 INDEX.md",
+    "Authoritarian.md",
     "Nazi Party.md",
-    "TGD The Start of WW2.md",
-    "Feminism.md",
-    "Chancellor.md",
-    "Ruhr Valley.md"
+    "Socialism.md",
+    "Nationalism.md"
   ]
 }

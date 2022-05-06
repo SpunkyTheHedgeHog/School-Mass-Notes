@@ -3,4 +3,4 @@ aliases:
 ---
 # Propaganda
 
-Using the media to influnce.
+Using the media to influence.

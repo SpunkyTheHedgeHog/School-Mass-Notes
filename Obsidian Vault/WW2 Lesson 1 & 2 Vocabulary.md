@@ -26,7 +26,7 @@ Neutrality Acts can be used to reduce tension between countries.
 The Axis Powers were teamed up to protect each other; stronger as a team.
 
 #### 05	:	Francisco Franco
->Francisco Franco (1892–1975) was a Spanish military leader who came to power during the Spanish Civil War. He was dictator of Spain from 1939 to 1973, when he left his position as premier. He continued to be head of state until his death in 1975.
+>Francisco Franco (1892–1975) was a Spanish military leader who came to power during the Spanish Civil War. He was [[dictator]] of Spain from 1939 to 1973, when he left his position as premier. He continued to be head of state until his death in 1975.
 
 Even after he left his position, Francisco Franco still had plenty of power.
 
@@ -71,7 +71,7 @@ Dunkirk was a backup option.
 Vichy was not under its own government's control.
 
 #### 14	:	Erwin Rommel
->Erwin Rommel (1891–1944) was a career military officer and one of Hitler’s most successful generals. He took his own life after a failed attempt to assassinate Hitler.
+>Erwin Rommel (1891–1944) was a career military officer and one of [[Adolf Hitler|Hitler]]’s most successful generals. He took his own life after a failed attempt to assassinate [[Adolf Hitler|Hitler]].
 
 Erwin Rommel most likely killed himself to avoid torture.
 
