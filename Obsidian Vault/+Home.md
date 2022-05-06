@@ -6,5 +6,3 @@ aliases:
 > [[The Roaring Twenties INDEX|Roaring Twenties]]
 > [[TGD INDEX|The Great Depression]]
 > [[Nazi Germany]]
-
->[[DWP]]
