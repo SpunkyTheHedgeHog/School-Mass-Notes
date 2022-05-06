@@ -24,53 +24,19 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        // // add prefix to hash to avoid scrolling
-                        // if (0 == 0){
-                        //         if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
-                        //                 window.location.hash = '!' + window.location.hash.substr(1);
-                        //         }
-                        // }
+                        const CURRENT_NODE = 'Franklin Delano Roosevelt';
                 </script>
         </head>
 
 <body onload="LoadPage();">
-        <div class="flex_col" id="site_column">
-                <div id="header" class="header" style="position:fixed">
+        <div class="flex_col">
+                <div id="header" class="header">
                         <div id="header_flex" class="flex_row">
-                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
-                                <div class="navbar-button" onclick="toggle('navbar', 'flex');toggle('navbar2', 'flex')">
-                                        ≡
-                                </div>
-                                <div id="navbar" class="navbar">
-                                
-                                        <div class="icon-tray">
-                                                
-                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
-                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" class="system-link" title="Open tag view">
-                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="Tags view"/>
-                                                        </a>
-                                                </div>
-                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
-            <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
-                    <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
-            </a>
-        </div>
-                                                        <div class="graph_header_div">
-            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=Franklin Delano Roosevelt" title="Open fullpage Graph">
-                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
-            </a>
-        </div>
-                                        </div>                                
-                                </div>
-                        </div>
-                </div>
-                <div id="header2" class="header">
-                        <div id="header_flex2" class="flex_row">
                                 <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
                                 <div class="navbar-button" onclick="toggle('navbar', 'flex')">
                                         ≡
                                 </div>
-                                <div id="navbar2" class="navbar">
+                                <div id="navbar" class="navbar">
                                 
                                         <div class="icon-tray">
                                                 
@@ -92,11 +58,10 @@
                                         </div>                                
                                 </div>
                         </div>
-                </div>                
-                <div class="flex_row" id="container_row">
-                        <div class="container-wrapper ">
-                                <div class="container">
-                                <h1 id="franklin-delano-roosevelt">Franklin Delano Roosevelt</h1>
+                </div>
+                <div class="flex_row">
+                        <div class="container">
+                                        <h1 id="franklin-delano-roosevelt">Franklin Delano Roosevelt</h1>
 <p><a href="/School-Mass-Notes/Export HTML/Franklin Delano Roosevelt.html">Franklin Delano Roosevelt</a> (<strong>1882–1945</strong>) was the longest serving American president, elected to the office four times. Roosevelt was born into a wealthy family in New York and was a distant cousin of the early president <a href="/School-Mass-Notes/Export HTML/Theodore Roosevelt.html">Theodore Roosevelt</a>. Elected in <strong>1932</strong>, his first term as president focused on lifting America out of the <a href="/School-Mass-Notes/Export HTML/TGD INDEX.html">The Great Depression</a>. He successfully passed legislation, crafting a massive package of economic and social programs, called the <a href="/School-Mass-Notes/Export HTML/New Deal.html">New Deal</a>. During his third term, <a href="/School-Mass-Notes/Export HTML/Franklin Delano Roosevelt.html">Roosevelt</a> inspired many through his strong leadership during the Japanese attack on Pearl Harbor and America's subsequent entry into World War II. He was elected to a fourth term in <strong>1944</strong>, but his health deteriorated as the war came to an end. <a href="/School-Mass-Notes/Export HTML/Franklin Delano Roosevelt.html">Roosevelt</a> died in April <strong>1945</strong>.</p><h2>Backlinks</h2>
 <ul>
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/New Deal.html">New Deal</a></li>
@@ -167,12 +132,13 @@
 </script>
 
 
-                                <!-- end content -->
-                                </div>
+                        <!-- end content -->
                         </div>
+                        <div id="right_pane"></div>
                 </div>
         </div>
 
-        <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
+<script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
+
 </body>
 </html>

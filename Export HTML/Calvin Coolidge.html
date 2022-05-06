@@ -24,53 +24,19 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        // // add prefix to hash to avoid scrolling
-                        // if (0 == 0){
-                        //         if (window.location.hash != '' && window.location.hash.substr(1)[0] != '!'){
-                        //                 window.location.hash = '!' + window.location.hash.substr(1);
-                        //         }
-                        // }
+                        const CURRENT_NODE = 'Calvin Coolidge';
                 </script>
         </head>
 
 <body onload="LoadPage();">
-        <div class="flex_col" id="site_column">
-                <div id="header" class="header" style="position:fixed">
+        <div class="flex_col">
+                <div id="header" class="header">
                         <div id="header_flex" class="flex_row">
-                                <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
-                                <div class="navbar-button" onclick="toggle('navbar', 'flex');toggle('navbar2', 'flex')">
-                                        ≡
-                                </div>
-                                <div id="navbar" class="navbar">
-                                
-                                        <div class="icon-tray">
-                                                
-                                                <div style="width:1.6rem; height:1.6rem; float:right; margin-right:0.2rem">
-                                                        <a href="/School-Mass-Notes/Export HTML/obs.html/tags/index.html" class="system-link" title="Open tag view">
-                                                                <img src = "/School-Mass-Notes/Export HTML/obs.html/static/hashtag.svg" alt="Tags view"/>
-                                                        </a>
-                                                </div>
-                                                        <div style="width: calc(1.6rem - 6px); height: calc(1.6rem - 6px); border: 3px solid #f0f0f0; margin-right:0.2rem; float:right;">
-            <a id="dirtree_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/dir_index.html" title="View directory tree">
-                    <img src = "/School-Mass-Notes/Export HTML/obs.html/static/dirtree.svg" style="width: 14px; padding: 3px;" alt="Directory tree link"/>
-            </a>
-        </div>
-                                                        <div class="graph_header_div">
-            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=Calvin Coolidge" title="Open fullpage Graph">
-                    <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
-            </a>
-        </div>
-                                        </div>                                
-                                </div>
-                        </div>
-                </div>
-                <div id="header2" class="header">
-                        <div id="header_flex2" class="flex_row">
                                 <a href="/School-Mass-Notes/Export HTML/index.html" id="homelink" title="Clear screen and go to homepage">Obsidian-Html/Notes</a>
                                 <div class="navbar-button" onclick="toggle('navbar', 'flex')">
                                         ≡
                                 </div>
-                                <div id="navbar2" class="navbar">
+                                <div id="navbar" class="navbar">
                                 
                                         <div class="icon-tray">
                                                 
@@ -92,11 +58,10 @@
                                         </div>                                
                                 </div>
                         </div>
-                </div>                
-                <div class="flex_row" id="container_row">
-                        <div class="container-wrapper ">
-                                <div class="container">
-                                <h1 id="calvin-coolidge">Calvin Coolidge</h1>
+                </div>
+                <div class="flex_row">
+                        <div class="container">
+                                        <h1 id="calvin-coolidge">Calvin Coolidge</h1>
 <p>Wrote the Boston Police Strike in 1919</p><h2>Backlinks</h2>
 <ul>
 	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/The Roaring Twenties INDEX.html">The Roaring Twenties INDEX</a></li>
@@ -162,12 +127,13 @@
 </script>
 
 
-                                <!-- end content -->
-                                </div>
+                        <!-- end content -->
                         </div>
+                        <div id="right_pane"></div>
                 </div>
         </div>
 
-        <script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
+<script src="/School-Mass-Notes/Export HTML/obs.html/static/obsidian.js" type="text/javascript"></script>
+
 </body>
 </html>
