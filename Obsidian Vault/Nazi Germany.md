@@ -31,7 +31,7 @@ Like Germany, most new nations in went from [[Democracy|Democratic]] to [[Author
 This led to each country attempting to be independent of it's neighbors, and severe tension. In Czechoslovakia, Czechs and Slovaks became unwilling partners and some German people showed interest in joining the [[Nazi Party]].
 ### ==Analyze Politcal Cartoons== British cartoonist David Low was known for speaking out against the policy of appeasement. How does this cartoon reflect him message? `PG 457`
 ![[NaziComic.png]]
-The message that the author of the comic is conveying is that by [[Appeasement|appeasing]] to [[Adolf Hitler]]'s demands, the Western Democracies were letting the [[Nazi Party]] quote on quote, "Walk all over them". The text over the people "Spineless Leaders of Democracy", goes to show that the author disaproves of the lack of action of the leaders.
+The message that the author of the comic is conveying is that by [[Appeasement|appeasing]] to [[Adolf Hitler]]'s demands, the Western Democracies were letting the [[Nazi Party]] quote on quote, "Walk all over them". The text over the people, "Spineless Leaders of Democracy", goes to show that the author disaproves of the lack of action of the leaders.
 
 The pose of the man Nazi Man (I can't tell if it is [[Adolf Hitler]]) is taunting, and shows that 'walking up the steps' is an ease, further reflecting the author's message.
 ### ==Recall== Describe the early acts of aggression of Germany, Italy, and Japan. `PG 458
