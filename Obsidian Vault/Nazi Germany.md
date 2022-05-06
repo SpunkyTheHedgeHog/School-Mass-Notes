@@ -25,7 +25,7 @@ In short, lots of appealing to the People and [[Propaganda]]. [[Adolf Hitler|Hit
 [[The Weimar Republic]]'s nation was divided and was *being held together by scotch tape*. It looked for someone who could deal with the [[Nazi Germany|Nazis]] and [[Communism|Communists]], and while it was a good option by no means, [[Adolf Hitler]] was the option they picked, and they appointed him [[Chancellor]] in **1933**. While [[Adolf Hitler|Hitler]] gained rule by legal means, he ruled as a [[Dictator]], killing anyone and everyone he deemed as disloyal. He quickly minimized small political parties, and eradicated/eliminated his rival party, the [[Communism|Communists]].
 
 [[Adolf Hitler]] caused further fear in citizens by publicly killing them in unjust and cruel ways. One of the "*calmer*" of the methods was that the police would bring the person outside their home, shoot them, and leave their body on the street. This acted as a method of intimidation, and ensued terror.
-### How did World War 1 impact the growth of authoritarian states in Eastern Europe?
+### ==Identify Central Issues== How did World War 1 impact the growth of authoritarian states in Eastern Europe?
 PG 442, A [[Totalitarian]] State Emerges
 
 Like Germany, most new nations in went from [[Democracy|Democratic]] to [[Authoritarian]] rule in the postwar era. Although they did have their differences, none of them had enough money to develop their Industry, in addition, none of them wanted to help each other develop either due to ethnic rivalries left over from [[WW1 INDEX|WW1]].
@@ -33,7 +33,12 @@ Like Germany, most new nations in went from [[Democracy|Democratic]] to [[Author
 This led to each country attempting to be independent of it's neighbors, and severe tension. In Czechoslovakia, Czechs and Slovaks became unwilling partners and some German people showed interest in joining the [[Nazi Party]].
 ### ==Analyze Politcal Cartoons== British cartoonist David Low was known for speaking out against the policy of appeasement. How does this cartoon reflect him message?
 ![[NaziComic.png]]
+The message that the author of the comic is conveying is that by [[Appeasement|appeasing]] to [[Adolf Hitler]]'s demands, the Western Democracies were letting the [[Nazi Party]] quote on quote, "Walk all over them". The text over the people "Spineless Leaders of Democracy", goes to show that the author disaproves of the lack of action of the leaders.
 
+The pose of the man Nazi Man (I can't tell if it is [[Adolf Hitler]]) is taunting, and shows that 'walking up the steps' is an ease, further reflecting the author's message.
+### ==Recall== Describe the early acts of aggression of Germany, Italy, and Japan.
+
+### Explain how other countries got involved in the Spanish Civil War.
 
 ## Vocabulary
 >[[Chancellor]]
@@ -43,6 +48,8 @@ This led to each country attempting to be independent of it's neighbors, and sev
 >[[Third Reich]]
 >[[Gestapo]]
 >[[Nuremberg Laws]]
+
+> [[Appeasement]]
 
 >[[Anti-Semitism]]
 >[[Scapegoat]]
