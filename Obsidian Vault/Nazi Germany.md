@@ -12,13 +12,13 @@ tags: Religion Index
 ### ==Support Ideas With Examples== Describe the problems of the Weimar Republic. `PG 440`
 ![[The Weimar Republic#Problems with the Weimar Republic]]
 ### Describe the Ideology of Hitler and the Nazi Party. `PG 441`
-[[Adolf Hitler]] wrote a book while in prison due to failed attempt to seize power about his obsessions of racism, extreme [[nationalism]], and [[anti-Semitism]]. [[Adolf Hitler|Hitler]] believed that Germans belonged to a superior "master race" or Aryans, of light-skinned Europeans, whose greatest enemies were Jews.
+[[Adolf Hitler]] wrote a book while in prison due to failed attempt to seize power about his obsessions of racism, extreme [[Nationalism]], and [[Anti-Semitism]]. [[Adolf Hitler|Hitler]] believed that Germans belonged to a superior "master race" or Aryans, of light-skinned Europeans, whose greatest enemies were Jews.
 
 The rise of [[Nationalism]] caused people to identify Jews as outsiders. [[Adolf Hitler|Hitler]] identified a Jew as anyone with at least one Jewish parent, he considered them as not one as members of a religion but as a separate race.
 ### How did the Nazi Party maintain it's control of Germany?
-In short, lots of appealing to the People and [[Propaganda]]. [[Adolf Hitler|Hitler]] organized an efficient and brutal system of terror, repression and [[totalitarian]] rule. 
+In short, lots of appealing to the People and [[Propaganda]]. [[Adolf Hitler|Hitler]] organized an efficient and brutal system of terror, repression and [[Totalitarian]] rule. 
 
-[[TGD INDEX|The Great Depression]] only helped fuel the bonfire, and gave people another reason to join the [[Nazi Party]] as unemployment rates started flatting on the '*y axis*'. [[Adolf Hitler|Hitler]] made Jobs available - this gave people pride (*[[propaganda]] shamed men who didn't have jobs*). The jobs that [[Adolf Hitler|Hitler]] gave were jobs that helped build the country, brought business, brought labor, and maintained capital (all under control off the government). 
+[[TGD INDEX|The Great Depression]] only helped fuel the bonfire, and gave people another reason to join the [[Nazi Party]] as unemployment rates started flatting on the '*y axis*'. [[Adolf Hitler|Hitler]] made Jobs available - this gave people pride (*[[Propaganda]] shamed men who didn't have jobs*). The jobs that [[Adolf Hitler|Hitler]] gave were jobs that helped build the country, brought business, brought labor, and maintained capital (all under control off the government). 
 
 [[Adolf Hitler|Hitler]]'s ideology gave veterans, workers, lower-middle class, average folk, and business men a [[Scapegoat]], aka someone to blame for their problems, and supported them by promising to end reparations, create jobs, and defy the [[Versailles Treaty]] by Rearming Germany. 
 
