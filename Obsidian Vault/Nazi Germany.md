@@ -10,7 +10,7 @@ tags: Religion Index
 ### ==Compare Points Of View== Describe the similarities between fascism and communism. `PG 430`
 ![[Fascism#Fascism vs Communism]]
 ### ==Support Ideas With Examples== Describe the problems of the Weimar Republic. `PG 440`
-![[The Weimar Republic#The Weimar Republic]]
+![[The Weimar Republic#Problems with the Weimar Republic]]
 ### Describe the Ideology of Hitler and the Nazi Party. `PG 441`
 [[Adolf Hitler]] wrote a book while in prison due to failed attempt to seize power about his obsessions of racism, extreme [[nationalism]], and [[anti-Semitism]]. [[Adolf Hitler|Hitler]] believed that Germans belonged to a superior "master race" or Aryans, of light-skinned Europeans, whose greatest enemies were Jews.
 

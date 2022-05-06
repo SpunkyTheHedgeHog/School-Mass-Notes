@@ -9,6 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "DWP.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "182211ca3f9b288e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Nazi Germany.md",
             "mode": "source",
             "backlinks": false,
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nazi Germany.md"
+                "file": "DWP.md"
               }
             }
           },
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nazi Germany.md",
+                "file": "DWP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nazi Germany.md",
+                "file": "DWP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +161,15 @@
   },
   "active": "fc8124544ae761f7",
   "lastOpenFiles": [
+    "DWP.md",
     "Nazi Germany.md",
+    "The Weimar Republic.md",
+    "TGD INDEX.md",
+    "+Home.md",
     "Scapegoat.md",
     "Adolf Hitler.md",
     "Anti-Semitism.md",
     "The Roaring Twenties INDEX.md",
-    "WW1 INDEX.md",
-    "Authoritarian.md",
-    "Nazi Party.md",
-    "Socialism.md",
-    "Nationalism.md"
+    "WW1 INDEX.md"
   ]
 }
