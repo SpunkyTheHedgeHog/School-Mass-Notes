@@ -34,9 +34,15 @@ This led to each country attempting to be independent of it's neighbors, and sev
 The message that the author of the comic is conveying is that by [[Appeasement|appeasing]] to [[Adolf Hitler]]'s demands, the Western Democracies were letting the [[Nazi Party]] quote on quote, "Walk all over them". The text over the people, "Spineless Leaders of Democracy", goes to show that the author disaproves of the lack of action of the leaders.
 
 The pose of the man Nazi Man (I can't tell if it is [[Adolf Hitler]]) is taunting, and shows that 'walking up the steps' is an ease, further reflecting the author's message.
-### ==Recall== Describe the early acts of aggression of Germany, Italy, and Japan. `PG 458
+### ==Recall== Describe the early acts of aggression of Germany, Italy, and Japan. `PG 458 : Lesson 7.1`
 
 ### ==Recall== Explain how other countries got involved in the Spanish Civil War. `PG 459`
+
+### ==Check Understanding== How did Hitler Justify taking over Austria and the Sudetenland? `PG 461`
+
+### ==Identify Central Ideas== Why did Britain and France end their policy of appeasement? `PG 461`
+
+## ==Analyze Maps== In viewing the map on `page 463`, How did Germany violate the Treaty of Versailles?
 
 ## Vocabulary
 >[[Chancellor]]
