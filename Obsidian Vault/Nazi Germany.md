@@ -40,10 +40,11 @@ Japan's military leaders and [[Ultranationalists]] wanted to achieve the level o
 ### ==Recall== Explain how other countries got involved in the Spanish Civil War. `PG 459`
 The Spanish Ware featured two sides, The Nationalists, and the Loyalists. Depending on if you supported [[Adolf Hitler|Hitler]], and/or supported [[Communism]], you were persuaded to pick for what side you felt was right. This got entire countries wrapped up in the War.
 ### ==Check Understanding== How did Hitler Justify taking over Austria and the Sudetenland? `PG 461`
-
+[[Adolf Hitelr]] justified his actions of taking over Austria and the Sudetenland by saying that it was his "right" to "remove millions of an inferior race". He was also was compelled to take over these areas beacuse he could use the natural reasources to strengthen the Nazi Army, in addition to selling goods to make a profit.  
 ### ==Identify Central Ideas== Why did Britain and France end their policy of appeasement? `PG 461`
-
+The goal of the policy was to avoid war and conflict with Germany, however, after Britian and France decided that Germany was contuining to create complications, they decided that their strategy wansn't working. 
 ### ==Analyze Maps== In viewing the map on `page 463`, How did Germany violate the Treaty of Versailles?
+The map shows that Germany expandedd their territory into the prevoiusly unmilitarized area. This violated the Treaty of Verailles. Now owning this area, Germany is closer to France and Belgium
 
 ## Vocabulary
 >[[Chancellor]]
