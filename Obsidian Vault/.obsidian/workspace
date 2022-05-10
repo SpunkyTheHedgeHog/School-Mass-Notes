@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "Nazi Germany.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "Nazi Germany.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "Nazi Germany.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "Nazi Germany.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +148,15 @@
   },
   "active": "fc8124544ae761f7",
   "lastOpenFiles": [
+    "Nazi Germany.md",
+    "Versailles Treaty.md",
+    "Imperialism.md",
+    "Mussolini.md",
+    "Ultranationalists.md",
     "+Home.md",
     "TGD INDEX.md",
     "DWP.md",
-    "Nazi Germany.md",
     "The Weimar Republic.md",
-    "Scapegoat.md",
-    "Adolf Hitler.md",
-    "Anti-Semitism.md",
-    "The Roaring Twenties INDEX.md",
-    "WW1 INDEX.md"
+    "Scapegoat.md"
   ]
 }

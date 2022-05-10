@@ -31,18 +31,19 @@ Like Germany, most new nations in went from [[Democracy|Democratic]] to [[Author
 This led to each country attempting to be independent of it's neighbors, and severe tension. In Czechoslovakia, Czechs and Slovaks became unwilling partners and some German people showed interest in joining the [[Nazi Party]].
 ### ==Analyze Politcal Cartoons== British cartoonist David Low was known for speaking out against the policy of appeasement. How does this cartoon reflect him message? `PG 457`
 ![[NaziComic.png]]
-The message that the author of the comic is conveying is that by [[Appeasement|appeasing]] to [[Adolf Hitler]]'s demands, the Western Democracies were letting the [[Nazi Party]] quote on quote, "Walk all over them". The text over the people, "Spineless Leaders of Democracy", goes to show that the author disaproves of the lack of action of the leaders.
+The message that the author of the comic is conveying is that by [[Appeasement|appeasing]] to [[Adolf Hitler]]'s demands, the Western Democracies were letting the [[Nazi Party]] quote on quote, "Walk all over them". The text over the people, "Spineless Leaders of Democracy", goes to show that the author disapproves of the lack of action of the leaders.
 
 The pose of the man Nazi Man (I can't tell if it is [[Adolf Hitler]]) is taunting, and shows that 'walking up the steps' is an ease, further reflecting the author's message.
 ### ==Recall== Describe the early acts of aggression of Germany, Italy, and Japan. `PG 458 : Lesson 7.1`
-
+Japan's military leaders and [[Ultranationalists]] wanted to achieve the level of power that of Western states had, and in means of acquiring that power, Japan overran the Chinese province of Manchuria in **1931**. 4 years later, [[Mussolini]] commanded Italy to invade Ethiopia (Located in northeastern Africa), and with use of poison gas, airplanes, machine guns, and tanks, Mussolini was successful in his [[Imperialism|Imperialist]] ambitions (**1936**). Back in Germany, [[Adolf Hitler|Hitler]] violates the [[Versailles Treaty]], and builds up Germany's military , in addition to stationing soldiers in the demilitarized Rhineland bordering France.
+#Inquiry `When the Axis Powers form, was the public and other Goverments made aware, or was it done in secret?`
 ### ==Recall== Explain how other countries got involved in the Spanish Civil War. `PG 459`
-
+The Spanish Ware featured two sides, The Nationalists, and the Loyalists. Depending on if you supported [[Adolf Hitler|Hitler]], and/or supported [[Communism]], you were persuaded to pick for what side you felt was right. This got entire countries wrapped up in the War.
 ### ==Check Understanding== How did Hitler Justify taking over Austria and the Sudetenland? `PG 461`
 
 ### ==Identify Central Ideas== Why did Britain and France end their policy of appeasement? `PG 461`
 
-## ==Analyze Maps== In viewing the map on `page 463`, How did Germany violate the Treaty of Versailles?
+### ==Analyze Maps== In viewing the map on `page 463`, How did Germany violate the Treaty of Versailles?
 
 ## Vocabulary
 >[[Chancellor]]

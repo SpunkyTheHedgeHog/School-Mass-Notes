@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Imperialist
 tags: Vocabulary 
 ---
 # Imperialism

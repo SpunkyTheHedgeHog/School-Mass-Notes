@@ -5,7 +5,7 @@
         <head>
                 <!-- Page information -->
                 <meta charset="UTF-8" />
-                <meta name="node_id" content="none">
+                <meta name="node_id" content="Ultranationalists">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <link rel="shortcut icon" href="/favicon.ico" />
 
@@ -20,11 +20,11 @@
 <link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/callouts.css" />
 <link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/graph.css" />
 <script src="/School-Mass-Notes/Export HTML/obs.html/static/dirtree.js" /></script>
-<link rel="stylesheet" href="/School-Mass-Notes/Export HTML/obs.html/static/taglist.css" />
+
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'tagspage';
+                        const CURRENT_NODE = 'Ultranationalists';
                 </script>
         </head>
 
@@ -51,7 +51,7 @@
             </a>
         </div>
                                                         <div class="graph_header_div">
-            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=tagspage" title="Open fullpage Graph">
+            <a id="graph_link" class="system-link" href="/School-Mass-Notes/Export HTML/obs.html/graph/index.html?node=Ultranationalists" title="Open fullpage Graph">
                     <img class="graph_header_div_svg" src = "/School-Mass-Notes/Export HTML/obs.html/static/graph.svg" alt="Open fullpage Graph"/>
             </a>
         </div>
@@ -61,27 +61,71 @@
                 </div>
                 <div class="flex_row">
                         <div class="container">
-                                        <h1 id="notes">Notes</h1>
+                                        <h1 id="ultranationalists">Ultranationalists</h1><h2>Backlinks</h2>
 <ul>
-<li><a href="/School-Mass-Notes/Export HTML/No Man's Land.html">No Man's Land</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Industrial Revolution.html">Industrial Revolution</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Militarism.html">Militarism</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Hyperinflation.html">Hyperinflation</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Ruhr Valley.html">Ruhr Valley</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Chancellor.html">Chancellor</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Third Reich.html">Third Reich</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Scapegoat.html">Scapegoat</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Versailles Treaty.html">Versailles Treaty</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Imperialism.html">Imperialism</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Gestapo.html">Gestapo</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Nuremberg Laws.html">Nuremberg Laws</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Entente.html">Entente</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Alsace and Lorraine.html">Alsace and Lorraine</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Ultimatum.html">Ultimatum</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Mobilize.html">Mobilize</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/Neutrality.html">Neutrality</a></li>
-<li><a href="/School-Mass-Notes/Export HTML/WW2 Lesson 1 &amp; 2 Vocabulary.html">WW2 Lesson 1 &amp; 2 Vocabulary</a></li>
+	<li><a class="backlink" href="/School-Mass-Notes/Export HTML/Nazi Germany.html">Nazi Germany</a></li>
 </ul>
+<!-- <div class="graph">
+    <svg class="graph_svg" id="A97371064273986541924670740712103591957{level}"></svg>
+    <button class="graph_button" id="B97371064273986541924670740712103591957{level}" level="{level}" onclick="run('97371064273986541924670740712103591957'+this.level, 'Ultranationalists');">Show Graph</button>
+</div>
+<script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
+
+ -->
+ <script src="/School-Mass-Notes/Export HTML/obs.html/static/graph.js" type="text/javascript"></script>
+
+<div class="graph">
+    <div id="A97371064273986541924670740712103591957{level}" class="graph_div"></div>
+    <button class="graph_button" id="B97371064273986541924670740712103591957{level}" level="{level}" onclick="run('97371064273986541924670740712103591957'+this.level, 'Ultranationalists');">Show Graph</button>
+</div>
+
+
+<script src="//unpkg.com/3d-force-graph"></script>
+<script>
+    function grapher(args) {
+        window.Graph = ForceGraph3D()
+            (args.graph_container)
+            .jsonUrl(args.data)
+            .width(args.width)
+            .height(args.height)
+            .nodeLabel('id')
+            .linkDirectionalParticles("value")
+            .linkDirectionalParticleSpeed(0.010)
+            .linkDirectionalParticleWidth(2.0)
+            .nodeColor(node => {
+                if (node.id == current_node_id){
+                    return '#ff0000'
+                }
+                let isConnected = false;
+                node.links.forEach(link => {
+                    if (link == current_node_id){
+                        isConnected = true;
+                    }
+                })
+                if (isConnected){
+                    return '#f7be49';
+                }
+                return '#ffffff'
+            })
+            .linkColor(link => {
+                if (link.source == current_node_id || link.target == current_node_id){
+                    return '#ff0000'
+                }
+                return '#dadada'
+            })
+            .linkOpacity(0.3)
+            .onNodeClick(node => {
+                args.node = node;
+                graph_left_click(args)()
+            })
+            .onNodeRightClick(node => {
+                args.node = node;
+                graph_right_click(args)()
+            });
+    }
+</script>
+
+
                         <!-- end content -->
                         </div>
                         <div id="right_pane"></div>
