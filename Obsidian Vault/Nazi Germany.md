@@ -15,10 +15,12 @@ tags: Religion Index
 [[Adolf Hitler]] wrote a book while in prison due to failed attempt to seize power about his obsessions of racism, extreme [[Nationalism]], and [[Anti-Semitism]]. [[Adolf Hitler|Hitler]] believed that Germans belonged to a superior "master race" or Aryans, of light-skinned Europeans, whose greatest enemies were Jews.
 
 The rise of [[Nationalism]] caused people to identify Jews as outsiders. [[Adolf Hitler|Hitler]] identified a Jew as anyone with at least one Jewish parent, he considered them as not one as members of a religion but as a separate race.
+
+He blamed everything on Jewish people, Marxists, and corrupt politicans. (Corrupt politicans did not do good for the people of the country)
 ### How did the Nazi Party maintain it's control of Germany?
 In short, lots of appealing to the People and [[Propaganda]]. [[Adolf Hitler|Hitler]] organized an efficient and brutal system of terror, repression and [[Totalitarian]] rule. 
 
-[[TGD INDEX|The Great Depression]] only helped fuel the bonfire, and gave people another reason to join the [[Nazi Party]] as unemployment rates started flatting on the '*y axis*'. [[Adolf Hitler|Hitler]] made Jobs available - this gave people pride (*[[Propaganda]] shamed men who didn't have jobs*). The jobs that [[Adolf Hitler|Hitler]] gave were jobs that helped build the country, brought business, brought labor, and maintained capital (all under control off the government). 
+[[TGD INDEX|The Great Depression]] only helped fuel the bonfire, and gave people another reason to join the [[Nazi Party]] as unemployment rates started flatting on the '*y axis*'. [[Adolf Hitler|Hitler]] made Jobs available - this gave people pride (*[[Propaganda]] shamed men who didn't have jobs*). The jobs that [[Adolf Hitler|Hitler]] gave were jobs that helped build the country, brought business, brought labor, and maintained capital (all under control off the government); this was called social programs/public work programs. 
 
 [[Adolf Hitler|Hitler]]'s ideology gave veterans, workers, lower-middle class, average folk, and business men a [[Scapegoat]], aka someone to blame for their problems, and supported them by promising to end reparations, create jobs, and defy the [[Versailles Treaty]] by Rearming Germany. 
 
@@ -38,7 +40,7 @@ The pose of the man Nazi Man (I can't tell if it is [[Adolf Hitler]]) is tauntin
 Japan's military leaders and [[Ultranationalists]] wanted to achieve the level of power that of Western states had, and in means of acquiring that power, Japan overran the Chinese province of Manchuria in **1931**. 4 years later, [[Mussolini]] commanded Italy to invade Ethiopia (Located in northeastern Africa), and with use of poison gas, airplanes, machine guns, and tanks, Mussolini was successful in his [[Imperialism|Imperialist]] ambitions (**1936**). Back in Germany, [[Adolf Hitler|Hitler]] violates the [[Versailles Treaty]], and builds up Germany's military , in addition to stationing soldiers in the demilitarized Rhineland bordering France.
 #Inquiry `When the Axis Powers form, was the public and other Goverments made aware, or was it done in secret?`
 ### ==Recall== Explain how other countries got involved in the Spanish Civil War. `PG 459`
-The Spanish Ware featured two sides, The Nationalists, and the Loyalists. Depending on if you supported [[Adolf Hitler|Hitler]], and/or supported [[Communism]], you were persuaded to pick for what side you felt was right. This got entire countries wrapped up in the War.
+The Spanish War featured two sides, The Nationalists, and the Loyalists. Depending on if you supported [[Adolf Hitler|Hitler]]'s ideaologys, or supported [[Communism]], you were persuaded to pick for what side you felt was right. While some counties were staying neutral at the time - Britian, France, and the US - citizens from said counties fought with the Loyalists, and thus got their countires wrapped up. The Soviet Union arraged soldiers to fight Facism alongside the Loyalists aswell. 
 ### ==Check Understanding== How did Hitler Justify taking over Austria and the Sudetenland? `PG 461`
 [[Adolf Hitelr]] justified his actions of taking over Austria and the Sudetenland by saying that it was his "right" to "remove millions of an inferior race". He was also was compelled to take over these areas beacuse he could use the natural reasources to strengthen the Nazi Army, in addition to selling goods to make a profit.  
 ### ==Identify Central Ideas== Why did Britain and France end their policy of appeasement? `PG 461`
