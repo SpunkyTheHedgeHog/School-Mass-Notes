@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -149,6 +149,7 @@
   "active": "fc8124544ae761f7",
   "lastOpenFiles": [
     "Nazi Germany.md",
+    "Adolf Hitler.md",
     "Versailles Treaty.md",
     "Imperialism.md",
     "Mussolini.md",
@@ -156,7 +157,6 @@
     "+Home.md",
     "TGD INDEX.md",
     "DWP.md",
-    "The Weimar Republic.md",
-    "Scapegoat.md"
+    "The Weimar Republic.md"
   ]
 }
