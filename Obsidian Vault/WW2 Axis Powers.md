@@ -11,6 +11,6 @@ The Axis Powers first acted out what was called Operation Sea Lion, a series of 
 
 To surpress any uprising of rebels, German officers and military would often boss around and torture anyone and everyone.
 ### ==IDENTIFY SUPPORTING DETAILS== Why did Hitler nullify the Nazi-Soviet Pact by invading the Soviet Union `PG 466`
-
+[[Adolf Hitler]] voided the [[Nazi-Soviet Pact]], which was to keep peice between the Soviet-Union and Nazi-Germany - dividing up any land that they had conquered. He did so by attempting to take control of Leningrad and it' factories, reasources, and food. The effort was suffered due to the unaccounted for winter, in which many German soldeirs died of the starvation and the -18c tempature. 
 ## ==ANALYZE MAPS== How might this new enemy affect Germany;s war effort in geographical terms? `PG 466`
 ## ==IDENTIFY CENTRAL IDEAS== Why did Japense leaders view the United States as an enemy? `PG 467`

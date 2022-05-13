@@ -1,0 +1,1 @@
+agreement between Germany and the Soviet Union in 1939 in which the two nations promised not to fight each other and to divide up land in Eastern Europe.
