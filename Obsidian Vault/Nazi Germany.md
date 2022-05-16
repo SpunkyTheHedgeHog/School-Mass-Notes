@@ -46,7 +46,7 @@ The Spanish War featured two sides, The Nationalists, and the Loyalists. Dependi
 ### ==Identify Central Ideas== Why did Britain and France end their policy of appeasement? `PG 461`
 The goal of the policy was to avoid war and conflict with Germany, however, after Britain and France decided that Germany was containing to create complications, they decided that their strategy wasn't working. [[Adolf Hitler]] contuined to ingore his promises and took over Czechoslovakia, which was the final straw for Britian and France. 
 ### ==Analyze Maps== In viewing the map on `page 463`, How did Germany violate the Treaty of Versailles?
-The map shows that Germany expanded their territory into the previously unmilitarized area. This violated the Treaty of Versailles. Now owning this area, Germany is closer to France and Belgium. This was [[Adolf Hitler]]'s first time challendging the Versailles Treaty.
+The map shows that Germany expanded their territory and moved their military into the previously unmilitarized area. This violated the Treaty of Versailles. Now owning this area, Germany is closer to France and Belgium. This was [[Adolf Hitler]]'s first time challendging the Versailles Treaty.
 
 ## Vocabulary
 >[[Chancellor]]
