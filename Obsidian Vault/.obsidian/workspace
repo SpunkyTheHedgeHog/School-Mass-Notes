@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fc8124544ae761f7",
+        "id": "28975f6b15b37c06",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nazi Germany.md",
+            "file": "WW2 Axis Powers.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nazi Germany.md"
+                "file": "WW2 Axis Powers.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nazi Germany.md",
+                "file": "WW2 Axis Powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,30 +133,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nazi Germany.md",
+                "file": "WW2 Axis Powers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 373
   },
-  "active": "fc8124544ae761f7",
+  "active": "28975f6b15b37c06",
   "lastOpenFiles": [
+    "WW2 Axis Powers.md",
+    "WW2 INDEX.md",
     "Nazi Germany.md",
-    "Adolf Hitler.md",
-    "Versailles Treaty.md",
-    "Imperialism.md",
-    "Mussolini.md",
-    "Ultranationalists.md",
-    "+Home.md",
+    "Nazi Party.md",
+    "The Roaring Twenties INDEX.md",
     "TGD INDEX.md",
-    "DWP.md",
-    "The Weimar Republic.md"
+    "TGD The Years Following The Crash.md",
+    "Stock Market.md",
+    "Third Reich.md",
+    "TGD The Start of WW2.md"
   ]
 }

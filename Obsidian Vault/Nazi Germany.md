@@ -6,6 +6,8 @@ tags: Religion Index
 >[[WW1 INDEX|WW1]]
 >[[TGD INDEX|The Great Depression]]
 >[[TGD The Start of WW2|The Start of WW2]]
+>
+>[[WW2 Axis Powers]]
 ## Questions, Answers, and Summaries
 ### ==Compare Points Of View== Describe the similarities between fascism and communism. `PG 430`
 ![[Fascism#Fascism vs Communism]]
@@ -44,9 +46,9 @@ The Spanish War featured two sides, The Nationalists, and the Loyalists. Dependi
 ### ==Check Understanding== How did Hitler Justify taking over Austria and the Sudetenland? `PG 461`
 [[Adolf Hitler]] justified his actions of taking over Austria and the Sudetenland by saying that it was his "right" to "remove millions of an inferior race" (and that they were like vermin). He was also was compelled to take over these areas because he could use the natural resources to strengthen the [[Nazi Germany|Nazi]] Army, in addition to selling goods to make a profit. The area of Third Riech would also create a living space for the [[Nazi Party]], 'also also' annexing people of Sudetenland to the Third Riech, prommising the best houses.
 ### ==Identify Central Ideas== Why did Britain and France end their policy of appeasement? `PG 461`
-The goal of the policy was to avoid war and conflict with Germany, however, after Britain and France decided that Germany was containing to create complications, they decided that their strategy wasn't working. [[Adolf Hitler]] contuined to ingore his promises and took over Czechoslovakia, which was the final straw for Britian and France. 
+The goal of the policy was to avoid war and conflict with Germany, however, after Britain and France decided that Germany was containing to create complications, they decided that their strategy wasn't working. [[Adolf Hitler]] contained to ignore his promises and took over Czechoslovakia, which was the final straw for Britain and France. 
 ### ==Analyze Maps== In viewing the map on `page 463`, How did Germany violate the Treaty of Versailles?
-The map shows that Germany expanded their territory and moved their military into the previously unmilitarized area. This violated the Treaty of Versailles. Now owning this area, Germany is closer to France and Belgium. This was [[Adolf Hitler]]'s first time challendging the Versailles Treaty.
+The map shows that Germany expanded their territory and moved their military into the previously unmilitarized area. This violated the Treaty of Versailles. Now owning this area, Germany is closer to France and Belgium. This was [[Adolf Hitler]]'s first time challenging the [[Versailles Treaty]].
 
 ## Vocabulary
 >[[Chancellor]]
