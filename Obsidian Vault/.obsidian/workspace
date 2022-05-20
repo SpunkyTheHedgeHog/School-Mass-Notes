@@ -15,19 +15,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "a59521682d1495b5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "WW2 INDEX.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -162,6 +149,7 @@
   "active": "28975f6b15b37c06",
   "lastOpenFiles": [
     "DWP.md",
+    "+Home.md",
     "WW2 INDEX.md",
     "Third Reich.md",
     "WW2 Axis Powers.md",
@@ -169,7 +157,6 @@
     "Fascism.md",
     "The Weimar Republic.md",
     "Nazi Party.md",
-    "The Roaring Twenties INDEX.md",
-    "TGD INDEX.md"
+    "The Roaring Twenties INDEX.md"
   ]
 }

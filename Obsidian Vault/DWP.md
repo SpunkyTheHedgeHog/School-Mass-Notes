@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Daily Writing Prompts
 tags: INDEX
 ---
 # DWP
