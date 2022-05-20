@@ -2,7 +2,6 @@
 aliases: Axis Powers
 ---
 # Axis Powers
-
 The Axis powers were Italy Germany and Japan.
 
 ## DWP

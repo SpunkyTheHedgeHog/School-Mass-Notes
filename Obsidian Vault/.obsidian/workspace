@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WW2 Axis Powers.md",
+            "file": "DWP.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a59521682d1495b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WW2 INDEX.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WW2 Axis Powers.md"
+                "file": "DWP.md"
               }
             }
           },
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WW2 Axis Powers.md",
+                "file": "DWP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WW2 Axis Powers.md",
+                "file": "DWP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +161,15 @@
   },
   "active": "28975f6b15b37c06",
   "lastOpenFiles": [
-    "WW2 Axis Powers.md",
+    "DWP.md",
     "WW2 INDEX.md",
+    "Third Reich.md",
+    "WW2 Axis Powers.md",
     "Nazi Germany.md",
+    "Fascism.md",
+    "The Weimar Republic.md",
     "Nazi Party.md",
     "The Roaring Twenties INDEX.md",
-    "TGD INDEX.md",
-    "TGD The Years Following The Crash.md",
-    "Stock Market.md",
-    "Third Reich.md",
-    "TGD The Start of WW2.md"
+    "TGD INDEX.md"
   ]
 }

@@ -8,7 +8,7 @@ tags: Religion Index
 >[[TGD The Start of WW2|The Start of WW2]]
 >
 >[[WW2 Axis Powers]]
-## Questions, Answers, and Summaries
+## DWP
 ### ==Compare Points Of View== Describe the similarities between fascism and communism. `PG 430`
 ![[Fascism#Fascism vs Communism]]
 ### ==Support Ideas With Examples== Describe the problems of the Weimar Republic. `PG 440`
