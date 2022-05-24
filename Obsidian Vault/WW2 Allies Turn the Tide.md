@@ -12,4 +12,4 @@ Women assisted where they were allowed, such as ambulance/medical services, and 
 `Progress
 
 ## ==Explain== How did the Allied advance toward Germany limit that country's ability to wager war? `PG 481`
-The Allied forces bombed military bases, factories, railroads, oil, depots, and cities. This disabled the movement of supplys, and prevented the creation of resources. Germany was being bombed 24/7.
+After freeing France, the Allied forces chipped away towards Germany. The Allied forces bombed military bases, factories, railroads, oil, depots, and cities. This disabled the movement of supplys, and prevented the creation of resources. Germany was being bombed 24/7, and it destoryed the moral of it's civilians.
