@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DWP.md",
+            "file": "Chemistry/Artificial Leaf.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DWP.md"
+                "file": "Chemistry/Artificial Leaf.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DWP.md",
+                "file": "Chemistry/Artificial Leaf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DWP.md",
+                "file": "Chemistry/Artificial Leaf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,6 +147,7 @@
   },
   "active": "28975f6b15b37c06",
   "lastOpenFiles": [
+    "Chemistry/Artificial Leaf.md",
     "DWP.md",
     "+Home.md",
     "WW2 INDEX.md",
@@ -156,7 +156,6 @@
     "Nazi Germany.md",
     "Fascism.md",
     "The Weimar Republic.md",
-    "Nazi Party.md",
-    "The Roaring Twenties INDEX.md"
+    "Nazi Party.md"
   ]
 }
