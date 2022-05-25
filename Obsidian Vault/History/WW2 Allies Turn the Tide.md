@@ -8,6 +8,6 @@ They halted most of the normal America manufactuing factories. Shifting from reg
 
 Women assisted where they were allowed, such as ambulance/medical services, and constructing ships and machines alike. 
 ## ==Draw Conclusions== What was the imapct of the Battles of Coral Sea and Midway? `PG 479`
-The Allies were able to use 250 planes to take out multiple aircraft carriers. THis crippled their abilities to launch attacks. This turned the tides.
+The Allies were able to use 250 planes to take out multiple (4) aircraft carriers. This crippled their abilities to launch offensives. Japan lost the ability to fight back.
 ## ==Explain== How did the Allied advance toward Germany limit that country's ability to wager war? `PG 481`
-After freeing France, the Allied forces chipped away towards Germany. The Allied forces bombed military bases, factories, railroads, oil, depots, and cities. This disabled the movement of supplys, and prevented the creation of resources. Germany was being bombed 24/7, and it destoryed the moral of it's civilians.
+After freeing France, the Allied forces chipped away towards Germany. The Allied forces bombed military bases, factories, railroads, oil, depots, and cities. They killed 135,000 people, and enforced round-the-clock bombing. This disabled the movement of supplys, and prevented the creation of resources. Germany was being bombed 24/7, and it destoryed the moral of it's civilians.
