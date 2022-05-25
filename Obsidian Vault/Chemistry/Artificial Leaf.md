@@ -28,7 +28,11 @@ There are different photosensitizers that can be used to substitute for the chlo
 ![[Pasted image 20220524211022.png]]
 **Ruthenium**, as you might infer, is a metal, and while it works, it certainly isn't ideal by any means. A non-metal approach such as **Eosin Y** and **Rose Bengal** can also be used and much more fits the idea of an Artificial Leaf.
 ## Use cases
-While it is quite obvious, the main use case of creating an Artificial leaf to so it can be used as a form of renewable electricity without 
+While it is quite obvious, the main use case of creating an Artificial leaf to so it can be used as a form of renewable electricity without creating the pollution that other engery producers create like coal.
+## How does it compete with other ways of producing energy?
+
+
+
 [^1]:https://www.britannica.com/technology/artificial-leaf
 [^2]:https://www.acs.org/content/acs/en/pressroom/newsreleases/2011/march/debut-of-the-first-practical-artificial-leaf.html
 [^3]:https://www.researchgate.net/publication/51335854_A_Monolithic_Photovoltaic-Photoelectrochemical_Device_for_Hydrogen_Production_Via_Water_Splitting
