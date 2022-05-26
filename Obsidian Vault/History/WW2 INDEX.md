@@ -9,6 +9,9 @@ tags: INDEX
 >[[The Weimar Republic|Weimar Republic]]
 >[[Nazi Germany]]
 >[[WW2 Axis Powers|Axis Powers]]
->[[WW2 Allies Turn the Tide]]
+>[[WW2 Holocaust|Holocaust]]
+>[[WW2 Allies Turn the Tide|Allies Turn the Tide]]
+>[[WW2 Victory for the Allies|Victory for the Allies]]
+>
 >[[Nazi Party]]
 >[[Third Reich]]

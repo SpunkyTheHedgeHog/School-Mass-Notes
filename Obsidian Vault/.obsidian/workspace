@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "28975f6b15b37c06",
+        "id": "29fa68a0a7caab2b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemistry/Artificial Leaf.md",
+            "file": "History/WW2 Allies Turn the Tide.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Artificial Leaf.md"
+                "file": "History/WW2 Allies Turn the Tide.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Artificial Leaf.md",
+                "file": "History/WW2 Allies Turn the Tide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Artificial Leaf.md",
+                "file": "History/WW2 Allies Turn the Tide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,17 +145,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "28975f6b15b37c06",
+  "active": "29fa68a0a7caab2b",
   "lastOpenFiles": [
+    "History/WW2 Allies Turn the Tide.md",
+    "History/WW2 INDEX.md",
+    "History/WW2 Axis Powers.md",
+    "History/WW2 Holocaust.md",
+    "History/WW2 Victory for the Allies.md",
     "Chemistry/Artificial Leaf.md",
     "DWP.md",
     "+Home.md",
     "WW2 INDEX.md",
-    "Third Reich.md",
-    "WW2 Axis Powers.md",
-    "Nazi Germany.md",
-    "Fascism.md",
-    "The Weimar Republic.md",
-    "Nazi Party.md"
+    "Third Reich.md"
   ]
 }
